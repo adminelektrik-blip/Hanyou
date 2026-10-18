@@ -1,12 +1,11 @@
 // >>> SATU-SATUNYA file yang diganti saat pindah akun/proyek Firebase <<<
-// Firebase Console > Project settings (ikon roda gigi) > Your apps > Web app > "SDK setup and configuration" > Config.
-// Tempel nilainya di bawah. (apiKey web Firebase memang publik; keamanan ada di firestore.rules dan storage.rules.)
+// Proyek: hanyou-app (Firebase Console > Project settings > Your apps > Web app).
+// apiKey web Firebase memang publik; keamanan ada di firestore.rules.
 const firebaseConfig = {
-  apiKey: "ISI_DARI_FIREBASE_CONSOLE",
-  authDomain: "ISI-PROJECT-ID.firebaseapp.com",
-  projectId: "ISI-PROJECT-ID",
-  storageBucket: "ISI-PROJECT-ID.firebasestorage.app",
-  messagingSenderId: "ISI",
-  appId: "ISI",
-  measurementId: "ISI_JIKA_ADA"
+  apiKey: "AIzaSyBzBERQHNlROeZzAkLdZC17DtM_Y_vN5zg",
+  authDomain: "hanyou-app.firebaseapp.com",
+  projectId: "hanyou-app",
+  storageBucket: "hanyou-app.firebasestorage.app",
+  messagingSenderId: "306427240704",
+  appId: "1:306427240704:web:f856a8b3b17ad093cf53e5"
 };
