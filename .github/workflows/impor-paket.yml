@@ -1,0 +1,27 @@
+# Sekali pakai: membongkar paket zip yang diunggah ke akar repo (tanpa komputer).
+# Letakkan di repo sebagai .github/workflows/impor-paket.yml, unggah hanyou-v20.zip ke akar repo,
+# lalu: tab Actions → "Impor paket" → Run workflow.
+name: Impor paket
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  impor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bongkar zip ke repo
+        run: |
+          set -e
+          Z=$(ls hanyou-*.zip | head -n1)
+          mkdir _tmp && unzip -q -o "$Z" -d _tmp
+          rm -rf _tmp/.github _tmp/impor-paket.yml   # workflow tidak boleh ditulis oleh token otomatis
+          cp -a _tmp/. .
+          rm -rf _tmp "$Z"
+      - name: Commit
+        run: |
+          git config user.name "impor-paket"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Impor paket Hanyou v20 (struktur modular)" || echo "tidak ada perubahan"
+          git push
