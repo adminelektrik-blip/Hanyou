@@ -1,0 +1,90 @@
+hsk4_14_24#1 | 在教育孩子时，我们应该少批评、多鼓励。 | Zài jiàoyù háizi shí, wǒmen yīnggāi shǎo pīpíng, duō gǔlì. | 在 di · 教育 mendidik · 孩子 anak · 我们 kami · 应该 Seharusnya · 少 sedikit · 批评 mengkritik · 多 banyak
+hsk4_14_25#1 | 不要直接拒绝邀请。 | Bù yào zhíjiē jùjué yāoqǐng. | 不 tidak · 要 mau · 直接 langsung · 拒绝 menolak · 邀请 mengundang
+hsk4_14_25#2 | 但实际上，真正的友谊不会因为你的一次拒绝就受到影响。 | Dàn shíjì shàng, zhēnzhèng de yǒuyì bù huì yīnwèi nǐ de yī cì jùjué jiù shòudào yǐngxiǎng. | 实际 kenyataan · 上 atas · 真正 benar-benar · 友谊 persahabatan · 不 tidak · 会 bisa · 因为 karena · 你 kamu
+hsk4_14_26#1 | 手机减少了人们面对面的交流。 | Shǒujī jiǎnshǎo le rén men miànduì miàn de jiāoliú. | 手机 telepon genggam · 减少 mengurangi · 人 orang · 面对 menghadapi · 交流 Bertukar pikiran
+hsk4_14_26#2 | 今年报名的人数比去年减少了一半儿。 | Jīn nián bàomíng de rén shù bǐ qùnián jiǎnshǎo le yī bàn ér. | 年 tahun · 报名 mendaftar · 人 orang · 数 menghitung · 比 dibandingkan · 去年 tahun lalu · 减少 mengurangi · 一 satu
+hsk4_14_27#1 | 数量词是汉语语法的一部分。 | Shùliàng cí shì hànyǔ yǔfǎ de yī bùfen. | 数量 jumlah · 是 adalah · 汉语 Bahasa Mandarin · 语法 tata bahasa · 一 satu · 部分 bagian
+hsk4_14_27#2 | 这个城市决定增加出租车的数量。 | Zhè gè chéngshì juédìng zēngjiā chūzūchē de shùliàng. | 这 ini · 个 kata satuan umum · 城市 Kota · 决定 Memutuskan · 增加 menambah · 出租车 taksi · 数量 jumlah
+hsk4_14_28#1 | 室内温度比较低。 | Shì nèi wēndù bǐjiào dī. | 内 dalam · 温度 suhu · 比较 Membandingkan · 低 rendah
+hsk4_14_29#1 | 这部电梯最多能乘坐16个人。 | Zhè bù diàntī zuì duō néng chéngzuò16 gèrén. | 这 ini · 电梯 Lift · 最 paling · 多 banyak · 能 bisa · 乘坐 naik · 个人 individu
+hsk4_14_29#2 | 欢迎您再次乘坐我们的航班。 | Huānyíng nín zài cì chéngzuò wǒmen de hángbān. | 欢迎 Selamat datang · 您 Anda · 再 lagi · 次 kali · 乘坐 naik · 我们 kami · 航班 penerbangan terjadwal
+hsk4_14_31#1 | 请把空瓶子扔进垃圾桶。 | Qǐng bǎ kōng píngzi rēng jìn lājītǒng. | 请 silakan · 把 Kata satuan untuk payung · 空 kosong · 瓶子 Botol · 扔 membuang · 进 masuk · 垃圾桶 tempat sampah
+hsk4_14_31#2 | 请把香蕉皮扔垃圾桶里。 | Qǐng bǎ xiāngjiāo pí rēng lājītǒng lǐ. | 请 silakan · 把 Kata satuan untuk payung · 香蕉 Pisang · 扔 membuang · 垃圾桶 tempat sampah · 里 di dalam
+hsk4_14_32#1 | 他出生在一个美丽的小城市。 | Tā chūshēng zài yī gè měilì de xiǎo chéngshì. | 他 dia · 出生 lahir · 在 di · 一 satu · 个 kata satuan umum · 美丽 indah · 小 kecil · 城市 Kota
+hsk4_15_01#1 | 妹妹弹钢琴的声音把爷爷吵醒了。 | Mèimei tán gāngqín de shēngyīn bǎ yéye chǎo xǐng le. | 妹妹 adik perempuan · 弹钢琴 bermain piano · 声音 Suara · 把 Kata satuan untuk payung · 爷爷 Kakek · 吵 berisik · 醒 bangun
+hsk4_15_01#2 | 她很羡慕会弹钢琴的人。 | Tā hěn xiànmù huì tán gāngqín de rén. | 她 dia · 很 sangat · 羡慕 Iri · 会 bisa · 弹钢琴 bermain piano · 人 orang
+hsk4_15_02#1 | 您女儿钢琴弹得真棒！ | Nín nǚ'ér gāng qín tán děi zhēn bàng! | 您 Anda · 女儿 anak perempuan · 真 sungguh · 棒 hebat
+hsk4_15_03#1 | 我孙子是去年秋天出生的。 | Wǒ sūnzi shì qùnián qiūtiān chūshēng de. | 我 saya · 孙子 cucu laki-laki · 是 adalah · 去年 tahun lalu · 秋天 Musim gugur · 出生 lahir
+hsk4_15_05#1 | 他父亲是当地的一位律师。 | Tā fùqīn shì dāngdì de yī wèi lǜ shī. | 他 dia · 父亲 ayah · 是 adalah · 当地 lokal · 一 satu · 位 Kata satuan · 律师 Pengacara
+hsk4_15_05#2 | 父亲讲的笑话非常有趣。 | Fùqīn jiǎng de xiàohua fēicháng yǒuqù. | 父亲 ayah · 讲 Menjelaskan · 笑话 lelucon · 非常 sangat · 有趣 menarik
+hsk4_15_07#1 | 他被外面的响声吵醒了。 | Tā bèi wài miàn de xiǎng shēng chǎo xǐng le. | 他 dia · 被 Digunakan di kalimat pasif · 外 luar · 响 berbunyi · 吵 berisik · 醒 bangun
+hsk4_15_07#2 | 晚上，我刚刚躺下，就响起了敲门声。 | Wǎnshang, wǒ gāng gāng tǎng xià, jiù xiǎng qǐ le qiāo mén shēng. | 晚上 malam · 我 saya · 刚 Baru Saja · 躺 berbaring · 下 bawah · 就 langsung · 响 berbunyi · 起 bangkit
+hsk4_15_08#1 | 妹妹弹钢琴的声音把爷爷吵醒了。 | Mèimei tán gāngqín de shēngyīn bǎ yéye chǎo xǐng le. | 妹妹 adik perempuan · 弹钢琴 bermain piano · 声音 Suara · 把 Kata satuan untuk payung · 爷爷 Kakek · 吵 berisik · 醒 bangun
+hsk4_15_08#2 | 他刚睡醒的样子很可爱。 | Tā gāng shuì xǐng de yàngzi hěn kěài. | 他 dia · 刚 Baru Saja · 醒 bangun · 样子 model · 很 sangat · 可爱 Lucu
+hsk4_15_11#1 | 如果可能，就不要批评别人。 | Rúguǒ kěnéng, jiù bù yào pīpíng biérén. | 如果 jika · 可能 mungkin · 就 langsung · 不 tidak · 要 mau · 批评 mengkritik · 别人 Orang lain
+hsk4_15_11#2 | 在教育孩子时，我们应该少批评、多鼓励。 | Zài jiàoyù háizi shí, wǒmen yīnggāi shǎo pīpíng, duō gǔlì. | 在 di · 教育 mendidik · 孩子 anak · 我们 kami · 应该 Seharusnya · 少 sedikit · 批评 mengkritik · 多 banyak
+hsk4_15_12#1 | 刚整理好的材料又被弄乱了。 | Gāng zhěnglǐ hǎo de cái liào yòu bèi nòng luàn le. | 刚 Baru Saja · 整理 merapikan · 好 baik · 材料 bahan · 又 Dan · 被 Digunakan di kalimat pasif · 弄 melakukan · 乱 kacau
+hsk4_15_12#2 | 别把顺序弄乱了。 | Bié bǎ shùnxù nòng luàn le. | 别 jangan · 把 Kata satuan untuk payung · 顺序 urutan · 弄 melakukan · 乱 kacau
+hsk4_15_13#1 | 孩子从小就要养成管理自己的好习惯。 | Háizi cóng xiǎo jiù yào yǎngchéng guǎnlǐ zìjǐ de hǎo xíguàn. | 孩子 anak · 从 dari · 小 kecil · 就 langsung · 要 mau · 养成 membentuk · 管理 mengelola · 自己 Diri Sendiri
+hsk4_15_14#1 | 邻居家的小弟弟害怕打针。 | Línjū jiā de xiǎo dìdi hàipà dǎ zhēn. | 邻居 Tetangga · 家 rumah · 小 kecil · 弟弟 adik laki-laki · 害怕 Takut · 打针 disuntik
+hsk4_15_14#2 | 打针比吃药效果好。 | Dǎ zhēn bǐ chī yào xiàoguǒ hǎo. | 打针 disuntik · 比 dibandingkan · 吃 makan · 药 obat · 效果 efek · 好 baik
+hsk4_15_15#1 | 我姐姐在医院上班，她是护士。 | Wǒ jiějie zài yīyuàn shàngbān, tā shì hùshi. | 我 saya · 姐姐 kakak perempuan · 在 di · 医院 rumah sakit · 上班 bekerja · 她 dia · 是 adalah · 护士 perawat
+hsk4_15_15#2 | 她是当地儿童医院的护士。 | Tā shì dāngdì értóng yīyuàn de hùshi. | 她 dia · 是 adalah · 当地 lokal · 儿童 anak-anak · 医院 rumah sakit · 护士 perawat
+hsk4_15_16#1 | 怎样表扬孩子才会更有效呢？ | Zěn yàng biǎoyáng háizi cái huì gèng yǒu xiào ne? | 表扬 memuji · 孩子 anak · 会 bisa · 更 Lebih · 有 ada
+hsk4_15_16#2 | 父母要多表扬孩子。 | Fù mǔ yào duō biǎoyáng háizi. | 要 mau · 多 banyak · 表扬 memuji · 孩子 anak
+hsk4_15_18#1 | 别人的怀疑让他很难过。 | Biérén de huáiyí ràng tā hěn nánguò. | 别人 Orang lain · 怀疑 meragukan · 让 membiarkan · 他 dia · 很 sangat · 难过 Sedih
+hsk4_15_18#2 | 怀疑精神有积极作用。 | Huáiyí jīngshén yǒu jījí zuòyòng. | 怀疑 meragukan · 精神 semangat · 有 ada · 积极 positif · 作用 fungsi
+hsk4_15_19#1 | 为了引起大家的注意，他故意把声音提高。 | Wèile yǐnqǐ dàjiā de zhùyì, tā gùyì bǎ shēngyīn tígāo. | 为了 Demi · 引起 menyebabkan · 大家 semua orang · 注意 Perhatian · 他 dia · 故意 sengaja · 把 Kata satuan untuk payung · 声音 Suara
+hsk4_15_20#1 | 晚上，我刚刚躺下，就响起了敲门声。 | Wǎnshang, wǒ gāng gāng tǎng xià, jiù xiǎng qǐ le qiāo mén shēng. | 晚上 malam · 我 saya · 刚 Baru Saja · 躺 berbaring · 下 bawah · 就 langsung · 响 berbunyi · 起 bangkit
+hsk4_15_21#1 | 儿子的复习笔记整理得很详细。 | Érzi de fùxí bǐ jì zhěnglǐ děi hěn xiángxì. | 儿子 anak laki-laki · 复习 Review atau mengulang pelaja · 整理 merapikan · 很 sangat · 详细 terperinci
+hsk4_15_21#2 | 刚整理好的材料又被弄乱了。 | Gāng zhěnglǐ hǎo de cái liào yòu bèi nòng luàn le. | 刚 Baru Saja · 整理 merapikan · 好 baik · 材料 bahan · 又 Dan · 被 Digunakan di kalimat pasif · 弄 melakukan · 乱 kacau
+hsk4_15_22#1 | 他想找个合适的会议室。 | Tā xiǎng zhǎo gè héshì de huìyì shì. | 他 dia · 想 ingin · 找 mencari · 个 kata satuan umum · 合适 cocok · 会议 Rapat
+hsk4_15_22#2 | 他还没找到合适的工作。 | Tā hái méi zhǎo dào héshì de gōngzuò. | 他 dia · 还 masih · 没 tidak · 找 mencari · 到 sampai · 合适 cocok · 工作 bekerja
+hsk4_15_24#1 | 这篇文章主要谈儿童教育问题。 | Zhè piān wénzhāng zhǔyào tán értóng jiàoyù wèntí. | 这 ini · 篇 satuan untuk tulisan · 文章 artikel · 主要 Utama · 谈 Berbicara · 儿童 anak-anak · 教育 mendidik · 问题 pertanyaan
+hsk4_15_24#2 | 好玩儿的游戏更容易被儿童接受。 | Hǎo wán ér de yóuxì gèng róngyì bèi értóng jiēshòu. | 好 baik · 玩 bermain · 游戏 Game · 更 Lebih · 容易 Mudah · 被 Digunakan di kalimat pasif · 儿童 anak-anak · 接受 Menerima
+hsk4_15_25#1 | 他暑假想去云南旅游。 | Tā shǔ jiǎ xiǎng qù yún nán lǚyóu. | 他 dia · 假 palsu · 想 ingin · 去 pergi · 云 awan · 旅游 bepergian
+hsk4_15_25#2 | 他被证明说了假话。 | Tā bèi zhèngmíng shuō le jiǎ huà. | 他 dia · 被 Digunakan di kalimat pasif · 证明 membuktikan · 假 palsu
+hsk4_15_26#1 | 房东每天晚上9点左右回来。 | Fángdōng měi tiān wǎnshang9 diǎn zuǒyòu huí lái. | 房东 pemilik rumah · 每 setiap · 晚上 malam · 点 jam · 左右 sekitar · 回 kembali · 来 datang
+hsk4_15_26#2 | 一般三岁左右的孩子就可以学习自己刷牙了。 | Yìbān sān suì zuǒyòu de háizi jiù kěyǐ xuéxí zìjǐ shuāyá le. | 一般 Biasanya · 三 tiga · 岁 tahun · 左右 sekitar · 孩子 anak · 就 langsung · 可以 bisa · 学习 belajar
+hsk4_15_27#1 | 所以，人可以不那么聪明，但是不能懒。 | Suǒyǐ, rén kěyǐ bù nà me cōngming, dànshì bù néng lǎn. | 所以 oleh karena itu · 人 orang · 可以 bisa · 不 tidak · 那 itu · 聪明 Pintar · 但是 tetapi · 能 bisa
+hsk4_15_30#1 | 优点多不一定值得骄傲，有缺点也很正常。 | Yōudiǎn duō bù yídìng zhídé jiāo'ào, yǒu quēdiǎn yě hěn zhèngcháng. | 优点 kelebihan · 多 banyak · 不 tidak · 一定 pasti · 值得 layak · 骄傲 sombong · 有 ada · 缺点 Kekurangan
+hsk4_15_30#2 | ”我的心里特别感动，我为有这样的儿子感到骄傲。 | Wǒ de xīn lǐ tèbié găndòng, wǒ wèi yǒu zhè yàng de érzi gǎn dào jiāo'ào. | 我 saya · 里 di dalam · 特别 istimewa · 感动 terharu · 为 Untuk · 有 ada · 这 ini · 儿子 anak laki-laki
+hsk4_15_31#1 | 第一次见面，她有些害羞。 | Dìyī cì jiànmiàn, tā yǒu xiē hàixiū. | 第一 pertama · 次 kali · 见面 Bertemu · 她 dia · 有 ada · 些 beberapa · 害羞 malu
+hsk4_16_02#1 | 他知道怎么办签证。 | Tā zhīdào zěnme bàn qiānzhèng. | 他 dia · 知道 tahu · 怎么 bagaimana · 签证 visa
+hsk4_16_02#2 | 签证已经办好了。 | Qiānzhèng yǐjīng bàn hǎo le. | 签证 visa · 已经 sudah · 好 baik
+hsk4_16_03#1 | 三分之一的报名者会收到邀请信。 | Sān fēn zhī yī de bàomíng zhě huì shōu dào yāoqǐng xìn. | 三 tiga · 分 Membedakan · 之 partikel penghubung atribut · 一 satu · 报名 mendaftar · 会 bisa · 收 menerima · 到 sampai
+hsk4_16_03#2 | 今年报名的人数比去年减少了一半儿。 | Jīn nián bàomíng de rén shù bǐ qùnián jiǎnshǎo le yī bàn ér. | 年 tahun · 报名 mendaftar · 人 orang · 数 menghitung · 比 dibandingkan · 去年 tahun lalu · 减少 mengurangi · 一 satu
+hsk4_16_04#1 | 请把那张表格打印两份。 | Qǐng bǎ nà zhāng biǎogé dǎyìn liǎng fèn. | 请 silakan · 把 Kata satuan untuk payung · 那 itu · 张 Kata satuan · 表格 formulir · 打印 mencetak · 两 dua · 份 Kata bantu untuk pekerjaan
+hsk4_16_05#1 | 这个传真机的说明书写得很详细。 | Zhè gè chuánzhēn jī de shuōmíng shū xiě děi hěn xiángxì. | 这 ini · 个 kata satuan umum · 传真 mengirim melalui faks · 说明 menjelaskan · 书 buku · 写 menulis · 很 sangat · 详细 terperinci
+hsk4_16_05#2 | 人们希望宾馆提供传真机。 | Rén men xīwàng bīnguǎn tí gōng chuánzhēn jī. | 人 orang · 希望 berharap · 宾馆 hotel · 提供 Menyediakan · 传真 mengirim melalui faks
+hsk4_16_06#1 | 请把您的传真号码发给我。 | Qǐng bǎ nín de chuánzhēn hàomǎ fā gěi wǒ. | 请 silakan · 把 Kata satuan untuk payung · 您 Anda · 传真 mengirim melalui faks · 号码 nomor · 发 Mengirim · 给 memberi · 我 saya
+hsk4_16_06#2 | 想要密码安全，最好不要用手机号码、生日等。 | Xiǎng yào mìmǎ ānquán, zuì hǎo bù yào yòng shǒujī hàomǎ, shēngrì děng. | 想 ingin · 要 mau · 密码 kata sandi · 安全 aman · 最好 Paling baik · 不 tidak · 用 Membutuhkan · 手机 telepon genggam
+hsk4_16_07#1 | 学校将组织大家去参观长城。 | Xuéxiào jiāng zǔzhī dàjiā qù cānguān zhǎng chéng. | 学校 sekolah · 组织 organisasi · 大家 semua orang · 去 pergi · 参观 mengunjungi · 长 Bertambah
+hsk4_16_07#2 | 参观的人数比去年增长了三分之一。 | Cānguān de rén shù bǐ qùnián zēng zhǎng le sān fēn zhī yī. | 参观 mengunjungi · 人 orang · 数 menghitung · 比 dibandingkan · 去年 tahun lalu · 长 Bertambah · 三 tiga · 分 Membedakan
+hsk4_16_08#1 | 这个消息真是太让人激动了！ | Zhè gè xiāoxi zhēn shì tài ràng rén jīdòng le! | 这 ini · 个 kata satuan umum · 消息 Berita · 真 sungguh · 是 adalah · 太 terlalu · 让 membiarkan · 人 orang
+hsk4_16_08#2 | 这果然是一个激动人心的好消息。 | Zhè guǒrán shì yī gè jīdòng rén xīn de hǎo xiāoxi. | 这 ini · 果然 benar-benar · 是 adalah · 一 satu · 个 kata satuan umum · 激动 bersemangat · 人 orang · 好 baik
+hsk4_16_10#1 | 你和那位记者还有联系吗？ | Nǐ hé nà wèi jìzhě hái yǒu liánxì ma? | 你 kamu · 和 dan · 那 itu · 位 Kata satuan · 记者 wartawan · 还 masih · 有 ada · 联系 menghubungi
+hsk4_16_11#1 | 少吃不代表不吃，而是要科学地吃。 | Shǎo chī bù dàibiǎo bù chī, ér shì yào kēxué de chī. | 少 sedikit · 吃 makan · 不 tidak · 代表 mewakili · 而 tetapi · 是 adalah · 要 mau · 科学 ilmu pengetahuan
+hsk4_16_11#2 | 代表们决定结束会议。 | Dàibiǎo men juédìng jiéshù huìyì. | 代表 mewakili · 决定 Memutuskan · 结束 Selesai · 会议 Rapat
+hsk4_16_12#1 | ”“您恐怕只能先看另一块儿手表了。 | Nín kǒngpà zhǐ néng xiān kàn lìng yī kuài ér shǒubiǎo le. | 您 Anda · 恐怕 saya khawatir · 只 Hanya · 能 bisa · 先 Pertama · 看 melihat · 一 satu · 块 yuan
+hsk4_16_13#1 | 比赛输了，他们很失望。 | Bǐsài shū le, tā men hěn shīwàng. | 比赛 Perlombaan · 输 kalah · 他 dia · 很 sangat · 失望 kecewa
+hsk4_16_13#2 | 那个电影让观众很失望。 | Nà gè diànyǐng ràng guānzhòng hěn shīwàng. | 那 itu · 个 kata satuan umum · 电影 film · 让 membiarkan · 观众 penonton · 很 sangat · 失望 kecewa
+hsk4_16_14#1 | 现在，城市里越来越多的人喜欢到郊区过周末。 | Xiànzài, chéngshì lǐ yuè lái yuè duō de rén xǐhuan dào jiāoqū guò zhōumò. | Sekarang, semakin banyak orang di kota yang suka pergi ke pinggiran kota untuk menghabiskan akhir pekan. / 现在 sekarang · 城市里 di kota · 越来越多 semakin banyak · 人 orang · 喜欢 suka · 到郊区 pergi ke pinggiran kota · 过周末 menghabiskan akhir pekan
+hsk4_16_15#1 | 明天到底什么时候集合呢？ | Míngtiān dàodǐ shénme shíhou jí hé ne? | 明天 besok · 到底 sebenarnya · 什么 apa · 时候 waktu
+hsk4_16_15#2 | 答案到底是什么呢？ | Dá'àn dàodǐ shì shénme ne? | 答案 jawaban · 到底 sebenarnya · 是 adalah · 什么 apa
+hsk4_16_16#1 | 钥匙应该就在包里呀。 | Yàoshi yīnggāi jiù zài bāo lǐ ya. | 钥匙 kunci · 应该 Seharusnya · 就 langsung · 在 di · 包 Tas · 里 di dalam · 呀 partikel akhir kalimat untuk
+hsk4_16_17#1 | 那位导游给我留下了很深的印象。 | Nà wèi dǎoyóu gěi wǒ liú xià le hěn shēn de yìnxiàng. | 那 itu · 位 Kata satuan · 导游 pemandu wisata · 给 memberi · 我 saya · 留 Meninggalkan · 下 bawah · 很 sangat
+hsk4_16_17#2 | 导游把那份申请寄出去了。 | Dǎoyóu bǎ nà fèn shēnqǐng jì chū qù le. | 导游 pemandu wisata · 把 Kata satuan untuk payung · 那 itu · 份 Kata bantu untuk pekerjaan · 申请 mengajukan · 寄 mengirim paket · 出 keluar · 去 pergi
+hsk4_16_18#1 | 父母都希望自己的孩子诚实、勇敢、有礼貌。 | Fù mǔ dōu xīwàng zìjǐ de háizi chéngshí, yǒnggǎn, yǒu lǐmào. | 都 semua · 希望 berharap · 自己 Diri Sendiri · 孩子 anak · 诚实 Jujur · 勇敢 berani · 有 ada · 礼貌 sopan
+hsk4_16_19#1 | 原谅别人，给别人一次机会，也会让自己快乐起来。 | Yuánliàng biérén, gěi biérén yī cì jīhuì, yě huì ràng zìjǐ kuàilè qǐlai. | 原谅 memaafkan · 别人 Orang lain · 给 memberi · 一 satu · 次 kali · 机会 Kesempatan · 也 juga · 会 bisa
+hsk4_16_20#1 | 我们把画儿挂这儿怎么样？ | Wǒmen bǎ huà ér guà zhè ér zěnmeyàng? | 我们 kami · 把 Kata satuan untuk payung · 画 Menggambar · 挂 menggantung · 这 ini · 怎么样 bagaimana
+hsk4_16_20#2 | 把画挂在这儿不太好。 | Bǎ huà guà zài zhè ér bù tài hǎo. | 把 Kata satuan untuk payung · 画 Menggambar · 挂 menggantung · 在 di · 这 ini · 不 tidak · 太 terlalu · 好 baik
+hsk4_16_27#1 | 这时，我们首先应该冷静下来，想想问题究竟出在哪里。 | Zhè shí, wǒmen shǒuxiān yīnggāi lěngjìng xià lái, xiǎng xiǎng wèntí jiūjìng chū zài nǎ lǐ. | 这 ini · 我们 kami · 首先 Pertama-tama · 应该 Seharusnya · 冷静 tenang · 下 bawah · 来 datang · 想 ingin
+hsk4_16_27#2 | 应聘时，人们往往会紧张，这时一定要试着让自己冷静下来。 | Yìng pìn shí, rén men wǎngwǎng huì jǐnzhāng, zhè shí yídìng yào shì zhe ràng zìjǐ lěngjìng xià lái. | 应聘 melamar pekerjaan · 人 orang · 往往 seringkali · 会 bisa · 紧张 gugup · 这 ini · 一定 pasti · 要 mau
+hsk4_16_28#1 | 比赛输了，他们很失望。 | Bǐsài shū le, tā men hěn shīwàng. | 比赛 Perlombaan · 输 kalah · 他 dia · 很 sangat · 失望 kecewa
+hsk4_16_28#2 | 他认为输赢并不重要。 | Tā rènwéi shū yíng bìng bù zhòngyào. | 他 dia · 认为 Berpikir · 输 kalah · 赢 menang · 并 Dan · 不 tidak · 重要 Penting
+hsk4_16_29#1 | 那篇报道引起了校长的重视。 | Nà piān bàodào yǐnqǐ le xiàozhǎng de zhòngshì. | 那 itu · 篇 satuan untuk tulisan · 报道 melaporkan · 引起 menyebabkan · 校长 Kepala sekolah · 重视 mementingkan
+hsk4_16_29#2 | 可惜的是，人们往往对这一点重视不够。 | Kěxī de shì, rén men wǎngwǎng duì zhè yī diǎn zhòngshì bù gòu. | 可惜 sayang · 是 adalah · 人 orang · 往往 seringkali · 对 benar · 这 ini · 一 satu · 点 jam
+hsk4_16_31#1 | 每个人都希望获得别人的尊重。 | Měi gèrén dōu xīwàng huòdé biérén de zūnzhòng. | 每 setiap · 个人 individu · 都 semua · 希望 berharap · 获得 memperoleh · 别人 Orang lain · 尊重 menghormati
+hsk4_16_31#2 | 要获得别人的尊重，必须先尊重别人。 | Yào huòdé biérén de zūnzhòng, bìxū xiān zūnzhòng biérén. | 要 mau · 获得 memperoleh · 别人 Orang lain · 尊重 menghormati · 必须 Harus · 先 Pertama
+hsk4_17_01#1 | 走在海边，感觉很凉快。 | Zǒu zài hǎi biān, gǎnjué hěn liángkuai. | 走 berjalan · 在 di · 感觉 Merasa · 很 sangat · 凉快 sejuk

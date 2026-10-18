@@ -1,0 +1,90 @@
+h1_std__106#1 | 他的聪明、幽默深深地吸引了她。 | Tā de cōngming, yōumò shēn shēn de xiyin le tā. | 他 dia · 聪明 Pintar · 幽默 humoris · 深 Dalam · 吸引 menarik · 她 dia
+h1_std__107#0 | 我就是有点儿感冒，不太严重。 | Wǒ jiù shì yǒu diǎn ér gǎnmào, bù tài yánzhòng. | 我 saya · 就 langsung · 是 adalah · 有 ada · 点 jam · 感冒 Flu · 不 tidak · 太 terlalu
+h1_std__107#1 | 那个司机不太适应当地的气候。 | Nà gè sījī bù tài shìyìng dāngdì de qìhòu. | 那 itu · 个 kata satuan umum · 司机 Supir · 不 tidak · 太 terlalu · 适应 Beradaptasi · 当地 lokal · 气候 iklim
+h1_std__108#0 | 真希望天气继续暖和下去。 | Zhēn xīwàng tiānqì jìxù nuǎnhuo xià qù. | 真 sungguh · 希望 berharap · 天气 cuaca · 继续 melanjutkan · 暖和 hangat · 下 bawah · 去 pergi
+h1_std__109#0 | 我们小时候都听过美人鱼的故事。 | Wǒmen xiǎoshí hòu dōu tīng guò měirényú de gùshi. | 我们 kami · 小时 jam · 都 semua · 听 mendengarkan · 过 Melewati · 美人鱼 putri duyung · 故事 Cerita
+h1_std__109#1 | 听到这个消息，她很难受。 | Tīng dào zhè gè xiāoxi, tā hěn nánshòu. | 听 mendengarkan · 到 sampai · 这 ini · 个 kata satuan umum · 消息 Berita · 她 dia · 很 sangat · 难受 tidak enak badan
+h1_std__110#0 | 同学们在超市进行了调查。 | Tóngxué men zài chāoshì jìnxíng le diàochá. | 同学 teman sekelas · 在 di · 超市 Supermarket · 进行 melakukan · 调查 Menyelidiki
+h1_std__110#1 | 请同学们按照顺序排好队。 | Qǐng tóngxué men ànzhào shùnxù pái hǎo duì. | 请 silakan · 同学 teman sekelas · 按照 Menurut · 顺序 urutan · 好 baik
+h1_std__112#0 | 回来的路上我顺便去了趟邮局。 | Huí lái de lù shàng wǒ shùnbiàn qù le tàng yóujú. | 回 kembali · 来 datang · 路 jalan · 上 atas · 我 saya · 顺便 sekalian · 去 pergi · 趟 kali perjalanan
+h1_std__112#1 | 我姐姐在医院上班，她是护士。 | Wǒ jiějie zài yīyuàn shàngbān, tā shì hùshi. | 我 saya · 姐姐 kakak perempuan · 在 di · 医院 rumah sakit · 上班 bekerja · 她 dia · 是 adalah · 护士 perawat
+h1_std__113#0 | 保护环境是我们每个人的责任。 | Bǎohù huánjìng shì wǒmen měi gèrén de zérèn. | 保护 melindungi · 环境 Lingkungan · 是 adalah · 我们 kami · 每 setiap · 个人 individu · 责任 tanggung jawab
+h1_std__113#1 | 宾馆为我们提供了牙刷和牙膏。 | Bīnguǎn wèi wǒmen tí gōng le yá shuā hé yágāo. | 宾馆 hotel · 为 Untuk · 我们 kami · 提供 Menyediakan · 和 dan · 牙膏 pasta gigi
+h1_std__115#0 | 人们在喝酒时为什么喜欢干杯呢？ | Rén men zài hē jiǔ shí wèi shénme xǐhuan gānbēi ne? | 人 orang · 在 di · 喝 minum · 为 Untuk · 什么 apa · 喜欢 suka · 干杯 bersulang
+h1_std__115#1 | 年轻人喜欢早上锻炼身体。 | Niánqīng rén xǐhuan zǎoshang duànliàn shēntǐ. | 年轻 Muda · 人 orang · 喜欢 suka · 早上 pagi · 锻炼 Berolahraga · 身体 tubuh
+h1_std__116#0 | 楼下的商店要招聘两名售货员。 | Lóu xià de shāngdiàn yào zhāo pìn liǎng míng shòuhuòyuán. | 楼 Bangunan · 下 bawah · 商店 toko · 要 mau · 招聘 merekrut · 两 dua · 售货员 pramuniaga
+h1_std__116#1 | 春节刚过，就有冷空气南下。 | Chūn jié gāng guò, jiù yǒu lěng kōngqì nán xià. | 节 bagian · 刚 Baru Saja · 过 Melewati · 就 langsung · 有 ada · 冷 dingin · 空气 udara · 下 bawah
+h1_std__118#0 | 下雨后空气很湿润。 | Xiàyǔ hòu kōngqì hěn shīrùn. | 下雨 hujan · 空气 udara · 很 sangat · 湿润 lembab
+h1_std__118#1 | 有的观众看到电影里下雨的画面，把自己的雨伞也打了起来。 | Yǒu de guānzhòng kàn dào diànyǐng lǐ xiàyǔ de huà miàn, bǎ zìjǐ de yǔ sǎn yě dǎ le qǐlai. | 有 ada · 观众 penonton · 看 melihat · 到 sampai · 电影 film · 里 di dalam · 下雨 hujan · 画 Menggambar
+h1_std__119#0 | 万先生的判断力一直很准确。 | Wàn xiānsheng de pànduàn lì yìzhí hěn zhǔnquè. | 万 Sepuluh ribu · 先生 tuan · 判断 Memutuskan · 一直 Terus menerus atau Selalu · 很 sangat · 准确 akurat
+h1_std__119#1 | 对不起，先生，您的行李箱超重了。 | Duìbuqǐ, xiānsheng, nín de xínglixiāng chāo zhòng le. | 对不起 maaf · 先生 tuan · 您 Anda · 行李箱 Koper · 重 berat
+h1_std__120#0 | 昨晚没睡好，现在有点儿困了。 | Zuó wǎn méi shuì hǎo, xiànzài yǒu diǎn ér kùn le. | 没 tidak · 好 baik · 现在 sekarang · 有 ada · 点 jam · 困 mengantuk
+h1_std__120#1 | 我现在就过去，估计半小时后到。 | Wǒ xiànzài jiù guòqù, gūjì bàn xiǎoshí hòu dào. | 我 saya · 现在 sekarang · 就 langsung · 过去 Masa lalu · 估计 memperkirakan · 半 Setengah · 小时 jam · 到 sampai
+h1_std__121#0 | 他想不起来这个电脑的密码了。 | Tā xiǎng bù qǐlai zhè gè diànnǎo de mìmǎ le. | 他 dia · 想 ingin · 不 tidak · 起来 Bangun · 这 ini · 个 kata satuan umum · 电脑 komputer · 密码 kata sandi
+h1_std__121#1 | 我朋友想要一个窗户旁边的座位。 | Wǒ péngyou xiǎng yào yī gè chuānghu pángbiān de zuòwèi. | 我 saya · 朋友 teman · 想 ingin · 要 mau · 一 satu · 个 kata satuan umum · 窗户 jendela · 旁边 di sebelah
+h1_std__122#0 | 大城市和小城市各有各的好处。 | Dà chéngshì hé xiǎo chéngshì gè yǒu gè de hǎochù. | 大 besar · 城市 Kota · 和 dan · 小 kecil · 各 berbagai · 有 ada · 好处 manfaat
+h1_std__122#1 | 森林有改变小范围气候的作用。 | Sēnlín yǒu gǎibiàn xiǎo fànwéi qìhòu de zuòyòng. | 森林 hutan · 有 ada · 改变 Mengubah · 小 kecil · 范围 rentang · 气候 iklim · 作用 fungsi
+h1_std__123#0 | 黄小姐一般周末打扫房间。 | Huáng xiǎojiě yìbān zhōumò dǎsǎo fángjiān. | 小姐 nona · 一般 Biasanya · 周末 Weekend · 打扫 Membersihkan · 房间 kamar
+h1_std__123#1 | 米小姐把房间收拾好了。 | Mǐ xiǎojiě bǎ fángjiān shōushi hǎo le. | 米 Meter · 小姐 nona · 把 Kata satuan untuk payung · 房间 kamar · 收拾 merapikan · 好 baik
+h1_std__124#0 | 这些食品符合国家安全标准吗？ | Zhè xiē shí pǐn fú hé guójiā ānquán biāozhǔn ma? | 这 ini · 些 beberapa · 符合 sesuai dengan · 国家 Negara · 安全 aman · 标准 standar
+h1_std__124#1 | 有些事情是科学无法解释的。 | Yǒu xiē shìqing shì kēxué wúfǎ jiěshì de. | 有 ada · 些 beberapa · 事情 urusan · 是 adalah · 科学 ilmu pengetahuan · 无法 tidak dapat · 解释 menjelaskan
+h1_std__125#0 | 他写这本书时才上高中二年级。 | Tā xiě zhè běn shū shí cái shàng gāo zhōng èr niánjí. | 他 dia · 写 menulis · 这 ini · 本 · 书 buku · 上 atas · 高 tinggi · 二 dua
+h1_std__125#1 | 那个笔记本是专门写日记用的。 | Nà gè bǐ jì běn shì zhuānmén xiě rìjì yòng de. | 那 itu · 个 kata satuan umum · 本 · 是 adalah · 专门 khusus · 写 menulis · 日记 buku harian · 用 Membutuhkan
+h1_std__128#0 | 这个班的大部分学生来自亚洲。 |  | 这 ini · 个 kata satuan umum · 班 Kelas · 大 besar · 部分 bagian · 学生 murid · 来自 berasal dari
+h1_std__128#1 | 大学生不愿意去农村工作。 | Dà xuésheng bù yuànyì qù nóngcūn gōngzuò. | 大 besar · 学生 murid · 不 tidak · 愿意 Bersedia · 去 pergi · 农村 pedesaan · 工作 bekerja
+h1_std__129#0 | ”在现代社会中，我们必须坚持学习。 | Zài xiàndài shèhuì zhōng, wǒmen bìxū jiānchí xuéxí. | 在 di · 现代 modern · 社会 masyarakat · 我们 kami · 必须 Harus · 坚持 bertahan · 学习 belajar
+h1_std__129#1 | 教狗学习需要耐心。 | Jiāo gǒu xuéxí xūyào nàixīn. | 教 Mengajar · 狗 anjing · 学习 belajar · 需要 Membutuhkan · 耐心 kesabaran
+h1_std__131#0 | 它一直只卖一种东西：牛肉面。 | Tā yìzhí zhǐ mài yī zhǒng dōngxi: niú ròu miàn. | 它 dia · 一直 Terus menerus atau Selalu · 只 Hanya · 卖 menjual · 一 satu · 种 Tipe · 东西 benda
+h1_std__131#1 | 篮球不是一个人的运动或表演。 | Lán qiú bù shì yī gèrén de yùndòng huò biǎoyǎn. | 不 tidak · 是 adalah · 一 satu · 个人 individu · 运动 olahraga · 表演 bertindak
+h1_std__132#0 | 有不少人都喜欢按照流行的标准来穿衣服、打扮自己。 | Yǒu bù shǎo rén dōu xǐhuan ànzhào liúxíng de biāozhǔn lái chuān yīfu, dǎban zìjǐ. | 有 ada · 不 tidak · 少 sedikit · 人 orang · 都 semua · 喜欢 suka · 按照 Menurut · 流行 populer
+h1_std__132#1 | 研究证明，女孩子们对衣服颜色的选择往往与她们的性格有关。 | Yánjiū zhèngmíng, nǚ háizi men duì yīfu yánsè de xuǎnzé wǎngwǎng yǔ tā men de xìnggé yǒu guān. | 研究 meneliti · 证明 membuktikan · 孩子 anak · 对 benar · 衣服 pakaian · 颜色 warna · 选择 Memilih · 往往 seringkali
+h1_std__133#0 | “我找马医生，我有急事！ | Wǒ zhǎo mǎ yīshēng, wǒ yǒu jí shì! | 我 saya · 找 mencari · 马 Kuda · 医生 dokter · 有 ada
+h1_std__133#1 | ”医生的妻子回答道。 | Yīshēng de qīzi huídá dào. | 医生 dokter · 妻子 istri · 回答 Menjawab
+h1_std__134#0 | 我姐姐在医院上班，她是护士。 | Wǒ jiějie zài yīyuàn shàngbān, tā shì hùshi. | 我 saya · 姐姐 kakak perempuan · 在 di · 医院 rumah sakit · 上班 bekerja · 她 dia · 是 adalah · 护士 perawat
+h1_std__134#1 | 她是当地儿童医院的护士。 | Tā shì dāngdì értóng yīyuàn de hùshi. | 她 dia · 是 adalah · 当地 lokal · 儿童 anak-anak · 医院 rumah sakit · 护士 perawat
+h1_std__135#0 | 桌子和椅子一会儿就搬来了。 | Zhuōzi hé yǐzi yíhuìr jiù bān lái le. | 桌子 meja · 和 dan · 椅子 kursi · 一会儿 Sejenak · 就 langsung · 搬 Memindahkan atau mengangkut · 来 datang
+h1_std__135#1 | 这椅子是专为老年人提供的。 | Zhè yǐzi shì zhuān wèi lǎo nián rén tí gōng de. | 这 ini · 椅子 kursi · 是 adalah · 为 Untuk · 老 Tua · 年 tahun · 人 orang · 提供 Menyediakan
+h1_std__136#0 | 任何事情的发生都是有原因的。 | Rènhé shìqing de fāshēng dōu shì yǒu yuányīn de. | 任何 apapun · 事情 urusan · 发生 terjadi · 都 semua · 是 adalah · 有 ada · 原因 alasan
+h1_std__136#1 | 大城市和小城市各有各的好处。 | Dà chéngshì hé xiǎo chéngshì gè yǒu gè de hǎochù. | 大 besar · 城市 Kota · 和 dan · 小 kecil · 各 berbagai · 有 ada · 好处 manfaat
+h1_std__138#0 | 中国人常说“父母在，不远游。 | Zhōngguó rén cháng shuō fù mǔ zài, bù yuǎn yóu. | 中国 Tiongkok · 人 orang · 在 di · 不 tidak · 远 jauh
+h1_std__138#1 | 广告越来越多，几乎无处不在。 | Guǎnggào yuè lái yuè duō, jīhū wú chù bù zài. | 广告 iklan · 越 Semakin · 来 datang · 多 banyak · 几乎 Hampir · 无 tidak memiliki · 不 tidak · 在 di
+h1_std__140#0 | 你好，我的密码忘了怎么办？ | Nǐ hǎo, wǒ de mìmǎ wàng le zěnme bàn? | 你 kamu · 好 baik · 我 saya · 密码 kata sandi · 怎么 bagaimana
+h1_std__140#1 | 这段时间我该怎么办呢？ | Zhè duàn shíjiān wǒ gāi zěnme bàn ne? | 这 ini · 段 Periode · 时间 waktu · 我 saya · 怎么 bagaimana
+h1_std__141#0 | 你的笔记本电脑质量怎么样？ | Nǐ de bǐjìběn diànnǎo zhìliàng zěnmeyàng? | 你 kamu · 笔记本电脑 Laptop · 质量 kualitas · 怎么样 bagaimana
+h1_std__141#1 | 我们把画儿挂这儿怎么样？ | Wǒmen bǎ huà ér guà zhè ér zěnmeyàng? | 我们 kami · 把 Kata satuan untuk payung · 画 Menggambar · 挂 menggantung · 这 ini · 怎么样 bagaimana
+h1_std__142#0 | 他写这本书时才上高中二年级。 | Tā xiě zhè běn shū shí cái shàng gāo zhōng èr niánjí. | 他 dia · 写 menulis · 这 ini · 本 · 书 buku · 上 atas · 高 tinggi · 二 dua
+h1_std__142#1 | 他想不起来这个电脑的密码了。 | Tā xiǎng bù qǐlai zhè gè diànnǎo de mìmǎ le. | 他 dia · 想 ingin · 不 tidak · 起来 Bangun · 这 ini · 个 kata satuan umum · 电脑 komputer · 密码 kata sandi
+h1_std__143#0 | 中国人常说“父母在，不远游。 | Zhōngguó rén cháng shuō fù mǔ zài, bù yuǎn yóu. | 中国 Tiongkok · 人 orang · 在 di · 不 tidak · 远 jauh
+h1_std__143#1 | 春节是中国人最重要的节日。 | Chūn jié shì zhōngguó rén zuì zhòngyào de jiérì. | 节 bagian · 是 adalah · 中国 Tiongkok · 人 orang · 最 paling · 重要 Penting · 节日 Hari raya
+h1_std__144#0 | 中午的西红柿鸡蛋汤稍微有点儿咸。 | Zhōngwǔ de xīhóngshì jīdàn tāng shāowéi yǒu diǎn ér xián. | 中午 siang · 西红柿 tomat · 鸡蛋 telur ayam · 汤 sup · 稍微 sedikit · 有 ada · 点 jam · 咸 asin
+h1_std__144#1 | 中午的菜又酸又辣。 | Zhōngwǔ de cài yòu suān yòu là. | 中午 siang · 菜 masakan · 又 Dan · 酸 asam · 辣 pedas
+h1_std__145#0 | 他现在住的地方很安静。 | Tā xiànzài zhù de dìfang hěn ānjìng. | 他 dia · 现在 sekarang · 住 tinggal · 地方 Tempat · 很 sangat · 安静 Tenang
+h1_std__145#1 | 森林里住着一群狮子。 |  | 森林 hutan · 里 di dalam · 住 tinggal · 一 satu · 群 kelompok
+h1_std__146#0 | 桌子和椅子一会儿就搬来了。 | Zhuōzi hé yǐzi yíhuìr jiù bān lái le. | 桌子 meja · 和 dan · 椅子 kursi · 一会儿 Sejenak · 就 langsung · 搬 Memindahkan atau mengangkut · 来 datang
+h1_std__146#1 | 下班回到家，看到桌子上满满的都是我喜欢吃的菜。 | Xià bān huí dào jiā, kàn dào zhuōzi shàng mǎn mǎn de dōu shì wǒ xǐhuan chī de cài. | 下 bawah · 班 Kelas · 回 kembali · 到 sampai · 家 rumah · 看 melihat · 桌子 meja · 上 atas
+h1_std__148#0 | 昨天买的西红柿有点儿酸。 | Zuótiān mǎi de xīhóngshì yǒu diǎn ér suān. | 昨天 kemarin · 买 membeli · 西红柿 tomat · 有 ada · 点 jam · 酸 asam
+h1_std__148#1 | 人的一生只有三天：昨天、今天和明天。 | Rén de yī shēng zhǐ yǒu sān tiān: zuótiān, jīntiān hé míngtiān. | 人 orang · 一 satu · 只 Hanya · 有 ada · 三 tiga · 昨天 kemarin · 今天 hari ini · 和 dan
+h1_std__149#0 | 他坐在沙发上看杂志。 | Tā zuò zài shāfā shàng kàn zázhì. | 他 dia · 坐 duduk · 在 di · 沙发 sofa · 上 atas · 看 melihat · 杂志 majalah
+h1_std__149#1 | 张教授是坐飞机来的。 | Zhāng jiàoshòu shì zuò fēijī lái de. | 张 Kata satuan · 教授 profesor · 是 adalah · 坐 duduk · 飞机 pesawat · 来 datang
+h1_std__150#0 | 大概有三分之二的人反对这样做。 | Dàgài yǒu sān fēn zhī èr de rén fǎnduì zhè yàng zuò. | 大概 kira-kira · 有 ada · 三 tiga · 分 Membedakan · 之 partikel penghubung atribut · 二 dua · 人 orang · 反对 menentang
+h1_std__150#1 | 这么做完全符合国家的法律规定。 | Zhè me zuò wánquán fú hé guójiā de fǎ lǜ guīdìng. | 这 ini · 做 membuat · 完全 Sepenuhnya · 符合 sesuai dengan · 国家 Negara · 法律 Hukum · 规定 aturan
+h2_bang#0 | 有人说，能帮助别人就是一种幸福。 | Yǒu rén shuō, néng bāngzhù biérén jiù shì yī zhǒng xìngfú. | 有 ada · 人 orang · 能 bisa · 帮助 membantu · 别人 Orang lain · 就 langsung · 是 adalah · 一 satu
+h2_bang#1 | 只有先保证了自己的安全，才能更好地帮助别人。 | Zhǐ yǒu xiān bǎozhèng le zìjǐ de ānquán, cái néng gèng hǎo de bāngzhù biérén. | 只 Hanya · 有 ada · 先 Pertama · 保证 Menjamin · 自己 Diri Sendiri · 安全 aman · 能 bisa · 更 Lebih
+h2_biye#0 | 李先生是来表示祝贺的。 | Li xiānsheng shì lái biǎoshì zhùhè de. | 先生 tuan · 是 adalah · 来 datang · 表示 menyatakan · 祝贺 mengucapkan selamat
+h2_biye#1 | 地图上蓝色表示海洋。 | Dìtú shàng lán sè biǎoshì hǎiyáng. | 地图 Peta · 上 atas · 蓝 Biru · 表示 menyatakan · 海洋 laut
+h2_dai#0 | 你猜我给你带什么了。 | Nǐ cāi wǒ gěi nǐ dài shénme le. | 你 kamu · 猜 menebak · 我 saya · 给 memberi · 带 membawa · 什么 apa
+h2_dai#1 | 记得带笔记本去，把重要的内容记下来。 | Jìde dài bǐ jì běn qù, bǎ zhòngyào de nèiróng jì xià lái. | 记得 Mengingat · 带 membawa · 本 · 去 pergi · 把 Kata satuan untuk payung · 重要 Penting · 内容 isi · 下 bawah
+h2_dong#1 | 只有懂得放弃和学会选择的人，才能赢得精彩的生活。 | Zhǐ yǒu dǒng děi fàngqì hé xué huì xuǎnzé de rén, cái néng yíng děi jīngcǎi de shēnghuó. | 只 Hanya · 有 ada · 懂 mengerti · 放弃 menyerah · 和 dan · 会 bisa · 选择 Memilih · 人 orang
+h2_faxian#0 | 他发现7岁的儿子还在门口等他。 | Tā fāxiàn7 suì de érzi hái zài mén kǒu děng tā. | 他 dia · 发现 menemukan · 岁 tahun · 儿子 anak laki-laki · 还 masih · 在 di · 门 pintu · 口 Suapan
+h2_faxian#1 | 所以生活中不缺少美，缺少发现美的眼睛。 | Suǒyǐ shēnghuó zhōng bù quēshǎo měi, quēshǎo fāxiàn měi de yǎnjing. | 所以 oleh karena itu · 生活 Kehidupan · 不 tidak · 缺少 kekurangan · 发现 menemukan · 眼睛 mata
+h2_gaosu#0 | 我真后悔告诉他这件事。 | Wǒ zhēn hòuhuǐ gàosu tā zhè jiàn shì. | 我 saya · 真 sungguh · 后悔 menyesal · 告诉 memberi tahu · 他 dia · 这 ini · 件 kata satuan pakaian
+h2_gaosu#1 | 你最好别告诉他答案。 | Nǐ zuì hǎo bié gàosu tā dá'àn. | 你 kamu · 最好 Paling baik · 别 jangan · 告诉 memberi tahu · 他 dia · 答案 jawaban
+h2_guanxi#0 | 夫妻俩关系越来越好。 | Fu qī liǎ guānxi yuè lái yuè hǎo. | 俩 Berdua · 关系 hubungan · 越 Semakin · 来 datang · 好 baik
+h2_hai#0 | 他发现7岁的儿子还在门口等他。 | Tā fāxiàn7 suì de érzi hái zài mén kǒu děng tā. | 他 dia · 发现 menemukan · 岁 tahun · 儿子 anak laki-laki · 还 masih · 在 di · 门 pintu · 口 Suapan
+h2_hai#1 | 决定成功的除了能力，还有态度。 | Juédìng chénggōng de chúle nénglì, hái yǒu tàidù. | 决定 Memutuskan · 成功 Berhasil · 除了 Selain · 能力 kemampuan · 还 masih · 有 ada · 态度 sikap
+h2_jiandan#0 | 做西红柿鸡蛋汤很简单。 | Zuò xīhóngshì jīdàn tāng hěn jiǎndān. | 做 membuat · 西红柿 tomat · 鸡蛋 telur ayam · 汤 sup · 很 sangat · 简单 sederhana
+h2_jiandan#1 | 每个人都想成功，但是成功并不是一件简单的事情。 | Měi gèrén dōu xiǎng chénggōng, dànshì chénggōng bìng bù shì yī jiàn jiǎndān de shìqing. | 每 setiap · 个人 individu · 都 semua · 想 ingin · 成功 Berhasil · 但是 tetapi · 并 Dan · 不 tidak
+h2_jiejue#0 | 你们商量出解决问题的方法了吗？ | Nǐ men shāngliang chū jiějué wèntí de fāngfǎ le ma? | 你 kamu · 商量 mendiskusikan · 出 keluar · 解决 menyelesaikan · 问题 pertanyaan · 方法 Cara
+h2_jiejue#1 | 发脾气并不能解决问题。 | Fā piqi bìng bù néng jiějué wèntí. | 发 Mengirim · 脾气 temperamen · 并 Dan · 不 tidak · 能 bisa · 解决 menyelesaikan · 问题 pertanyaan
+h2_juede#0 | 当你觉得无聊时，就去读书吧。 | Dāng nǐ juéde wúliáo shí, jiù qù dú shū ba. | 当 pada saat · 你 kamu · 觉得 merasa · 无聊 bosan · 就 langsung · 去 pergi · 读 membaca · 书 buku
+h2_juede#1 | 他觉得做地铁歌手很浪漫。 | Tā juéde zuò dìtiě gē shǒu hěn làngmàn. | 他 dia · 觉得 merasa · 做 membuat · 地铁 Subway · 很 sangat · 浪漫 Romantis

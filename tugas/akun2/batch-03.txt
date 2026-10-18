@@ -1,0 +1,90 @@
+hsk4_01_20#1 | 她很羡慕会弹钢琴的人。 | Tā hěn xiànmù huì tán gāngqín de rén. | 她 dia · 很 sangat · 羡慕 Iri · 会 bisa · 弹钢琴 bermain piano · 人 orang
+hsk4_01_20#2 | 不要总是羡慕别人。 | Bù yào zǒngshì xiànmù biérén. | 不 tidak · 要 mau · 总是 Selalu · 羡慕 Iri · 别人 Orang lain
+hsk4_01_21#1 | 爱情并不是生命的全部。 | Àiqíng bìng bù shì shēngmìng de quánbù. | 爱情 Cinta · 并 Dan · 不 tidak · 是 adalah · 生命 nyawa · 全部 semua
+hsk4_01_21#2 | 真正的爱情不需要浪漫。 | Zhēnzhèng de àiqíng bù xūyào làngmàn. | 真正 benar-benar · 爱情 Cinta · 不 tidak · 需要 Membutuhkan · 浪漫 Romantis
+hsk4_01_23#1 | 即使遇到暂时的失败，他们也会勇敢地接受并总结经验。 | Jíshi yùdào zànshí de shībài, tā men yě huì yǒnggǎn de jiēshòu bìng zǒngjié jīngyàn. | 即使 meskipun · 遇到 Bertemu · 暂时 sementara · 失败 gagal · 他 dia · 也 juga · 会 bisa · 勇敢 berani
+hsk4_01_23#2 | 晚上，即使关上了窗户，还是会偶尔被外面 的响声弄醒。 | Wǎnshang, jíshi guān shàng le chuānghu, háishi huì ǒu'ěr bèi wài miàn de xiǎng shēng nòng xǐng. | 晚上 malam · 即使 meskipun · 关 Mematikan · 上 atas · 窗户 jendela · 还是 Atau · 会 bisa · 偶尔 sesekali
+hsk4_01_24#1 | 姐姐最近经常加班。 | Jiějie zuìjìn jīngcháng jiā bān. | 姐姐 kakak perempuan · 最近 baru-baru ini · 经常 Sering · 加班 Lembur
+hsk4_01_24#2 | 女儿晚上要加班。 | Nǚ'ér wǎnshang yào jiā bān. | 女儿 anak perempuan · 晚上 malam · 要 mau · 加班 Lembur
+hsk4_01_26#1 | 他的话让李教授很感动。 | Tā de huà ràng li jiàoshòu hěn găndòng. | 他 dia · 让 membiarkan · 教授 profesor · 很 sangat · 感动 terharu
+hsk4_01_26#2 | 妻子容易被感动。 | Qīzi róngyì bèi găndòng. | 妻子 istri · 容易 Mudah · 被 Digunakan di kalimat pasif · 感动 terharu
+hsk4_01_27#1 | 太阳对大自然的影响很大。 | Tàiyáng duì dà zìrán de yǐngxiǎng hěn dà. | 太阳 Matahari · 对 benar · 大 besar · 自然 alam · 影响 Pengaruh · 很 sangat
+hsk4_01_27#2 | 经历不同，对事情的看法自然也不相同。 | Jīnglì bù tóng, duì shìqing de kànfǎ zìrán yě bù xiāngtóng. | 经历 mengalami · 不 tidak · 对 benar · 事情 urusan · 看法 pendapat · 自然 alam · 也 juga · 相同 sama
+hsk4_01_28#1 | 任何事情的发生都是有原因的。 | Rènhé shìqing de fāshēng dōu shì yǒu yuányīn de. | 任何 apapun · 事情 urusan · 发生 terjadi · 都 semua · 是 adalah · 有 ada · 原因 alasan
+hsk4_01_28#2 | 没人知道校长反对的原因。 | Méi rén zhīdào xiàozhǎng fǎnduì de yuányīn. | 没 tidak · 人 orang · 知道 tahu · 校长 Kepala sekolah · 反对 menentang · 原因 alasan
+hsk4_01_30#1 | 他们办的新闻网站很吸引人。 | Tā men bàn de xīnwén wǎngzhàn hěn xiyin rén. | 他 dia · 新闻 Berita · 网站 situs web · 很 sangat · 吸引 menarik · 人 orang
+hsk4_01_30#2 | 他的聪明、幽默深深地吸引了她。 | Tā de cōngming, yōumò shēn shēn de xiyin le tā. | 他 dia · 聪明 Pintar · 幽默 humoris · 深 Dalam · 吸引 menarik · 她 dia
+hsk4_01_31#1 | 他的聪明、幽默深深地吸引了她。 | Tā de cōngming, yōumò shēn shēn de xiyin le tā. | 他 dia · 聪明 Pintar · 幽默 humoris · 深 Dalam · 吸引 menarik · 她 dia
+hsk4_01_31#2 | 幽默的人容易交朋友。 | Yōumò de rén róngyì jiāo péngyou. | 幽默 humoris · 人 orang · 容易 Mudah · 交 Berteman · 朋友 teman
+hsk4_01_32#1 | 长期这样，会影响脾气甚至性格。 | Zhǎng qī zhè yàng, huì yǐngxiǎng piqi shènzhì xìnggé. | 长 Bertambah · 这 ini · 会 bisa · 影响 Pengaruh · 脾气 temperamen · 甚至 Bahkan · 性格 Kepribadian
+hsk4_01_32#2 | 发脾气并不能解决问题。 | Fā piqi bìng bù néng jiějué wèntí. | 发 Mengirim · 脾气 temperamen · 并 Dan · 不 tidak · 能 bisa · 解决 menyelesaikan · 问题 pertanyaan
+hsk4_02_01#1 | 我已经逐渐适应了这里的气候。 | Wǒ yǐjīng zhújiàn shìyìng le zhè lǐ de qìhòu. | 我 saya · 已经 sudah · 逐渐 perlahan-lahan · 适应 Beradaptasi · 这 ini · 里 di dalam · 气候 iklim
+hsk4_02_01#2 | 那个司机不太适应当地的气候。 | Nà gè sījī bù tài shìyìng dāngdì de qìhòu. | 那 itu · 个 kata satuan umum · 司机 Supir · 不 tidak · 太 terlalu · 适应 Beradaptasi · 当地 lokal · 气候 iklim
+hsk4_02_02#1 | 他反对把任务交给小高。 | Tā fǎnduì bǎ rènwu jiāo gěi xiǎo gāo. | 他 dia · 反对 menentang · 把 Kata satuan untuk payung · 任务 tugas · 交 Berteman · 给 memberi · 小 kecil · 高 tinggi
+hsk4_02_02#2 | 北京公交卡可以买东西。 | Běijīng gōng jiāo kǎ kěyǐ mǎi dōngxi. | 北京 Beijing · 交 Berteman · 可以 bisa · 买 membeli · 东西 benda
+hsk4_02_03#1 | 平时他在外面吃饭。 | Píngshí tā zài wài miàn chī fàn. | 平时 Biasanya · 他 dia · 在 di · 外 luar · 吃 makan · 饭 nasi
+hsk4_02_03#2 | 李师傅平时总是穿一件白衬衫、一条黑裤子。 | Li shīfu píngshí zǒngshì chuān yī jiàn bái chènshān, yī tiáo hēi kùzi. | 师傅 master · 平时 Biasanya · 总是 Selalu · 穿 memakai · 一 satu · 件 kata satuan pakaian · 白 putih · 衬衫 Kemeja
+hsk4_02_05#1 | 他希望大家给他发短信。 | Tā xīwàng dàjiā gěi tā fā duǎnxìn. | 他 dia · 希望 berharap · 大家 semua orang · 给 memberi · 发 Mengirim · 短信 SMS
+hsk4_02_05#2 | 现在，互联网和手机短信已经成了人们普遍使用 的联系方法。 | Xiànzài, hùliánwǎng hé shǒujī duǎnxìn yǐjīng chéng le rén men pǔ biàn shǐyòng de liánxì fāngfǎ. | 现在 sekarang · 互联网 internet · 和 dan · 手机 telepon genggam · 短信 SMS · 已经 sudah · 人 orang · 遍 kali
+hsk4_02_06#1 | 正好明天去海洋馆，我来给你们照相吧。 | Zhènghǎo míngtiān qù hǎiyáng guǎn, wǒ lái gěi nǐ men zhào xiāng ba. | 正好 Pas · 明天 besok · 去 pergi · 海洋 laut · 我 saya · 来 datang · 给 memberi · 你 kamu
+hsk4_02_06#2 | 正好明天去海洋馆，我来 给你们照相吧。 | Zhènghǎo míngtiān qù hǎiyáng guǎn, wǒ lái gěi nǐ men zhào xiāng ba. | 正好 Pas · 明天 besok · 去 pergi · 海洋 laut · 我 saya · 来 datang · 给 memberi · 你 kamu
+hsk4_02_07#1 | 他决定参加聚会。 | Tā juédìng cānjiā jùhuì. | 他 dia · 决定 Memutuskan · 参加 Berpartisipasi · 聚会 Berkumpul
+hsk4_02_07#2 | 他们还经常举办一些聚会，邀请的都是在这里打球的人。 | Tā men hái jīngcháng jǔbàn yī xiē jùhuì, yāoqǐng de dōu shì zài zhè lǐ dǎ qiú de rén. | 他 dia · 还 masih · 经常 Sering · 举办 menyelenggarakan · 一 satu · 些 beberapa · 聚会 Berkumpul · 邀请 mengundang
+hsk4_02_08#1 | 你和那位记者还有联系吗？ | Nǐ hé nà wèi jìzhě hái yǒu liánxì ma? | 你 kamu · 和 dan · 那 itu · 位 Kata satuan · 记者 wartawan · 还 masih · 有 ada · 联系 menghubungi
+hsk4_02_08#2 | 晚上我们再电话联系。 | Wǎnshang wǒmen zài diàn huà liánxì. | 晚上 malam · 我们 kami · 再 lagi · 联系 menghubungi
+hsk4_02_09#1 | 我跟你的看法差不多。 | Wǒ gēn nǐ de kànfǎ chàbuduō. | 我 saya · 跟 Bersama · 你 kamu · 看法 pendapat · 差不多 hampir
+hsk4_02_09#2 | 姐妹俩性格差不多。 | Jiě mèi liǎ xìnggé chàbuduō. | 俩 Berdua · 性格 Kepribadian · 差不多 hampir
+hsk4_02_10#1 | 他好像是专门为钢琴而出生的。 | Tā hǎoxiàng shì zhuānmén wèi gāng qín ér chūshēng de. | 他 dia · 好像 Sepertinya · 是 adalah · 专门 khusus · 为 Untuk · 而 tetapi · 出生 lahir
+hsk4_02_10#2 | 那个笔记本是专门写日记用的。 | Nà gè bǐ jì běn shì zhuānmén xiě rìjì yòng de. | 那 itu · 个 kata satuan umum · 本 · 是 adalah · 专门 khusus · 写 menulis · 日记 buku harian · 用 Membutuhkan
+hsk4_02_11#1 | 毕业让人又高兴又难过。 | Bì yè ràng rén yòu gāoxìng yòu nánguò. | 毕业 lulus · 让 membiarkan · 人 orang · 又 Dan · 高兴 senang · 难过 Sedih
+hsk4_02_11#2 | 女儿大学毕业后，找了一份翻译的工作。 | Nǚ'ér dà xué bì yè hòu, zhǎo le yī fèn fānyì de gōngzuò. | 女儿 anak perempuan · 大 besar · 毕业 lulus · 找 mencari · 一 satu · 份 Kata bantu untuk pekerjaan · 翻译 penerjemah · 工作 bekerja
+hsk4_02_12#1 | 如果谁不小心忘记了这些密码，那麻烦可就大了。 | Rúguǒ shéi bù xiǎoxīn wàngjì le zhè xiē mìmǎ, nà máfan kě jiù dà le. | 如果 jika · 谁 siapa · 不 tidak · 小心 Hati-hati · 忘记 Melupakan · 这 ini · 些 beberapa · 密码 kata sandi
+hsk4_02_13#1 | 他好像是专门为钢琴而出生的。 | Tā hǎoxiàng shì zhuānmén wèi gāng qín ér chūshēng de. | 他 dia · 好像 Sepertinya · 是 adalah · 专门 khusus · 为 Untuk · 而 tetapi · 出生 lahir
+hsk4_02_13#2 | 他的洗衣机好像出问题了。 | Tā de xǐ yī jī hǎoxiàng chū wèntí le. | 他 dia · 洗 mencuci · 好像 Sepertinya · 出 keluar · 问题 pertanyaan
+hsk4_02_14#1 | 你最好重新换一个密码。 | Nǐ zuì hǎo chóngxīn huàn yī gè mìmǎ. | 你 kamu · 最好 Paling baik · 重新 kembali · 换 Menukar · 一 satu · 个 kata satuan umum · 密码 kata sandi
+hsk4_02_14#2 | 她又重新检查了一遍。 | Tā yòu chóngxīn jiǎnchá le yī biàn. | 她 dia · 又 Dan · 重新 kembali · 检查 Memeriksa · 一 satu · 遍 kali
+hsk4_02_15#1 | 尽管这只是一场误会，但她仍然很生气。 | Jǐnguǎn zhè zhǐ shì yī chǎng wùhuì, dàn tā réngrán hěn shēngqì. | 尽管 meskipun · 这 ini · 只 Hanya · 是 adalah · 一 satu · 场 acara · 误会 kesalahpahaman · 她 dia
+hsk4_02_15#2 | ”尽管父亲有些生气，但还是拿出了10块钱。 | Jǐnguǎn fùqīn yǒu xiē shēngqì, dàn háishi ná chū le10 kuài qián. | 尽管 meskipun · 父亲 ayah · 有 ada · 些 beberapa · 生气 Marah · 还是 Atau · 拿 Mengambil · 出 keluar
+hsk4_02_16#1 | 学会多听，说明一个人真正成熟了。 | Xué huì duō tīng, shuōmíng yī gèrén zhēnzhèng chéngshú le. | 会 bisa · 多 banyak · 听 mendengarkan · 说明 menjelaskan · 一 satu · 个人 individu · 真正 benar-benar · 成熟 matang
+hsk4_02_16#2 | 真正的爱情不需要浪漫。 | Zhēnzhèng de àiqíng bù xūyào làngmàn. | 真正 benar-benar · 爱情 Cinta · 不 tidak · 需要 Membutuhkan · 浪漫 Romantis
+hsk4_02_17#1 | 中国人常说：“友谊第一，比赛第二。 | Zhōngguó rén cháng shuō: yǒuyì dìyī, bǐsài dì èr. | 中国 Tiongkok · 人 orang · 友谊 persahabatan · 第一 pertama · 比赛 Perlombaan · 二 dua
+hsk4_02_17#2 | 友谊宾馆离大使馆远吗？ | Yǒuyì bīnguǎn lí dàshǐguǎn yuǎn ma? | 友谊 persahabatan · 宾馆 hotel · 离 berjarak dari · 大使馆 kedutaan besar · 远 jauh
+hsk4_02_18#1 | 弟弟在工作中积累了丰富的经验。 | Dìdi zài gōngzuò zhōng jīlěi le fēngfù de jīngyàn. | 弟弟 adik laki-laki · 在 di · 工作 bekerja · 积累 Mengumpulkan · 丰富 kaya · 经验 Pengalaman kerja
+hsk4_02_18#2 | 读书会让你的知识更丰富，生活更精彩。 | Dú shū huì ràng nǐ de zhīshi gèng fēngfù, shēnghuó gèng jīngcǎi. | 读 membaca · 书 buku · 会 bisa · 让 membiarkan · 你 kamu · 知识 Pengetahuan · 更 Lebih · 丰富 kaya
+hsk4_02_19#1 | 当你觉得无聊时，就去读书吧。 | Dāng nǐ juéde wúliáo shí, jiù qù dú shū ba. | 当 pada saat · 你 kamu · 觉得 merasa · 无聊 bosan · 就 langsung · 去 pergi · 读 membaca · 书 buku
+hsk4_02_20#1 | 不管你是喜欢还是讨厌它，我们每天都生活在广告之中。 | Bùguǎn nǐ shì xǐhuan háishi tǎoyàn tā, wǒmen měi tiān dōu shēnghuó zài guǎnggào zhī zhōng. | 不管 Tidak peduli · 你 kamu · 是 adalah · 喜欢 suka · 还是 Atau · 讨厌 membenci · 它 dia · 我们 kami
+hsk4_02_20#2 | 广告虽然给我们带来很多方便，但数量太多也会让人觉得讨厌。 | Guǎnggào suī rán gěi wǒmen dài lái hěn duō fāngbiàn, dàn shùliàng tài duō yě huì ràng rén juéde tǎoyàn. | Meskipun iklan membawa banyak kemudahan bagi kita, jumlah yang terlalu banyak juga bisa membuat orang merasa terganggu/tidak suka. / 广告 iklan · 虽然 meskipun · 给我们带来 membawa kepada kita · 很多方便 banyak kemudahan · 但 tetapi · 数量 jumlah · 太多 terlalu banyak · 也 juga · 会 bisa/akan · 让人 membuat orang · 觉得 merasa · 讨厌 terganggu/tidak suka
+hsk4_02_22#1 | 他们的感情那么好，让周围的朋友们都很羡慕。 | Tā men de gǎnqíng nà me hǎo, ràng zhōuwéi de péngyou men dōu hěn xiànmù. | 他 dia · 感情 perasaan · 那 itu · 好 baik · 让 membiarkan · 周围 Disekitar · 朋友 teman · 都 semua
+hsk4_02_22#2 | 调查发现，经常和朋友聊天儿的人更受周围人的欢迎。 | Diàochá fāxiàn, jīngcháng hé péngyou liáotiānr de rén gèng shòu zhōuwéi rén de huānyíng. | 调查 Menyelidiki · 发现 menemukan · 经常 Sering · 和 dan · 朋友 teman · 聊天儿 Mengobrol · 人 orang · 更 Lebih
+hsk4_02_23#1 | 手机减少了人们面对面的交流。 | Shǒujī jiǎnshǎo le rén men miànduì miàn de jiāoliú. | 手机 telepon genggam · 减少 mengurangi · 人 orang · 面对 menghadapi · 交流 Bertukar pikiran
+hsk4_02_23#2 | 人们可以通过音乐交流感情。 | Rén men kěyǐ tōngguò yīnyuè jiāoliú gǎnqíng. | 人 orang · 可以 bisa · 通过 melalui · 音乐 Musik · 交流 Bertukar pikiran · 感情 perasaan
+hsk4_02_24#1 | 非常感谢您对我们工作的理解和支持。 | Fēicháng gǎnxiè nín duì wǒmen gōngzuò de lǐjiě hé zhīchí. | 非常 sangat · 感谢 berterima kasih · 您 Anda · 对 benar · 我们 kami · 工作 bekerja · 理解 Memahami · 和 dan
+hsk4_02_24#2 | 看到别人的缺点时，总是按照自己的理解去教育别人。 | Kàn dào biérén de quēdiǎn shí, zǒngshì ànzhào zìjǐ de lǐjiě qù jiàoyù biérén. | 看 melihat · 到 sampai · 别人 Orang lain · 缺点 Kekurangan · 总是 Selalu · 按照 Menurut · 自己 Diri Sendiri · 理解 Memahami
+hsk4_02_25#1 | 那种镜子比较轻。 | Nà zhǒng jìngzi bǐjiào qīng. | 那 itu · 种 Tipe · 镜子 cermin · 比较 Membandingkan · 轻 ringan
+hsk4_02_25#2 | 历史就像一面镜子，其中有许多值得我们学习的经验和方法。 | Lìshǐ jiù xiàng yī miàn jìngzi, qízhōng yǒu xǔduō zhídé wǒmen xuéxí de jīngyàn hé fāngfǎ. | 历史 Sejarah · 就 langsung · 像 Seperti · 一 satu · 镜子 cermin · 其中 di antaranya · 有 ada · 许多 banyak
+hsk4_02_26#1 | 他好像是专门为钢琴而出生的。 | Tā hǎoxiàng shì zhuānmén wèi gāng qín ér chūshēng de. | 他 dia · 好像 Sepertinya · 是 adalah · 专门 khusus · 为 Untuk · 而 tetapi · 出生 lahir
+hsk4_02_26#2 | 而富人自己吃了最小的一块。 | Ér fù rén zìjǐ chī le zuì xiǎo de yī kuài. | 而 tetapi · 富 kaya · 人 orang · 自己 Diri Sendiri · 吃 makan · 最 paling · 小 kecil · 一 satu
+hsk4_02_27#1 | 当你觉得无聊时，就去读书吧。 | Dāng nǐ juéde wúliáo shí, jiù qù dú shū ba. | 当 pada saat · 你 kamu · 觉得 merasa · 无聊 bosan · 就 langsung · 去 pergi · 读 membaca · 书 buku
+hsk4_02_29#1 | 有误会要及时解释清楚。 | Yǒu wùhuì yào jíshí jiěshì qīngchu. | 有 ada · 误会 kesalahpahaman · 要 mau · 及时 Tepat pada waktunya · 解释 menjelaskan · 清楚 jelas
+hsk4_02_29#2 | 这场雨下得真及时！ | Zhè chǎng yǔ xià děi zhēn jíshí! | 这 ini · 场 acara · 下 bawah · 真 sungguh · 及时 Tepat pada waktunya
+hsk4_02_30#1 | 你陪姐姐去公园散散步吧。 | Nǐ péi jiějie qù gōngyuán sàn sàn bù ba. | 你 kamu · 陪 Menemani · 姐姐 kakak perempuan · 去 pergi · 公园 Taman · 散步 jalan-jalan santai
+hsk4_02_30#2 | 我打算陪叔叔去长城看看。 | Wǒ dǎsuàn péi shūshu qù zhǎng chéng kàn kàn. | 我 saya · 打算 Rencana · 陪 Menemani · 叔叔 Paman · 去 pergi · 长 Bertambah · 看 melihat
+hsk4_03_02#1 | 很多人已经适应了每天紧张的工作。 | Hěn duō rén yǐjīng shìyìng le měi tiān jǐnzhāng de gōngzuò. | 很 sangat · 多 banyak · 人 orang · 已经 sudah · 适应 Beradaptasi · 每 setiap · 紧张 gugup · 工作 bekerja
+hsk4_03_02#2 | 弟弟紧张得出了一身汗。 | Dìdi jǐnzhāng děi chū le yī shēn hàn. | 弟弟 adik laki-laki · 紧张 gugup · 出 keluar · 一 satu · 汗 keringat
+hsk4_03_03#1 | 他对这件事很有信心。 | Tā duì zhè jiàn shì hěn yǒu xìn xīn. | 他 dia · 对 benar · 这 ini · 件 kata satuan pakaian · 很 sangat · 有 ada · 信心 kepercayaan diri
+hsk4_03_03#2 | 一切都在往好的方向发展，他也更有信心了。 | Yíqiè dōu zài wǎng hǎo de fāngxiàng fāzhǎn, tā yě gèng yǒu xìn xīn le. | 一切 Semua · 都 semua · 在 di · 好 baik · 方向 arah · 发展 berkembang · 他 dia · 也 juga
+hsk4_03_04#1 | 决定成功的除了能力，还有态度。 | Juédìng chénggōng de chúle nénglì, hái yǒu tàidù. | 决定 Memutuskan · 成功 Berhasil · 除了 Selain · 能力 kemampuan · 还 masih · 有 ada · 态度 sikap
+hsk4_03_04#2 | 坚持写日记对提高表达能力有好处。 | Jiānchí xiě rìjì duì tígāo biǎodá nénglì yǒu hǎochù. | 坚持 bertahan · 写 menulis · 日记 buku harian · 对 benar · 提高 Meningkatkan · 表达 menyatakan · 能力 kemampuan · 有 ada
+hsk4_03_05#1 | 楼下的商店要招聘两名售货员。 | Lóu xià de shāngdiàn yào zhāo pìn liǎng míng shòuhuòyuán. | 楼 Bangunan · 下 bawah · 商店 toko · 要 mau · 招聘 merekrut · 两 dua · 售货员 pramuniaga
+hsk4_03_05#2 | 银行决定招聘一名高级主管。 | Yínháng juédìng zhāo pìn yī míng gāojí zhǔ guǎn. | 银行 Bank · 决定 Memutuskan · 招聘 merekrut · 一 satu · 高级 tingkat tinggi
+hsk4_03_06#1 | 宾馆为我们提供了牙刷和牙膏。 | Bīnguǎn wèi wǒmen tí gōng le yá shuā hé yágāo. | 宾馆 hotel · 为 Untuk · 我们 kami · 提供 Menyediakan · 和 dan · 牙膏 pasta gigi
+hsk4_03_06#2 | 这椅子是专为老年人提供的。 | Zhè yǐzi shì zhuān wèi lǎo nián rén tí gōng de. | 这 ini · 椅子 kursi · 是 adalah · 为 Untuk · 老 Tua · 年 tahun · 人 orang · 提供 Menyediakan
+hsk4_03_07#1 | 这次调查是由李经理负责的。 | Zhè cì diàochá shì yóu li jīnglǐ fù zé de. | 这 ini · 次 kali · 调查 Menyelidiki · 是 adalah · 由 oleh · 经理 Manajer · 负责 Bertanggung jawab
+hsk4_03_07#2 | 他负责网站的技术工作。 | Tā fù zé wǎngzhàn de jìshù gōngzuò. | 他 dia · 负责 Bertanggung jawab · 网站 situs web · 技术 teknologi · 工作 bekerja
+hsk4_03_08#1 | 他们本来没打算买这些食品，但最后都“顺便”买回去了。 | Tā men běn lái méi dǎsuàn mǎi zhè xiē shí pǐn, dàn zuìhòu dōu shùnbiàn mǎi huí qù le. | 他 dia · 本来 awalnya · 没 tidak · 打算 Rencana · 买 membeli · 这 ini · 些 beberapa · 最后 Terakhir
+hsk4_03_09#1 | 应聘时，人们往往会紧张，这时一定要试着让自己冷静下来。 | Yìng pìn shí, rén men wǎngwǎng huì jǐnzhāng, zhè shí yídìng yào shì zhe ràng zìjǐ lěngjìng xià lái. | 应聘 melamar pekerjaan · 人 orang · 往往 seringkali · 会 bisa · 紧张 gugup · 这 ini · 一定 pasti · 要 mau
+hsk4_03_10#1 | 刚整理好的材料又被弄乱了。 | Gāng zhěnglǐ hǎo de cái liào yòu bèi nòng luàn le. | 刚 Baru Saja · 整理 merapikan · 好 baik · 材料 bahan · 又 Dan · 被 Digunakan di kalimat pasif · 弄 melakukan · 乱 kacau
+hsk4_03_10#2 | 你的申请材料寄出去了吗 | Nǐ de shēnqǐng cái liào jì chū qù le ma | 你 kamu · 申请 mengajukan · 材料 bahan · 寄 mengirim paket · 出 keluar · 去 pergi
+hsk4_03_11#1 | 这些食品符合国家安全标准吗？ | Zhè xiē shí pǐn fú hé guójiā ānquán biāozhǔn ma? | 这 ini · 些 beberapa · 符合 sesuai dengan · 国家 Negara · 安全 aman · 标准 standar
+hsk4_03_11#2 | 这么做完全符合国家的法律规定。 | Zhè me zuò wánquán fú hé guójiā de fǎ lǜ guīdìng. | 这 ini · 做 membuat · 完全 Sepenuhnya · 符合 sesuai dengan · 国家 Negara · 法律 Hukum · 规定 aturan
+hsk4_03_12#1 | 你先别着急，有消息我会第一时间通知你的。 | Nǐ xiān bié zháojí, yǒu xiāoxi wǒ huì dìyī shíjiān tōng zhī nǐ de. | 你 kamu · 先 Pertama · 别 jangan · 着急 Khawatir atau Cemas · 有 ada · 消息 Berita · 我 saya · 会 bisa

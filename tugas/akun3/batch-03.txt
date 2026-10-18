@@ -1,0 +1,90 @@
+hsk4_08_26#2 | 可惜的是，人们往往对这一点重视不够。 | Kěxī de shì, rén men wǎngwǎng duì zhè yī diǎn zhòngshì bù gòu. | 可惜 sayang · 是 adalah · 人 orang · 往往 seringkali · 对 benar · 这 ini · 一 satu · 点 jam
+hsk4_08_27#1 | 植物会为了阳光、空气和水而竞争。 | Zhíwù huì wèile yángguāng, kōngqì hé shuǐ ér jìngzhēng. | 植物 tanaman · 会 bisa · 为了 Demi · 阳光 sinar matahari · 空气 udara · 和 dan · 水 air · 而 tetapi
+hsk4_08_27#2 | 任何植物都离不开阳光。 | Rènhé zhíwù dōu lí bù kāi yángguāng. | 任何 apapun · 植物 tanaman · 都 semua · 离 berjarak dari · 不 tidak · 开 membuka · 阳光 sinar matahari
+hsk4_08_28#1 | 怀疑精神有积极作用。 | Huáiyí jīngshén yǒu jījí zuòyòng. | 怀疑 meragukan · 精神 semangat · 有 ada · 积极 positif · 作用 fungsi
+hsk4_09_01#1 | 那盒饼干被儿子吃光了。 | Nà hé bǐnggān bèi érzi chī guāng le. | 那 itu · 饼干 biskuit · 被 Digunakan di kalimat pasif · 儿子 anak laki-laki · 吃 makan · 光 hanya
+hsk4_09_02#1 | 难道你不记得大夫说过的话了吗？ | Nándào nǐ bù jìde dàifu shuō guò de huà le ma? | 难道 masa sih · 你 kamu · 不 tidak · 记得 Mengingat · 大夫 dokter · 过 Melewati
+hsk4_09_02#2 | 难道你连这个规定都不知道？ | Nándào nǐ lián zhè gè guīdìng dōu bù zhīdào? | 难道 masa sih · 你 kamu · 连 bahkan · 这 ini · 个 kata satuan umum · 规定 aturan · 都 semua · 不 tidak
+hsk4_09_03#1 | 儿子的复习笔记整理得很详细。 | Érzi de fùxí bǐ jì zhěnglǐ děi hěn xiángxì. | 儿子 anak laki-laki · 复习 Review atau mengulang pelaja · 整理 merapikan · 很 sangat · 详细 terperinci
+hsk4_09_03#2 | 你们校长的中文说得很流利。 | Nǐ men xiàozhǎng de zhōngwén shuō děi hěn liúlì. | 你 kamu · 校长 Kepala sekolah · 中文 Bahasa Mandarin · 很 sangat · 流利 lancar
+hsk4_09_04#1 | 坚持写日记对提高表达能力有好处。 | Jiānchí xiě rìjì duì tígāo biǎodá nénglì yǒu hǎochù. | 坚持 bertahan · 写 menulis · 日记 buku harian · 对 benar · 提高 Meningkatkan · 表达 menyatakan · 能力 kemampuan · 有 ada
+hsk4_09_04#2 | ”在现代社会中，我们必须坚持学习。 | Zài xiàndài shèhuì zhōng, wǒmen bìxū jiānchí xuéxí. | 在 di · 现代 modern · 社会 masyarakat · 我们 kami · 必须 Harus · 坚持 bertahan · 学习 belajar
+hsk4_09_05#1 | 教授竟然把这次机会放弃了。 | Jiàoshòu jìngrán bǎ zhè cì jīhuì fàngqì le. | 教授 profesor · 竟然 ternyata · 把 Kata satuan untuk payung · 这 ini · 次 kali · 机会 Kesempatan · 放弃 menyerah
+hsk4_09_05#2 | 生活的压力并没有使他放弃理想。 | Shēnghuó de yālì bìng méiyǒu shǐ tā fàngqì lǐxiǎng. | 生活 Kehidupan · 压力 tekanan · 并 Dan · 没有 tidak ada · 使 membuat · 他 dia · 放弃 menyerah · 理想 cita-cita
+hsk4_09_07#1 | 他想参加网球比赛。 | Tā xiǎng cānjiā wǎngqiú bǐsài. | 他 dia · 想 ingin · 参加 Berpartisipasi · 网球 tenis · 比赛 Perlombaan
+hsk4_09_07#2 | 这家网球馆的服务不错，给我的印象很好。 | Zhè jiā wǎngqiú guǎn de fú wù bù cuò, gěi wǒ de yìnxiàng hěn hǎo. | Pelayanan di gedung tenis ini cukup baik dan memberikan kesan yang sangat baik kepada saya. / 这家 ... 馆 gedung/tempat ini · 网球 tenis · 服务 pelayanan · 不错 cukup baik · 给我的印象很好 memberikan kesan yang baik kepada saya
+hsk4_09_08#1 | 尽管她现在只有 16 岁，但已经获得了好几个国际大奖。 | Jǐnguǎn tā xiànzài zhǐ yǒu16 suì, dàn yǐjīng huòdé le hǎo jǐ gè guójì dà jiǎng. | 尽管 meskipun · 她 dia · 现在 sekarang · 只 Hanya · 有 ada · 岁 tahun · 已经 sudah · 获得 memperoleh
+hsk4_09_09#1 | 其实，做导游并不像人们想的那样轻松。 | Qíshí, zuò dǎoyóu bìng bù xiàng rén men xiǎng de nà yàng qīngsōng. | 其实 sebenarnya · 做导游 bekerja sebagai pemandu wisata · 并不像……那样 sama sekali tidak seperti… · 人们 orang-orang · 想的 yang dibayangkan/dipikirkan · 轻松 mudah/ringan; keseluruhan makna: Sebenarnya, bekerja sebagai pemandu wisata tidak semudah yang dibayangkan orang.
+hsk4_09_09#2 | 把这些都详细计划好，旅游时才会更轻松。 | Bǎ zhè xiē dōu xiángxì jìhuà hǎo, lǚyóu shí cái huì gèng qīngsōng. | 把这些都详细计划好 menyiapkan/merencanakan semua hal ini dengan rinci · 旅游时 ketika bepergian · 才会 baru akan/dengan begitu akan · 更 lebih · 轻松 santai/tidak terbebani; keseluruhan makna: Jika semua ini direncanakan dengan rinci, perjalanan akan terasa lebih santai.
+hsk4_09_10#1 | 最终，南风赢得了比赛。 | Zuì zhōng, nán fēng yíng děi le bǐsài. | 最 paling · 赢 menang · 比赛 Perlombaan
+hsk4_09_10#2 | 这场比赛赢得非常漂亮。 | Zhè chǎng bǐsài yíng děi fēicháng piàoliang. | 这 ini · 场 acara · 比赛 Perlombaan · 赢 menang · 非常 sangat · 漂亮 cantik
+hsk4_09_12#1 | 他准备了一条白毛巾擦汗。 | Tā zhǔnbèi le yī tiáo bái máojīn cā hàn. | 他 dia · 准备 bersiap · 一 satu · 条 Kata satuan untuk celana · 白 putih · 毛巾 handuk · 擦 mengusap · 汗 keringat
+hsk4_09_12#2 | 弟弟紧张得出了一身汗。 | Dìdi jǐnzhāng děi chū le yī shēn hàn. | 弟弟 adik laki-laki · 紧张 gugup · 出 keluar · 一 satu · 汗 keringat
+hsk4_09_13#1 | 人们可以通过音乐交流感情。 | Rén men kěyǐ tōngguò yīnyuè jiāoliú gǎnqíng. | 人 orang · 可以 bisa · 通过 melalui · 音乐 Musik · 交流 Bertukar pikiran · 感情 perasaan
+hsk4_09_13#2 | 她们俩没通过普通话考试。 | Tā men liǎ méi tōngguò pǔtōnghuà kǎoshì. | 她 dia · 俩 Berdua · 没 tidak · 通过 melalui · 普通话 bahasa Mandarin standar · 考试 ujian
+hsk4_09_14#1 | 这篇文章主要谈儿童教育问题。 | Zhè piān wénzhāng zhǔyào tán értóng jiàoyù wèntí. | 这 ini · 篇 satuan untuk tulisan · 文章 artikel · 主要 Utama · 谈 Berbicara · 儿童 anak-anak · 教育 mendidik · 问题 pertanyaan
+hsk4_09_14#2 | 那篇文章引起了很多人的注意。 | Nà piān wénzhāng yǐnqǐ le hěn duō rén de zhùyì. | 那 itu · 篇 satuan untuk tulisan · 文章 artikel · 引起 menyebabkan · 很 sangat · 多 banyak · 人 orang · 注意 Perhatian
+hsk4_09_15#1 | 作家的小说很受欢迎。 | Zuòjiā de xiǎoshuō hěn shòu huānyíng. | 作家 penulis · 小说 novel · 很 sangat · 欢迎 Selamat datang
+hsk4_09_15#2 | 冰心是著名的翻译家，也是深受儿童喜爱的作家。 | Bīng xīn shì zhùmíng de fānyì jiā, yě shì shēn shòu értóng xǐ ài de zuòjiā. | 冰心 adalah seorang penerjemah terkenal sekaligus penulis yang sangat disukai anak-anak. / 是 adalah · 著名 terkenal · 翻译家 penerjemah · 也是 juga merupakan · 深受 sangat disukai oleh · 儿童 anak-anak · 喜爱 menyukai · 作家 penulis
+hsk4_09_16#1 | 上次爬长城已经是5年前的事了，当时我还在北京读硕士。 | Shàng cì pá zhǎng chéng yǐjīng shì5 nián qián de shì le, dāngshí wǒ hái zài běijīng dú shuòshì. | 上 atas · 次 kali · 长 Bertambah · 已经 sudah · 是 adalah · 年 tahun · 当时 pada waktu itu · 我 saya
+hsk4_09_18#1 | 我们对失败应该有正确的认识。 | Wǒmen duì shībài yīnggāi yǒu zhèngquè de rènshi. | 我们 kami · 对 benar · 失败 gagal · 应该 Seharusnya · 有 ada · 正确 benar · 认识 mengenal
+hsk4_09_18#2 | 教育孩子要使用正确的方法。 | Jiàoyù háizi yào shǐyòng zhèngquè de fāngfǎ. | 教育 mendidik · 孩子 anak · 要 mau · 使用 menggunakan · 正确 benar · 方法 Cara
+hsk4_09_19#1 | 生活的压力并没有使他放弃理想。 | Shēnghuó de yālì bìng méiyǒu shǐ tā fàngqì lǐxiǎng. | 生活 Kehidupan · 压力 tekanan · 并 Dan · 没有 tidak ada · 使 membuat · 他 dia · 放弃 menyerah · 理想 cita-cita
+hsk4_09_19#2 | 理想能够使人走出困境。 | Lǐxiǎng néng gòu shǐ rén zǒu chū kùn jìng. | 理想 cita-cita · 能 bisa · 够 Cukup · 使 membuat · 人 orang · 走 berjalan · 出 keluar · 困 mengantuk
+hsk4_09_20#1 | 赛车是为勇敢的人准备的运动。 | Sài chē shì wèi yǒnggǎn de rén zhǔnbèi de yùndòng. | 是 adalah · 为 Untuk · 勇敢 berani · 人 orang · 准备 bersiap · 运动 olahraga
+hsk4_09_20#2 | 父母都希望自己的孩子诚实、勇敢、有礼貌。 | Fù mǔ dōu xīwàng zìjǐ de háizi chéngshí, yǒnggǎn, yǒu lǐmào. | 都 semua · 希望 berharap · 自己 Diri Sendiri · 孩子 anak · 诚实 Jujur · 勇敢 berani · 有 ada · 礼貌 sopan
+hsk4_09_21#1 | 小张的调查结果写得很好。 | Xiǎo zhāng de diàochá jiéguǒ xiě děi hěn hǎo. | 小 kecil · 张 Kata satuan · 调查 Menyelidiki · 结果 hasil · 写 menulis · 很 sangat · 好 baik
+hsk4_09_21#2 | ”结果很多学生都叫了起来：“不对！ | Jiéguǒ hěn duō xuésheng dōu jiào le qǐlai: bù duì! | 结果 hasil · 很 sangat · 多 banyak · 学生 murid · 都 semua · 叫 bernama · 起来 Bangun · 不 tidak
+hsk4_09_22#1 | 我们对失败应该有正确的认识。 | Wǒmen duì shībài yīnggāi yǒu zhèngquè de rènshi. | 我们 kami · 对 benar · 失败 gagal · 应该 Seharusnya · 有 ada · 正确 benar · 认识 mengenal
+hsk4_09_22#2 | 有的人害怕失败，无法接受失败。 | Yǒu de rén hàipà shībài, wúfǎ jiēshòu shībài. | 有 ada · 人 orang · 害怕 Takut · 失败 gagal · 无法 tidak dapat · 接受 Menerima
+hsk4_09_23#1 | 人在睡觉过程中会做梦，这太正常了。 | Rén zài shuìjiào guòchéng zhōng huì zuò mèng, zhè tài zhèngcháng le. | 人 orang · 在 di · 睡觉 tidur · 过程 proses · 会 bisa · 做 membuat · 梦 mimpi · 这 ini
+hsk4_09_23#2 | 结果比过程更重要。 | Jiéguǒ bǐ guòchéng gèng zhòngyào. | 结果 hasil · 比 dibandingkan · 过程 proses · 更 Lebih · 重要 Penting
+hsk4_09_24#1 | 笑话每个人至少都知道几个，但不是所有人都会讲。 | Xiàohua měi gèrén zhìshǎo dōu zhīdào jǐ gè, dàn bù shì suǒyǒu rén dōu huì jiǎng. | 笑话 lelucon · 每 setiap · 个人 individu · 至少 setidaknya · 都 semua · 知道 tahu · 几 berapa · 个 kata satuan umum
+hsk4_09_25#1 | 应该总结过去的经验。 | Yīnggāi zǒngjié guòqù de jīngyàn. | 应该 Seharusnya · 总结 merangkum · 过去 Masa lalu · 经验 Pengalaman kerja
+hsk4_09_25#2 | 即使遇到暂时的失败，他们也会勇敢地接受并总结经验。 | Jíshi yùdào zànshí de shībài, tā men yě huì yǒnggǎn de jiēshòu bìng zǒngjié jīngyàn. | 即使 meskipun · 遇到 Bertemu · 暂时 sementara · 失败 gagal · 他 dia · 也 juga · 会 bisa · 勇敢 berani
+hsk4_09_27#1 | 经历不同，对事情的看法自然也不相同。 | Jīnglì bù tóng, duì shìqing de kànfǎ zìrán yě bù xiāngtóng. | 经历 mengalami · 不 tidak · 对 benar · 事情 urusan · 看法 pendapat · 自然 alam · 也 juga · 相同 sama
+hsk4_09_27#2 | 他的经历非常丰富。 | Tā de jīnglì fēicháng fēngfù. | 他 dia · 经历 mengalami · 非常 sangat · 丰富 kaya
+hsk4_09_28#1 | 许多家饭店的年收入都超过了亿元。 | Xǔduō jiā fàn diàn de nián shōurù dōu chāoguò le yì yuán. | 许多 banyak · 家 rumah · 饭 nasi · 年 tahun · 收入 Pemasukan · 都 semua · 超过 melebihi · 亿 100 juta
+hsk4_09_28#2 | 他们俩有许多共同语言。 | Tā men liǎ yǒu xǔduō gòngtóng yǔyán. | 他 dia · 俩 Berdua · 有 ada · 许多 banyak · 共同 Bersama-sama · 语言 bahasa
+hsk4_09_29#1 | 这两个词语的用法有什么区别？ | Zhè liǎng gè cíyǔ de yòng fǎ yǒu shénme qūbié? | 这 ini · 两 dua · 个 kata satuan umum · 词语 kata · 用 Membutuhkan · 有 ada · 什么 apa · 区别 perbedaan
+hsk4_09_29#2 | 你们俩的看法没什么区别。 | Nǐ men liǎ de kànfǎ méi shénme qūbié. | 你 kamu · 俩 Berdua · 看法 pendapat · 没 tidak · 什么 apa · 区别 perbedaan
+hsk4_09_30#1 | 无论成功还是失败，都只是暂时的。 | Wúlùn chénggōng háishi shībài, dōu zhǐ shì zànshí de. | 无论 tidak peduli · 成功 Berhasil · 还是 Atau · 失败 gagal · 都 semua · 只 Hanya · 是 adalah · 暂时 sementara
+hsk4_09_30#2 | 我暂时还不打算留学。 | Wǒ zànshí hái bù dǎsuàn liúxué. | 我 saya · 暂时 sementara · 还 masih · 不 tidak · 打算 Rencana · 留学 Belajar di luar Negeri
+hsk4_09_31#1 | 手机减少了人们面对面的交流。 | Shǒujī jiǎnshǎo le rén men miànduì miàn de jiāoliú. | 手机 telepon genggam · 减少 mengurangi · 人 orang · 面对 menghadapi · 交流 Bertukar pikiran
+hsk4_10_01#1 | 舞会将在这个礼拜天举行。 | Wǔ huì jiāng zài zhè gè lǐbàitiān jǔxíng. | 会 bisa · 在 di · 这 ini · 个 kata satuan umum · 礼拜天 hari Minggu · 举行 mengadakan
+hsk4_10_03#1 | 母亲把家里收拾得整整齐齐。 | Mǔqīn bǎ jiā lǐ shōushi děi zhěng zhěngqí qí. | 母亲 ibu · 把 Kata satuan untuk payung · 家 rumah · 里 di dalam · 收拾 merapikan · 整齐 rapi
+hsk4_10_03#2 | 母亲从来没去过农村。 | Mǔqīn cónglái méi qù guò nóngcūn. | 母亲 ibu · 从来 Selalu · 没 tidak · 去 pergi · 过 Melewati · 农村 pedesaan
+hsk4_10_04#1 | 不过也不用多长时间，估计10几分钟就来了。 | Búguò yě bù yòng duō zhǎng shíjiān, gūjì10 jǐ fēnzhōng jiù lái le. | 不过 tetapi · 也 juga · 不 tidak · 用 Membutuhkan · 多 banyak · 长 Bertambah · 时间 waktu · 估计 memperkirakan
+hsk4_10_04#2 | 那些说自己从来没做过梦的人，只不过是忘记了。 | Nà xiē shuō zìjǐ cónglái méi zuò guò mèng de rén, zhǐ búguò shì wàngjì le. | 那 itu · 些 beberapa · 自己 Diri Sendiri · 从来 Selalu · 没 tidak · 做 membuat · 过 Melewati · 梦 mimpi
+hsk4_10_05#1 | 因为一个不知道自己缺点的人，永远都不会想要去改变。 | Yīnwèi yī gè bù zhīdào zìjǐ quēdiǎn de rén, yǒngyuǎn dōu bù huì xiǎng yào qù gǎibiàn. | 因为 karena · 一 satu · 个 kata satuan umum · 不 tidak · 知道 tahu · 自己 Diri Sendiri · 缺点 Kekurangan · 人 orang
+hsk4_10_06#1 | 它不仅要求高速度，还要求准确的方向。 | Tā bùjǐn yāoqiú gāo sùdù, hái yāoqiú zhǔnquè de fāngxiàng. | 它 dia · 不仅 Tidak hanya · 要求 Persyaratan · 高 tinggi · 速度 kecepatan · 还 masih · 准确 akurat · 方向 arah
+hsk4_10_06#2 | 一切都在往好的方向发展，他也更有信心了。 | Yíqiè dōu zài wǎng hǎo de fāngxiàng fāzhǎn, tā yě gèng yǒu xìn xīn le. | 一切 Semua · 都 semua · 在 di · 好 baik · 方向 arah · 发展 berkembang · 他 dia · 也 juga
+hsk4_10_07#1 | 每个人都有缺点，再优秀的人也一样。 | Měi gèrén dōu yǒu quēdiǎn, zài yōuxiù de rén yě yíyàng. | 每 setiap · 个人 individu · 都 semua · 有 ada · 缺点 Kekurangan · 再 lagi · 优秀 sangat bagus · 人 orang
+hsk4_10_08#1 | 上次爬长城已经是5年前的事了，当时我还在北京读硕士。 | Shàng cì pá zhǎng chéng yǐjīng shì5 nián qián de shì le, dāngshí wǒ hái zài běijīng dú shuòshì. | 上 atas · 次 kali · 长 Bertambah · 已经 sudah · 是 adalah · 年 tahun · 当时 pada waktu itu · 我 saya
+hsk4_10_09#1 | 请把这篇文章翻译成中文。 | Qǐng bǎ zhè piān wénzhāng fānyì chéng zhōngwén. | 请 silakan · 把 Kata satuan untuk payung · 这 ini · 篇 satuan untuk tulisan · 文章 artikel · 翻译 penerjemah · 中文 Bahasa Mandarin
+hsk4_10_09#2 | 女儿大学毕业后，找了一份翻译的工作。 | Nǚ'ér dà xué bì yè hòu, zhǎo le yī fèn fānyì de gōngzuò. | 女儿 anak perempuan · 大 besar · 毕业 lulus · 找 mencari · 一 satu · 份 Kata bantu untuk pekerjaan · 翻译 penerjemah · 工作 bekerja
+hsk4_10_10#1 | 那个司机确实很诚实。 | Nà gè sījī quèshí hěn chéngshí. | 那 itu · 个 kata satuan umum · 司机 Supir · 确实 memang · 很 sangat · 诚实 Jujur
+hsk4_10_10#2 | 阅 读 ，确实是一件值得花时间去做的事。 | Yuè dú, quèshí shì yī jiàn zhídé huā shíjiān qù zuò de shì. | 读 membaca · 确实 memang · 是 adalah · 一 satu · 件 kata satuan pakaian · 值得 layak · 花 Bunga · 时间 waktu
+hsk4_10_11#1 | 哥哥兴奋得睡不着觉。 | Gēge xīngfèn děi shuì bù zhe jué. | 哥哥 kakak laki-laki · 兴奋 bersemangat · 不 tidak
+hsk4_10_12#1 | 手机拉近了人与人之间的距离。 | Shǒujī lā jìn le rén yǔ rén zhī jiān de jùlí. | 手机 telepon genggam · 拉 menarik · 近 dekat · 人 orang · 与 Dengan · 之 partikel penghubung atribut · 距离 jarak
+hsk4_10_12#2 | 互联网拉近了人与人之间的距离。 | Hùliánwǎng lā jìn le rén yǔ rén zhī jiān de jùlí. | 互联网 internet · 拉 menarik · 近 dekat · 人 orang · 与 Dengan · 之 partikel penghubung atribut · 距离 jarak
+hsk4_10_14#1 | 选择职业时，你最看重什么？ | Xuǎnzé zhíyè shí, nǐ zuì kàn zhòng shénme? | 选择 Memilih · 职业 profesi · 你 kamu · 最 paling · 看 melihat · 重 berat · 什么 apa
+hsk4_10_14#2 | 他的职业是演员。 | Tā de zhíyè shì yǎnyuán. | 他 dia · 职业 profesi · 是 adalah · 演员 aktor
+hsk4_10_15#1 | 说什么不重要，关键看你做什么、怎么做。 | Shuō shénme bù zhòngyào, guānjiàn kàn nǐ zuò shénme, zěnme zuò. | 说什么 apa yang dikatakan · 不重要 tidak penting · 关键 kuncinya/yang terpenting · 看 bergantung pada/melihat · 你 kamu · 做什么 apa yang dilakukan · 怎么做 bagaimana melakukannya; keseluruhan makna: Apa yang dikatakan tidaklah penting; yang terpenting adalah apa yang kamu lakukan dan bagaimana kamu melakukannya.
+hsk4_10_15#2 | 在我看来，赚钱 多少不是最重要的，兴趣才是关键。 | Zài wǒ kàn lái, zhuàn qián duōshao bù shì zuì zhòngyào de, xìng qù cái shì guānjiàn. | Menurut saya, banyak atau sedikitnya uang yang diperoleh bukanlah hal terpenting; minatlah yang menjadi kunci. / 在我看来 menurut saya · 赚钱 memperoleh uang/mencari nafkah · 多少 banyak atau sedikit · 不是 bukan · 最重要的 hal yang paling penting · 兴趣 minat · 才是 justru merupakan · 关键 kunci/hal utama
+hsk4_10_16#1 | 工资、奖金还是将来的发展？ | Gōngzī, jiǎngjīn háishi jiānglái de fāzhǎn? | 工资 Gaji · 奖金 Bonus · 还是 Atau · 将来 masa depan · 发展 berkembang
+hsk4_10_16#2 | 将来如果有机会，我一定还要再来云南旅游。 | Jiānglái rúguǒ yǒu jīhuì, wǒ yídìng hái yào zài lái yún nán lǚyóu. | 将来 masa depan · 如果 jika · 有 ada · 机会 Kesempatan · 我 saya · 一定 pasti · 还 masih · 要 mau
+hsk4_10_17#1 | 工资、奖金还是将来的发展？ | Gōngzī, jiǎngjīn háishi jiānglái de fāzhǎn? | 工资 Gaji · 奖金 Bonus · 还是 Atau · 将来 masa depan · 发展 berkembang
+hsk4_10_17#2 | 国家的经济正在逐渐发展。 | Guójiā de jīngjì zhèngzài zhújiàn fāzhǎn. | 国家 Negara · 经济 ekonomi · 正在 sedang · 逐渐 perlahan-lahan · 发展 berkembang
+hsk4_10_18#1 | 晚上，我刚刚躺下，就响起了敲门声。 | Wǎnshang, wǒ gāng gāng tǎng xià, jiù xiǎng qǐ le qiāo mén shēng. | 晚上 malam · 我 saya · 刚 Baru Saja · 躺 berbaring · 下 bawah · 就 langsung · 响 berbunyi · 起 bangkit
+hsk4_10_18#2 | 躺着看书对眼睛不好。 | Tǎng zhe kàn shū duì yǎnjing bù hǎo. | 躺 berbaring · 看 melihat · 书 buku · 对 benar · 眼睛 mata · 不 tidak · 好 baik
+hsk4_10_19#1 | 昨晚没睡好，现在有点儿困了。 | Zuó wǎn méi shuì hǎo, xiànzài yǒu diǎn ér kùn le. | 没 tidak · 好 baik · 现在 sekarang · 有 ada · 点 jam · 困 mengantuk
+hsk4_10_19#2 | 理想能够使人走出困境。 | Lǐxiǎng néng gòu shǐ rén zǒu chū kùn jìng. | 理想 cita-cita · 能 bisa · 够 Cukup · 使 membuat · 人 orang · 走 berjalan · 出 keluar · 困 mengantuk
+hsk4_10_20#1 | 判断经济水平不能光看收入。 | Pànduàn jīngjì shuǐpíng bù néng guāng kàn shōurù. | 判断 Memutuskan · 经济 ekonomi · 水平 Tingkat · 不 tidak · 能 bisa · 光 hanya · 看 melihat · 收入 Pemasukan
+hsk4_10_20#2 | 亚洲经济的增长速度正在逐渐提高。 |  | 经济 ekonomi · 长 Bertambah · 速度 kecepatan · 正在 sedang · 逐渐 perlahan-lahan · 提高 Meningkatkan
+hsk4_10_21#1 | 而且，方便的交通也为他们 的出行提供了条件。 | Ér qiě, fāngbiàn de jiāotōng yě wèi tā men de chū xíng tí gōng le tiáojiàn. | 而 tetapi · 方便 Praktis · 交通 lalu lintas · 也 juga · 为 Untuk · 他 dia · 出 keluar · 行 boleh
+hsk4_10_21#2 | 海南的气候条件很特别，一年四季都让人感觉暖和、湿润。 | Hǎi nán de qìhòu tiáojiàn hěn tèbié, yī nián sì jì dōu ràng rén gǎnjué nuǎnhuo, shīrùn. | 气候 iklim · 条件 syarat · 很 sangat · 特别 istimewa · 一 satu · 年 tahun · 四 empat · 都 semua
+hsk4_10_22#1 | 而富人自己吃了最小的一块。 | Ér fù rén zìjǐ chī le zuì xiǎo de yī kuài. | 而 tetapi · 富 kaya · 人 orang · 自己 Diri Sendiri · 吃 makan · 最 paling · 小 kecil · 一 satu
+hsk4_10_22#2 | 一个年轻人问富人怎么才能赚更多的钱。 | Yī gè niánqīng rén wèn fù rén zěnme cái néng zhuàn gèng duō de qián. | 一 satu · 个 kata satuan umum · 年轻 Muda · 人 orang · 问 bertanya · 富 kaya · 怎么 bagaimana · 能 bisa
+hsk4_10_24#1 | 他发现7岁的儿子还在门口等他。 | Tā fāxiàn7 suì de érzi hái zài mén kǒu děng tā. | 他 dia · 发现 menemukan · 岁 tahun · 儿子 anak laki-laki · 还 masih · 在 di · 门 pintu · 口 Suapan
+hsk4_10_25#1 | 由于急着回家，他把车开得很快。 | Yóuyú jí zhe huí jiā, tā bǎ chē kāi děi hěn kuài. | 由于 karena · 回 kembali · 家 rumah · 他 dia · 把 Kata satuan untuk payung · 开 membuka · 很 sangat · 快 cepat

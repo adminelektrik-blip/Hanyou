@@ -1,0 +1,90 @@
+h1_ai#1 | 那位著名的演员深受观众的喜爱。 | Nà wèi zhùmíng de yǎnyuán shēn shòu guānzhòng de xǐ ài. | 那 itu · 位 Kata satuan · 著名 terkenal · 演员 aktor · 深 Dalam · 观众 penonton · 爱 cinta
+h1_ai#2 | 叔叔现在还爱打篮球。 | Shūshu xiànzài hái ài dǎ lánqiú. | 叔叔 Paman · 现在 sekarang · 还 masih · 爱 cinta · 打篮球 bermain bola basket
+h1_baba#1 | 爸爸下班回到家已经很晚了，很累。 | Bàba xià bān huí dào jiā yǐjīng hěn wǎn le, hěn lèi. | 爸爸 ayah · 下 bawah · 班 Kelas · 回 kembali · 到 sampai · 家 rumah · 已经 sudah · 很 sangat
+h1_beijing#1 | 普通话以北京语音为标准音。 | Pǔtōnghuà yǐ běijīng yǔ yīn wèi biāozhǔn yīn. | 普通话 bahasa Mandarin standar · 以 dengan · 北京 Beijing · 为 Untuk · 标准 standar
+h1_beijing#2 | 这次电影艺术节也许会在北京举行。 | Zhè cì diànyǐng yìshù jié yěxǔ huì zài běijīng jǔxíng. | 这 ini · 次 kali · 电影 film · 艺术 seni · 节 bagian · 也许 mungkin · 会 bisa · 在 di
+h1_ben#1 | 他写这本书时才上高中二年级。 | Tā xiě zhè běn shū shí cái shàng gāo zhōng èr niánjí. | 他 dia · 写 menulis · 这 ini · 本 · 书 buku · 上 atas · 高 tinggi · 二 dua
+h1_ben#2 | 那个笔记本是专门写日记用的。 | Nà gè bǐ jì běn shì zhuānmén xiě rìjì yòng de. | 那 itu · 个 kata satuan umum · 本 · 是 adalah · 专门 khusus · 写 menulis · 日记 buku harian · 用 Membutuhkan
+h1_bu#1 | 中国人常说“父母在，不远游。 | Zhōngguó rén cháng shuō fù mǔ zài, bù yuǎn yóu. | 中国 Tiongkok · 人 orang · 在 di · 不 tidak · 远 jauh
+h1_bu#2 | 他想不起来这个电脑的密码了。 | Tā xiǎng bù qǐlai zhè gè diànnǎo de mìmǎ le. | 他 dia · 想 ingin · 不 tidak · 起来 Bangun · 这 ini · 个 kata satuan umum · 电脑 komputer · 密码 kata sandi
+h1_cha#1 | 另外，凉茶热着喝效果也很不错。 | Lìngwài, liáng chá rè zhe hē xiàoguǒ yě hěn bù cuò. | 另外 Selain itu · 茶 teh · 热 panas · 喝 minum · 效果 efek · 也 juga · 很 sangat · 不 tidak
+h1_cha#2 | 她们一边喝茶一边聊天儿。 | Tā men yìbiān hē chá yìbiān liáotiānr. | 她 dia · 一边 melakukan 2 tindakan yang be · 喝 minum · 茶 teh · 聊天儿 Mengobrol
+h1_chi#1 | 盒子里的巧克力被妹妹吃光了。 | Hézi lǐ de qiǎokèlì bèi mèimei chī guāng le. | 盒子 kotak · 里 di dalam · 巧克力 coklat · 被 Digunakan di kalimat pasif · 妹妹 adik perempuan · 吃 makan · 光 hanya
+h1_chi#2 | 这个消息让所有人都大吃一惊。 | Zhè gè xiāoxi ràng suǒyǒu rén dōu dà chī yī jīng. | 这 ini · 个 kata satuan umum · 消息 Berita · 让 membiarkan · 所有 semua · 人 orang · 都 semua · 大 besar
+h1_da#1 | 大城市和小城市各有各的好处。 | Dà chéngshì hé xiǎo chéngshì gè yǒu gè de hǎochù. | 大 besar · 城市 Kota · 和 dan · 小 kecil · 各 berbagai · 有 ada · 好处 manfaat
+h1_da#2 | 这个消息让所有人都大吃一惊。 | Zhè gè xiāoxi ràng suǒyǒu rén dōu dà chī yī jīng. | 这 ini · 个 kata satuan umum · 消息 Berita · 让 membiarkan · 所有 semua · 人 orang · 都 semua · 大 besar
+h1_dou#1 | 任何事情的发生都是有原因的。 | Rènhé shìqing de fāshēng dōu shì yǒu yuányīn de. | 任何 apapun · 事情 urusan · 发生 terjadi · 都 semua · 是 adalah · 有 ada · 原因 alasan
+h1_dou#2 | 大家都谈了自己的意见和看法。 | Dàjiā dōu tán le zìjǐ de yìjiàn hé kànfǎ. | 大家 semua orang · 都 semua · 谈 Berbicara · 自己 Diri Sendiri · 意见 pendapat · 和 dan · 看法 pendapat
+h1_dui#1 | 你对别人好，别人也会对你好。 | Nǐ duì biérén hǎo, biérén yě huì duì nǐ hǎo. | 你 kamu · 对 benar · 别人 Orang lain · 好 baik · 也 juga · 会 bisa
+h1_dui#2 | 我们对失败应该有正确的认识。 | Wǒmen duì shībài yīnggāi yǒu zhèngquè de rènshi. | 我们 kami · 对 benar · 失败 gagal · 应该 Seharusnya · 有 ada · 正确 benar · 认识 mengenal
+h1_duoshao#1 | 儿子问：“爸，您一小时可以赚多少钱？ | Érzi wèn: bà, nín yī xiǎoshí kěyǐ zhuàn duōshao qián? | 儿子 anak laki-laki · 问 bertanya · 您 Anda · 一 satu · 小时 jam · 可以 bisa · 赚 Menghasilkan · 多少 berapa
+h1_duoshao#2 | 如果方向不对，无论做多少努力可能都是白费。 | Rúguǒ fāngxiàng bù duì, wúlùn zuò duōshao nǔlì kěnéng dōu shì bái fèi. | 如果 jika · 方向 arah · 不 tidak · 对 benar · 无论 tidak peduli · 做 membuat · 多少 berapa · 努力 Berusaha Keras
+h1_er#1 | 儿子的复习笔记整理得很详细。 | Érzi de fùxí bǐ jì zhěnglǐ děi hěn xiángxì. | 儿子 anak laki-laki · 复习 Review atau mengulang pelaja · 整理 merapikan · 很 sangat · 详细 terperinci
+h1_er#2 | 他发现7岁的儿子还在门口等他。 | Tā fāxiàn7 suì de érzi hái zài mén kǒu děng tā. | 他 dia · 发现 menemukan · 岁 tahun · 儿子 anak laki-laki · 还 masih · 在 di · 门 pintu · 口 Suapan
+h1_fan#1 | 许多家饭店的年收入都超过了亿元。 | Xǔduō jiā fàn diàn de nián shōurù dōu chāoguò le yì yuán. | 许多 banyak · 家 rumah · 饭 nasi · 年 tahun · 收入 Pemasukan · 都 semua · 超过 melebihi · 亿 100 juta
+h1_fan#2 | 平时他在外面吃饭。 | Píngshí tā zài wài miàn chī fàn. | 平时 Biasanya · 他 dia · 在 di · 外 luar · 吃 makan · 饭 nasi
+h1_gongzuo#1 | 弟弟在工作中积累了丰富的经验。 | Dìdi zài gōngzuò zhōng jīlěi le fēngfù de jīngyàn. | 弟弟 adik laki-laki · 在 di · 工作 bekerja · 积累 Mengumpulkan · 丰富 kaya · 经验 Pengalaman kerja
+h1_gongzuo#2 | 大学生不愿意去农村工作。 | Dà xuésheng bù yuànyì qù nóngcūn gōngzuò. | 大 besar · 学生 murid · 不 tidak · 愿意 Bersedia · 去 pergi · 农村 pedesaan · 工作 bekerja
+h1_hao#1 | 你对别人好，别人也会对你好。 | Nǐ duì biérén hǎo, biérén yě huì duì nǐ hǎo. | 你 kamu · 对 benar · 别人 Orang lain · 好 baik · 也 juga · 会 bisa
+h1_hao#2 | 昨晚没睡好，现在有点儿困了。 | Zuó wǎn méi shuì hǎo, xiànzài yǒu diǎn ér kùn le. | 没 tidak · 好 baik · 现在 sekarang · 有 ada · 点 jam · 困 mengantuk
+h1_he#1 | 人们在喝酒时为什么喜欢干杯呢？ | Rén men zài hē jiǔ shí wèi shénme xǐhuan gānbēi ne? | 人 orang · 在 di · 喝 minum · 为 Untuk · 什么 apa · 喜欢 suka · 干杯 bersulang
+h1_he#2 | 另外，凉茶热着喝效果也很不错。 | Lìngwài, liáng chá rè zhe hē xiàoguǒ yě hěn bù cuò. | 另外 Selain itu · 茶 teh · 热 panas · 喝 minum · 效果 efek · 也 juga · 很 sangat · 不 tidak
+h1_hen#1 | 儿子的复习笔记整理得很详细。 | Érzi de fùxí bǐ jì zhěnglǐ děi hěn xiángxì. | 儿子 anak laki-laki · 复习 Review atau mengulang pelaja · 整理 merapikan · 很 sangat · 详细 terperinci
+h1_hen#2 | 我既没车也没房子，钱也很少。 | Wǒ jì méi chē yě méi fáng zi, qián yě hěn shǎo. | 我 saya · 既 baik... maupun · 没 tidak · 也 juga · 钱 uang · 很 sangat · 少 sedikit
+h1_jiao#1 | ”结果很多学生都叫了起来：“不对！ | Jiéguǒ hěn duō xuésheng dōu jiào le qǐlai: bù duì! | 结果 hasil · 很 sangat · 多 banyak · 学生 murid · 都 semua · 叫 bernama · 起来 Bangun · 不 tidak
+h1_jiao#2 | 为什么叫这个名字呢？ | Wèi shénme jiào zhè gè míngzi ne? | 为 Untuk · 什么 apa · 叫 bernama · 这 ini · 个 kata satuan umum · 名字 nama
+h1_jin#1 | 他说的问题超出了今天讨论的范围。 | Tā shuō de wèntí chāo chū le jīntiān tǎolùn de fànwéi. | 他 dia · 问题 pertanyaan · 出 keluar · 今天 hari ini · 讨论 mendiskusikan · 范围 rentang
+h1_jin#2 | 同事们都明白了，她今天要去约会。 | Tóngshì men dōu míngbai le, tā jīntiān yào qù yuēhuì. | 同事 Rekan Kerja · 都 semua · 明白 Mengerti · 她 dia · 今天 hari ini · 要 mau · 去 pergi · 约会 Berkencan
+h1_kan#1 | 这主要要看东西的质量如何了。 | Zhè zhǔyào yào kàn dōngxi de zhìliàng rúhé le. | 这 ini · 主要 Utama · 要 mau · 看 melihat · 东西 benda · 质量 kualitas · 如何 bagaimana
+h1_kan#2 | 判断经济水平不能光看收入。 | Pànduàn jīngjì shuǐpíng bù néng guāng kàn shōurù. | 判断 Memutuskan · 经济 ekonomi · 水平 Tingkat · 不 tidak · 能 bisa · 光 hanya · 看 melihat · 收入 Pemasukan
+h1_laoshi#1 | 王老师估计报名人数会超过 200。 | Wáng lǎoshī gūjì bàomíng rén shù huì chāoguò200. | 老师 guru · 估计 memperkirakan · 报名 mendaftar · 人 orang · 数 menghitung · 会 bisa · 超过 melebihi
+h1_lai#1 | 回来的路上我顺便去了趟邮局。 | Huí lái de lù shàng wǒ shùnbiàn qù le tàng yóujú. | 回 kembali · 来 datang · 路 jalan · 上 atas · 我 saya · 顺便 sekalian · 去 pergi · 趟 kali perjalanan
+h1_lai#2 | 广告越来越多，几乎无处不在。 | Guǎnggào yuè lái yuè duō, jīhū wú chù bù zài. | 广告 iklan · 越 Semakin · 来 datang · 多 banyak · 几乎 Hampir · 无 tidak memiliki · 不 tidak · 在 di
+h1_ma#1 | 妈妈理发的水平不高。 | Māma lǐfà de shuǐpíng bù gāo. | 妈妈 ibu · 理发 potong rambut · 水平 Tingkat · 不 tidak · 高 tinggi
+h1_ma#2 | 现在她也做妈妈了。 | Xiànzài tā yě zuò māma le. | 现在 sekarang · 她 dia · 也 juga · 做 membuat · 妈妈 ibu
+h1_mingzi#1 | 为什么叫这个名字呢？ | Wèi shénme jiào zhè gè míngzi ne? | 为 Untuk · 什么 apa · 叫 bernama · 这 ini · 个 kata satuan umum · 名字 nama
+h1_mingzi#2 | 除了正式的名字，中国人一般都有个小名。 | Chúle zhèngshì de míngzi, zhōngguó rén yìbān dōu yǒu gè xiǎo míng. | 除了 Selain · 正式 Resmi · 名字 nama · 中国 Tiongkok · 人 orang · 一般 Biasanya · 都 semua · 有 ada
+h1_peng#1 | 我朋友想要一个窗户旁边的座位。 | Wǒ péngyou xiǎng yào yī gè chuānghu pángbiān de zuòwèi. | 我 saya · 朋友 teman · 想 ingin · 要 mau · 一 satu · 个 kata satuan umum · 窗户 jendela · 旁边 di sebelah
+h1_peng#2 | 这个消息很快就被亲戚朋友们知道了。 | Zhè gè xiāoxi hěn kuài jiù bèi qīnqi péngyou men zhīdào le. | 这 ini · 个 kata satuan umum · 消息 Berita · 很 sangat · 快 cepat · 就 langsung · 被 Digunakan di kalimat pasif · 亲戚 kerabat
+h1_qu#1 | 回来的路上我顺便去了趟邮局。 | Huí lái de lù shàng wǒ shùnbiàn qù le tàng yóujú. | 回 kembali · 来 datang · 路 jalan · 上 atas · 我 saya · 顺便 sekalian · 去 pergi · 趟 kali perjalanan
+h1_qu#2 | 当你觉得无聊时，就去读书吧。 | Dāng nǐ juéde wúliáo shí, jiù qù dú shū ba. | 当 pada saat · 你 kamu · 觉得 merasa · 无聊 bosan · 就 langsung · 去 pergi · 读 membaca · 书 buku
+h1_xuexiao#1 | 学校将组织大家去参观长城。 | Xuéxiào jiāng zǔzhī dàjiā qù cānguān zhǎng chéng. | 学校 sekolah · 组织 organisasi · 大家 semua orang · 去 pergi · 参观 mengunjungi · 长 Bertambah
+h1_std__9#1 | 这个菜的味道还不错。 | Zhè gè cài de wèidào hái bù cuò. | 这 ini · 个 kata satuan umum · 菜 masakan · 味道 rasa · 还 masih · 不 tidak · 错 salah
+h1_std__9#2 | 中午的菜又酸又辣。 | Zhōngwǔ de cài yòu suān yòu là. | 中午 siang · 菜 masakan · 又 Dan · 酸 asam · 辣 pedas
+h1_std__12#1 | 这个城市决定增加出租车的数量。 | Zhè gè chéngshì juédìng zēngjiā chūzūchē de shùliàng. | 这 ini · 个 kata satuan umum · 城市 Kota · 决定 Memutuskan · 增加 menambah · 出租车 taksi · 数量 jumlah
+h1_std__12#2 | 他们在出租车上。 | Tā men zài chūzūchē shàng. | 他 dia · 在 di · 出租车 taksi · 上 atas
+h1_std__13#1 | 加油站附近禁止打电话。 | Jiāyóuzhàn fùjìn jìnzhǐ dǎ diànhuà. | 加油站 pom bensin · 附近 Sekitar · 禁止 melarang · 打电话 menelepon
+h1_std__13#2 | 在加油站打电话很危险。 | Zài jiāyóuzhàn dǎ diànhuà hěn wēixiǎn. | 在 di · 加油站 pom bensin · 打电话 menelepon · 很 sangat · 危险 berbahaya
+h1_std__15#1 | 他好像是专门为钢琴而出生的。 | Tā hǎoxiàng shì zhuānmén wèi gāng qín ér chūshēng de. | 他 dia · 好像 Sepertinya · 是 adalah · 专门 khusus · 为 Untuk · 而 tetapi · 出生 lahir
+h1_std__15#2 | 他想不起来这个电脑的密码了。 | Tā xiǎng bù qǐlai zhè gè diànnǎo de mìmǎ le. | 他 dia · 想 ingin · 不 tidak · 起来 Bangun · 这 ini · 个 kata satuan umum · 电脑 komputer · 密码 kata sandi
+h1_std__16#1 | 我就是有点儿感冒，不太严重。 | Wǒ jiù shì yǒu diǎn ér gǎnmào, bù tài yánzhòng. | 我 saya · 就 langsung · 是 adalah · 有 ada · 点 jam · 感冒 Flu · 不 tidak · 太 terlalu
+h1_std__16#2 | 昨晚没睡好，现在有点儿困了。 | Zuó wǎn méi shuì hǎo, xiànzài yǒu diǎn ér kùn le. | 没 tidak · 好 baik · 现在 sekarang · 有 ada · 点 jam · 困 mengantuk
+h1_std__17#1 | 他想不起来这个电脑的密码了。 | Tā xiǎng bù qǐlai zhè gè diànnǎo de mìmǎ le. | 他 dia · 想 ingin · 不 tidak · 起来 Bangun · 这 ini · 个 kata satuan umum · 电脑 komputer · 密码 kata sandi
+h1_std__17#2 | 他喜欢在电脑上看电影。 | Tā xǐhuan zài diànnǎo shàng kàn diànyǐng. | 他 dia · 喜欢 suka · 在 di · 电脑 komputer · 上 atas · 看 melihat · 电影 film
+h1_std__18#1 | 很晚了，5岁的女儿还在看电视。 | Hěn wǎn le,5 suì de nǚ'ér hái zài kàn diànshì. | 很 sangat · 岁 tahun · 女儿 anak perempuan · 还 masih · 在 di · 看 melihat · 电视 televisi
+h1_std__19#1 | 这次电影艺术节也许会在北京举行。 | Zhè cì diànyǐng yìshù jié yěxǔ huì zài běijīng jǔxíng. | 这 ini · 次 kali · 电影 film · 艺术 seni · 节 bagian · 也许 mungkin · 会 bisa · 在 di
+h1_std__19#2 | 他喜欢在电脑上看电影。 | Tā xǐhuan zài diànnǎo shàng kàn diànyǐng. | 他 dia · 喜欢 suka · 在 di · 电脑 komputer · 上 atas · 看 melihat · 电影 film
+h1_std__20#1 | 它一直只卖一种东西：牛肉面。 | Tā yìzhí zhǐ mài yī zhǒng dōngxi: niú ròu miàn. | 它 dia · 一直 Terus menerus atau Selalu · 只 Hanya · 卖 menjual · 一 satu · 种 Tipe · 东西 benda
+h1_std__20#2 | 这主要要看东西的质量如何了。 | Zhè zhǔyào yào kàn dōngxi de zhìliàng rúhé le. | 这 ini · 主要 Utama · 要 mau · 看 melihat · 东西 benda · 质量 kualitas · 如何 bagaimana
+h1_std__22#1 | 可以这么说， 读史使人聪明。 | Kěyǐ zhè me shuō, dú shǐ shǐ rén cōngming. | 可以 bisa · 这 ini · 读 membaca · 使 membuat · 人 orang · 聪明 Pintar
+h1_std__22#2 | 当你觉得无聊时，就去读书吧。 | Dāng nǐ juéde wúliáo shí, jiù qù dú shū ba. | 当 pada saat · 你 kamu · 觉得 merasa · 无聊 bosan · 就 langsung · 去 pergi · 读 membaca · 书 buku
+h1_std__23#1 | 对不起，您的航班已经起飞了。 | Duìbuqǐ, nín de hángbān yǐjīng qǐfēi le. | 对不起 maaf · 您 Anda · 航班 penerbangan terjadwal · 已经 sudah · 起飞 Lepas landas
+h1_std__23#2 | 对不起，先生，您的行李箱超重了。 | Duìbuqǐ, xiānsheng, nín de xínglixiāng chāo zhòng le. | 对不起 maaf · 先生 tuan · 您 Anda · 行李箱 Koper · 重 berat
+h1_std__24#1 | 广告越来越多，几乎无处不在。 | Guǎnggào yuè lái yuè duō, jīhū wú chù bù zài. | 广告 iklan · 越 Semakin · 来 datang · 多 banyak · 几乎 Hampir · 无 tidak memiliki · 不 tidak · 在 di
+h1_std__24#2 | 这部电梯最多能乘坐16个人。 | Zhè bù diàntī zuì duō néng chéngzuò16 gèrén. | 这 ini · 电梯 Lift · 最 paling · 多 banyak · 能 bisa · 乘坐 naik · 个人 individu
+h1_std__27#1 | 他写这本书时才上高中二年级。 | Tā xiě zhè běn shū shí cái shàng gāo zhōng èr niánjí. | 他 dia · 写 menulis · 这 ini · 本 · 书 buku · 上 atas · 高 tinggi · 二 dua
+h1_std__27#2 | 大概有三分之二的人反对这样做。 | Dàgài yǒu sān fēn zhī èr de rén fǎnduì zhè yàng zuò. | 大概 kira-kira · 有 ada · 三 tiga · 分 Membedakan · 之 partikel penghubung atribut · 二 dua · 人 orang · 反对 menentang
+h1_std__28#1 | 饭馆儿禁止抽烟。 | Fànguǎn ér jìnzhǐ chōu yān. | 饭馆 restoran · 禁止 melarang · 抽烟 merokok
+h1_std__29#1 | 飞机将于15分钟后降落在首都机场。 | Fēijī jiāng yú15 fēnzhōng hòu jiàngluò zài shǒudū jīchǎng. | 飞机 pesawat · 于 di · 分钟 menit · 降落 mendarat · 在 di · 首都 ibu kota · 机场 bandara
+h1_std__29#2 | 张教授是坐飞机来的。 | Zhāng jiàoshòu shì zuò fēijī lái de. | 张 Kata satuan · 教授 profesor · 是 adalah · 坐 duduk · 飞机 pesawat · 来 datang
+h1_std__30#1 | 飞机将于15分钟后降落在首都机场。 | Fēijī jiāng yú15 fēnzhōng hòu jiàngluò zài shǒudū jīchǎng. | 飞机 pesawat · 于 di · 分钟 menit · 降落 mendarat · 在 di · 首都 ibu kota · 机场 bandara
+h1_std__30#2 | 我对她说：“再看10分钟就去洗脸睡觉。 | Wǒ duì tā shuō: zài kàn10 fēnzhōng jiù qù xǐ liǎn shuìjiào. | 我 saya · 对 benar · 她 dia · 再 lagi · 看 melihat · 分钟 menit · 就 langsung · 去 pergi
+h1_std__31#1 | 这次旅行他玩儿得很高兴。 | Zhè cì lǚxíng tā wán ér děi hěn gāoxìng. | 这 ini · 次 kali · 旅行 bepergian · 他 dia · 玩 bermain · 很 sangat · 高兴 senang
+h1_std__31#2 | 毕业让人又高兴又难过。 | Bì yè ràng rén yòu gāoxìng yòu nánguò. | 毕业 lulus · 让 membiarkan · 人 orang · 又 Dan · 高兴 senang · 难过 Sedih
+h1_std__32#1 | 他想不起来这个电脑的密码了。 | Tā xiǎng bù qǐlai zhè gè diànnǎo de mìmǎ le. | 他 dia · 想 ingin · 不 tidak · 起来 Bangun · 这 ini · 个 kata satuan umum · 电脑 komputer · 密码 kata sandi
+h1_std__32#2 | 这两个城市的距离是一万公里。 | Zhè liǎng gè chéngshì de jùlí shì yī wàn gōnglǐ. | 这 ini · 两 dua · 个 kata satuan umum · 城市 Kota · 距离 jarak · 是 adalah · 一 satu · 万 Sepuluh ribu
+h1_std__34#1 | 教狗学习需要耐心。 | Jiāo gǒu xuéxí xūyào nàixīn. | 教 Mengajar · 狗 anjing · 学习 belajar · 需要 Membutuhkan · 耐心 kesabaran
+h1_std__34#2 | 她抱着一只小狗。 | Tā bào zhe yī zhǐ xiǎo gǒu. | 她 dia · 抱 memeluk · 一 satu · 只 Hanya · 小 kecil · 狗 anjing
+h1_std__35#1 | 数量词是汉语语法的一部分。 | Shùliàng cí shì hànyǔ yǔfǎ de yī bùfen. | 数量 jumlah · 是 adalah · 汉语 Bahasa Mandarin · 语法 tata bahasa · 一 satu · 部分 bagian
+h1_std__35#2 | 现代汉语词典是一本工具书。 | Xiàndài hànyǔ cídiǎn shì yī běn gōngjù shū. | 现代 modern · 汉语 Bahasa Mandarin · 词典 Kamus · 是 adalah · 一 satu · 本 · 工具 alat · 书 buku
+h1_std__38#1 | 大城市和小城市各有各的好处。 | Dà chéngshì hé xiǎo chéngshì gè yǒu gè de hǎochù. | 大 besar · 城市 Kota · 和 dan · 小 kecil · 各 berbagai · 有 ada · 好处 manfaat

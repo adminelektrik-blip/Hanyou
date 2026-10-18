@@ -1,0 +1,90 @@
+hsk4_12_23#2 | 那篇报道引起了校长的重视。 | Nà piān bàodào yǐnqǐ le xiàozhǎng de zhòngshì. | 那 itu · 篇 satuan untuk tulisan · 报道 melaporkan · 引起 menyebabkan · 校长 Kepala sekolah · 重视 mementingkan
+hsk4_12_24#1 | 小夏把误会解释清楚了。 | Xiǎo xià bǎ wùhuì jiěshì qīngchu le. | 小 kecil · 把 Kata satuan untuk payung · 误会 kesalahpahaman · 解释 menjelaskan · 清楚 jelas
+hsk4_12_24#2 | 有误会要及时解释清楚。 | Yǒu wùhuì yào jíshí jiěshì qīngchu. | 有 ada · 误会 kesalahpahaman · 要 mau · 及时 Tepat pada waktunya · 解释 menjelaskan · 清楚 jelas
+hsk4_12_25#1 | 他对我的态度非常友好。 | Tā duì wǒ de tàidù fēicháng yǒuhǎo. | 他 dia · 对 benar · 我 saya · 态度 sikap · 非常 sangat · 友好 ramah
+hsk4_12_25#2 | 不得不批评的时候，也要耐心、友好地说出你的意见。 | Bùdébù pīpíng de shíhou, yě yào nàixīn, yǒuhǎo de shuō chū nǐ de yìjiàn. | 不得不 Terpaksa harus · 批评 mengkritik · 时候 waktu · 也 juga · 要 mau · 耐心 kesabaran · 友好 ramah · 出 keluar
+hsk4_12_27#1 | 要养成节约用水的好习惯。 | Yào yǎngchéng jiéyuē yòng shuǐ de hǎo xíguàn. | 要 mau · 养成 membentuk · 节约 menghemat · 用 Membutuhkan · 水 air · 好 baik · 习惯 Kebiasaan
+hsk4_12_28#1 | 比一比，看谁的力气大。 | Bǐ yī bǐ, kàn shéi de lìqi dà. | 比 dibandingkan · 一 satu · 看 melihat · 谁 siapa · 力气 tenaga fisik · 大 besar
+hsk4_12_30#1 | 那个警察顺利地完成了任务。 | Nà gè jǐngchá shùnlì de wánchéng le rènwu. | 那 itu · 个 kata satuan umum · 警察 polisi · 顺利 Lancar · 完成 menyelesaikan · 任务 tugas
+hsk4_12_30#2 | 今年所有的任务都完成了。 | Jīn nián suǒyǒu de rènwu dōu wánchéng le. | 年 tahun · 所有 semua · 任务 tugas · 都 semua · 完成 menyelesaikan
+hsk4_12_31#1 | 大家都谈了自己的意见和看法。 | Dàjiā dōu tán le zìjǐ de yìjiàn hé kànfǎ. | 大家 semua orang · 都 semua · 谈 Berbicara · 自己 Diri Sendiri · 意见 pendapat · 和 dan · 看法 pendapat
+hsk4_12_31#2 | 请大家把意见发到我的电子信箱里。 | Qǐng dàjiā bǎ yìjiàn fā dào wǒ de diàn zi xìn xiāng lǐ. | 请 silakan · 大家 semua orang · 把 Kata satuan untuk payung · 意见 pendapat · 发 Mengirim · 到 sampai · 我 saya · 里 di dalam
+hsk4_12_32#1 | 她仔细地看了看说明书。 | Tā zǐxì de kàn le kàn shuōmíng shū. | 她 dia · 仔细 teliti · 看 melihat · 说明 menjelaskan · 书 buku
+hsk4_12_32#2 | 所以，做决定之前最好仔细考虑一下。 | Suǒyǐ, zuò juédìng zhī qián zuì hǎo zǐxì kǎolǜ yī xià. | 所以 oleh karena itu · 做 membuat · 决定 Memutuskan · 之 partikel penghubung atribut · 最好 Paling baik · 仔细 teliti · 考虑 mempertimbangkan · 一 satu
+hsk4_13_01#1 | 他是20世纪最有名的京剧演员。 | Tā shì20 shìjì zuì yǒumíng de jīngjù yǎnyuán. | 他 dia · 是 adalah · 世纪 abad · 最 paling · 有名 Terkenal · 京剧 opera Beijing · 演员 aktor
+hsk4_13_01#2 | 她丈夫是著名的京剧演员。 | Tā zhàngfu shì zhùmíng de jīngjù yǎnyuán. | 她 dia · 丈夫 suami · 是 adalah · 著名 terkenal · 京剧 opera Beijing · 演员 aktor
+hsk4_13_02#1 | 他是20世纪最有名的京剧演员。 | Tā shì20 shìjì zuì yǒumíng de jīngjù yǎnyuán. | 他 dia · 是 adalah · 世纪 abad · 最 paling · 有名 Terkenal · 京剧 opera Beijing · 演员 aktor
+hsk4_13_02#2 | 那位著名的演员深受观众的喜爱。 | Nà wèi zhùmíng de yǎnyuán shēn shòu guānzhòng de xǐ ài. | 那 itu · 位 Kata satuan · 著名 terkenal · 演员 aktor · 深 Dalam · 观众 penonton · 爱 cinta
+hsk4_13_03#1 | 那位著名的演员深受观众的喜爱。 | Nà wèi zhùmíng de yǎnyuán shēn shòu guānzhòng de xǐ ài. | 那 itu · 位 Kata satuan · 著名 terkenal · 演员 aktor · 深 Dalam · 观众 penonton · 爱 cinta
+hsk4_13_03#2 | 那个电影让观众很失望。 | Nà gè diànyǐng ràng guānzhòng hěn shīwàng. | 那 itu · 个 kata satuan umum · 电影 film · 让 membiarkan · 观众 penonton · 很 sangat · 失望 kecewa
+hsk4_13_04#1 | 这条裤子稍微有点儿厚。 | Zhè tiáo kùzi shāowéi yǒu diǎn ér hòu. | 这 ini · 条 Kata satuan untuk celana · 裤子 Celana · 稍微 sedikit · 有 ada · 点 jam · 厚 tebal
+hsk4_13_05#1 | 他想给老王一张演出票。 | Tā xiǎng gěi lǎo wáng yī zhāng yǎnchū piào. | 他 dia · 想 ingin · 给 memberi · 老 Tua · 一 satu · 张 Kata satuan · 演出 mempertunjukkan · 票 tiket
+hsk4_13_06#1 | 加油站离这儿大概有两公里。 | Jiāyóuzhàn lí zhè ér dàgài yǒu liǎng gōnglǐ. | 加油站 pom bensin · 离 berjarak dari · 这 ini · 大概 kira-kira · 有 ada · 两 dua · 公里 kilometer
+hsk4_13_06#2 | 大概有三分之二的人反对这样做。 | Dàgài yǒu sān fēn zhī èr de rén fǎnduì zhè yàng zuò. | 大概 kira-kira · 有 ada · 三 tiga · 分 Membedakan · 之 partikel penghubung atribut · 二 dua · 人 orang · 反对 menentang
+hsk4_13_07#1 | 这个班的大部分学生来自亚洲。 |  | 这 ini · 个 kata satuan umum · 班 Kelas · 大 besar · 部分 bagian · 学生 murid · 来自 berasal dari
+hsk4_13_08#1 | 她又重新检查了一遍。 | Tā yòu chóngxīn jiǎnchá le yī biàn. | 她 dia · 又 Dan · 重新 kembali · 检查 Memeriksa · 一 satu · 遍 kali
+hsk4_13_09#1 | 他们偶尔会去看电影。 | Tā men ǒu'ěr huì qù kàn diànyǐng. | 他 dia · 偶尔 sesekali · 会 bisa · 去 pergi · 看 melihat · 电影 film
+hsk4_13_09#2 | 晚上，即使关上了窗户，还是会偶尔被外面 的响声弄醒。 | Wǎnshang, jíshi guān shàng le chuānghu, háishi huì ǒu'ěr bèi wài miàn de xiǎng shēng nòng xǐng. | 晚上 malam · 即使 meskipun · 关 Mematikan · 上 atas · 窗户 jendela · 还是 Atau · 会 bisa · 偶尔 sesekali
+hsk4_13_10#1 | ”经理吃惊地跳起来说：“天啊！ | Jīnglǐ chījīng de tiào qǐlai shuō: tiān a! | 经理 Manajer · 吃惊 terkejut · 起来 Bangun
+hsk4_13_10#2 | 这个消息真让人吃惊！ | Zhè gè xiāoxi zhēn ràng rén chījīng! | 这 ini · 个 kata satuan umum · 消息 Berita · 真 sungguh · 让 membiarkan · 人 orang · 吃惊 terkejut
+hsk4_13_12#1 | 篮球不是一个人的运动或表演。 | Lán qiú bù shì yī gèrén de yùndòng huò biǎoyǎn. | 不 tidak · 是 adalah · 一 satu · 个人 individu · 运动 olahraga · 表演 bertindak
+hsk4_13_12#2 | 表演前要好好打扮一下。 | Biǎoyǎn qián yào hǎo hǎo dǎban yī xià. | 表演 bertindak · 要 mau · 好 baik · 打扮 berdandan · 一 satu · 下 bawah
+hsk4_13_13#1 | 电梯已经可以正常使用了。 | Diàntī yǐjīng kěyǐ zhèngcháng shǐyòng le. | 电梯 Lift · 已经 sudah · 可以 bisa · 正常 normal · 使用 menggunakan
+hsk4_13_13#2 | 人在睡觉过程中会做梦，这太正常了。 | Rén zài shuìjiào guòchéng zhōng huì zuò mèng, zhè tài zhèngcháng le. | 人 orang · 在 di · 睡觉 tidur · 过程 proses · 会 bisa · 做 membuat · 梦 mimpi · 这 ini
+hsk4_13_14#1 | 导游把那份申请寄出去了。 | Dǎoyóu bǎ nà fèn shēnqǐng jì chū qù le. | 导游 pemandu wisata · 把 Kata satuan untuk payung · 那 itu · 份 Kata bantu untuk pekerjaan · 申请 mengajukan · 寄 mengirim paket · 出 keluar · 去 pergi
+hsk4_13_14#2 | 你的申请材料寄出去了吗 | Nǐ de shēnqǐng cái liào jì chū qù le ma | 你 kamu · 申请 mengajukan · 材料 bahan · 寄 mengirim paket · 出 keluar · 去 pergi
+hsk4_13_15#1 | 父亲讲的笑话非常有趣。 | Fùqīn jiǎng de xiàohua fēicháng yǒuqù. | 父亲 ayah · 讲 Menjelaskan · 笑话 lelucon · 非常 sangat · 有趣 menarik
+hsk4_13_15#2 | 李教授的小说很有趣。 | Li jiàoshòu de xiǎoshuō hěn yǒuqù. | 教授 profesor · 小说 novel · 很 sangat · 有趣 menarik
+hsk4_13_16#1 | 我参加过几次，每次都玩儿得很开心。 | Wǒ cānjiā guò jǐ cì, měi cì dōu wán ér děi hěn kāixīn. | 我 saya · 参加 Berpartisipasi · 过 Melewati · 几 berapa · 次 kali · 每 setiap · 都 semua · 玩 bermain
+hsk4_13_16#2 | ”女儿听后开心地说：“够了够了，妈妈真好。 | Nǚ'ér tīng hòu kāixīn de shuō: gòu le gòu le, māma zhēn hǎo. | 女儿 anak perempuan · 听 mendengarkan · 开心 senang · 够 Cukup · 妈妈 ibu · 真 sungguh · 好 baik
+hsk4_13_17#1 | 真希望天气继续暖和下去。 | Zhēn xīwàng tiānqì jìxù nuǎnhuo xià qù. | 真 sungguh · 希望 berharap · 天气 cuaca · 继续 melanjutkan · 暖和 hangat · 下 bawah · 去 pergi
+hsk4_13_18#1 | 这次调查是由李经理负责的。 | Zhè cì diàochá shì yóu li jīnglǐ fù zé de. | 这 ini · 次 kali · 调查 Menyelidiki · 是 adalah · 由 oleh · 经理 Manajer · 负责 Bertanggung jawab
+hsk4_13_18#2 | 生活的态度由自己选择。 | Shēnghuó de tàidù yóu zìjǐ xuǎnzé. | 生活 Kehidupan · 态度 sikap · 由 oleh · 自己 Diri Sendiri · 选择 Memilih
+hsk4_13_19#1 | 他说的问题超出了今天讨论的范围。 | Tā shuō de wèntí chāo chū le jīntiān tǎolùn de fànwéi. | 他 dia · 问题 pertanyaan · 出 keluar · 今天 hari ini · 讨论 mendiskusikan · 范围 rentang
+hsk4_13_19#2 | 他们正在讨论那个计划。 | Tā men zhèngzài tǎolùn nà gè jìhuà. | 他 dia · 正在 sedang · 讨论 mendiskusikan · 那 itu · 个 kata satuan umum · 计划 Rencana
+hsk4_13_20#1 | 从这儿去海洋馆大约需要半个小时。 | Cóng zhè ér qù hǎiyáng guǎn dàyuē xūyào bàn gè xiǎoshí. | 从 dari · 这 ini · 去 pergi · 海洋 laut · 大约 sekitar · 需要 Membutuhkan · 半 Setengah · 个 kata satuan umum
+hsk4_13_20#2 | 现在全世界大约80多个国家有高速公路。 | Xiànzài quán shìjiè dàyuē80 duō gè guójiā yǒu gāosù gōnglù. | 现在 sekarang · 世界 Dunia · 大约 sekitar · 多 banyak · 个 kata satuan umum · 国家 Negara · 有 ada · 高速公路 jalan tol
+hsk4_13_21#1 | 在自助餐厅里，如果你只坐在那儿等，那你什么都吃不到。 | Zài zì zhù cāntīng lǐ, rúguǒ nǐ zhǐ zuò zài nà ér děng, nà nǐ shénme dōu chī bù dào. | 在 di · 餐厅 restoran · 里 di dalam · 如果 jika · 你 kamu · 只 Hanya · 坐 duduk · 那 itu
+hsk4_13_23#1 | 互联网拉近了人与人之间的距离。 | Hùliánwǎng lā jìn le rén yǔ rén zhī jiān de jùlí. | 互联网 internet · 拉 menarik · 近 dekat · 人 orang · 与 Dengan · 之 partikel penghubung atribut · 距离 jarak
+hsk4_13_23#2 | 现在，互联网和手机短信已经成了人们普遍使用 的联系方法。 | Xiànzài, hùliánwǎng hé shǒujī duǎnxìn yǐjīng chéng le rén men pǔ biàn shǐyòng de liánxì fāngfǎ. | 现在 sekarang · 互联网 internet · 和 dan · 手机 telepon genggam · 短信 SMS · 已经 sudah · 人 orang · 遍 kali
+hsk4_13_24#1 | 同学们在超市进行了调查。 | Tóngxué men zài chāoshì jìnxíng le diàochá. | 同学 teman sekelas · 在 di · 超市 Supermarket · 进行 melakukan · 调查 Menyelidiki
+hsk4_13_24#2 | 所有的事都进行得很顺利。 | Suǒyǒu de shì dōu jìnxíng děi hěn shùnlì. | 所有 semua · 都 semua · 进行 melakukan · 很 sangat · 顺利 Lancar
+hsk4_13_25#1 | 这个句子没有语法错误。 | Zhè gè jùzi méiyǒu yǔfǎ cuòwù. | 这 ini · 个 kata satuan umum · 句子 Kalimat · 没有 tidak ada · 语法 tata bahasa · 错误 salah
+hsk4_13_25#2 | 有些人对自己要求非常严格，不允许自己出现任何错误。 | Yǒu xiē rén duì zìjǐ yāoqiú fēicháng yángé, bù yǔnxǔ zìjǐ chūxiàn rènhé cuòwù. | 有 ada · 些 beberapa · 人 orang · 对 benar · 自己 Diri Sendiri · 要求 Persyaratan · 非常 sangat · 严格 ketat
+hsk4_13_26#1 | 随着科学技术的发展，手机的作用越来越大。 | Suízhe kēxué jìshù de fāzhǎn, shǒujī de zuòyòng yuè lái yuè dà. | Seiring perkembangan ilmu pengetahuan dan teknologi, peran telepon genggam semakin besar. / 随着 seiring dengan · 科学技术 ilmu pengetahuan dan teknologi · 发展 perkembangan · 手机 telepon genggam · 作用 peran/fungsi · 越来越大 semakin besar
+hsk4_13_26#2 | 随着科学技术的发展，我们的世界正在越变越小。 | Suízhe kēxué jìshù de fāzhǎn, wǒmen de shìjiè zhèngzài yuè biàn yuè xiǎo. | Seiring perkembangan ilmu pengetahuan dan teknologi, dunia kita sedang terasa semakin kecil. / 随着 seiring dengan · 科学技术 ilmu pengetahuan dan teknologi · 发展 perkembangan · 我们的世界 dunia kita · 正在 sedang · 越变越小 semakin lama semakin kecil
+hsk4_13_27#1 | 这种儿童牙膏十分受欢迎。 | Zhè zhǒng értóng yágāo shífēn shòu huānyíng. | 这 ini · 种 Tipe · 儿童 anak-anak · 牙膏 pasta gigi · 十分 sangat · 欢迎 Selamat datang
+hsk4_13_27#2 | 他今天穿得十分正式。 | Tā jīntiān chuān děi shífēn zhèngshì. | 他 dia · 今天 hari ini · 穿 memakai · 十分 sangat · 正式 Resmi
+hsk4_13_28#1 | 森林里有一种植物，它开的花比普通的花大很多，并且特别香。 | Sēnlín lǐ yǒu yī zhǒng zhíwù, tā kāi de huā bǐ pǔtōng de huā dà hěn duō, bìngqiě tèbié xiāng. | 森林 hutan · 里 di dalam · 有 ada · 一 satu · 种 Tipe · 植物 tanaman · 它 dia · 开 membuka
+hsk4_13_29#1 | 这个班的大部分学生来自亚洲。 |  | 这 ini · 个 kata satuan umum · 班 Kelas · 大 besar · 部分 bagian · 学生 murid · 来自 berasal dari
+hsk4_13_29#2 | 数量词是汉语语法的一部分。 | Shùliàng cí shì hànyǔ yǔfǎ de yī bùfen. | 数量 jumlah · 是 adalah · 汉语 Bahasa Mandarin · 语法 tata bahasa · 一 satu · 部分 bagian
+hsk4_13_30#1 | 中午的西红柿鸡蛋汤稍微有点儿咸。 | Zhōngwǔ de xīhóngshì jīdàn tāng shāowéi yǒu diǎn ér xián. | 中午 siang · 西红柿 tomat · 鸡蛋 telur ayam · 汤 sup · 稍微 sedikit · 有 ada · 点 jam · 咸 asin
+hsk4_13_30#2 | 这条裤子稍微有点儿厚。 | Zhè tiáo kùzi shāowéi yǒu diǎn ér hòu. | 这 ini · 条 Kata satuan untuk celana · 裤子 Celana · 稍微 sedikit · 有 ada · 点 jam · 厚 tebal
+hsk4_13_31#1 | 凉 茶虽然味道苦，但对身体很有好处。 | Liáng chá suī rán wèidào kǔ, dàn duì shēntǐ hěn yǒu hǎochù. | 茶 teh · 虽 meskipun · 味道 rasa · 苦 pahit · 对 benar · 身体 tubuh · 很 sangat · 有 ada
+hsk4_14_02#1 | 他准备了一条白毛巾擦汗。 | Tā zhǔnbèi le yī tiáo bái máojīn cā hàn. | 他 dia · 准备 bersiap · 一 satu · 条 Kata satuan untuk celana · 白 putih · 毛巾 handuk · 擦 mengusap · 汗 keringat
+hsk4_14_02#2 | 把毛巾和牙膏放塑料袋里。 | Bǎ máojīn hé yágāo fàng sùliàodài lǐ. | 把 Kata satuan untuk payung · 毛巾 handuk · 和 dan · 牙膏 pasta gigi · 放 Meletakkan · 塑料袋 kantong plastik · 里 di dalam
+hsk4_14_03#1 | 宾馆为我们提供了牙刷和牙膏。 | Bīnguǎn wèi wǒmen tí gōng le yá shuā hé yágāo. | 宾馆 hotel · 为 Untuk · 我们 kami · 提供 Menyediakan · 和 dan · 牙膏 pasta gigi
+hsk4_14_03#2 | 把毛巾和牙膏放塑料袋里。 | Bǎ máojīn hé yágāo fàng sùliàodài lǐ. | 把 Kata satuan untuk payung · 毛巾 handuk · 和 dan · 牙膏 pasta gigi · 放 Meletakkan · 塑料袋 kantong plastik · 里 di dalam
+hsk4_14_04#1 | 选择职业时，你最看重什么？ | Xuǎnzé zhíyè shí, nǐ zuì kàn zhòng shénme? | 选择 Memilih · 职业 profesi · 你 kamu · 最 paling · 看 melihat · 重 berat · 什么 apa
+hsk4_14_04#2 | 重感冒让他不得不请假休息。 | Zhòng gǎnmào ràng tā bùdébù qǐngjià xiūxi. | 重 berat · 感冒 Flu · 让 membiarkan · 他 dia · 不得不 Terpaksa harus · 请假 Ijin tidak masuk · 休息 istirahat
+hsk4_14_05#1 | 这儿的环境还行吧？ | Zhè ér de huánjìng hái xíng ba? | 这 ini · 环境 Lingkungan · 还 masih · 行 boleh
+hsk4_14_07#1 | 塑料袋的大量使用带来了严重的环境污染问题。 | Sùliàodài de dà liàng shǐyòng dài lái le yánzhòng de huánjìng wūrǎn wèntí. | 塑料袋 kantong plastik · 大 besar · 使用 menggunakan · 带 membawa · 来 datang · 严重 parah · 环境 Lingkungan · 污染 mencemari
+hsk4_14_07#2 | 环境如果被污染了，经济的增长也无法为我们带来美好的生活。 | Huánjìng rúguǒ bèi wūrǎn le, jīngjì de zēng zhǎng yě wúfǎ wèi wǒmen dài lái měi hǎo de shēnghuó. | 环境 Lingkungan · 如果 jika · 被 Digunakan di kalimat pasif · 污染 mencemari · 经济 ekonomi · 长 Bertambah · 也 juga · 无法 tidak dapat
+hsk4_14_09#1 | 那个白色的盒子又脏又破。 | Nà gè bái sè de hézi yòu zāng yòu pò. | 那 itu · 个 kata satuan umum · 白 putih · 盒子 kotak · 又 Dan · 脏 kotor · 破 rusak
+hsk4_14_09#2 | 弟弟的房间又脏又乱。 | Dìdi de fángjiān yòu zāng yòu luàn. | 弟弟 adik laki-laki · 房间 kamar · 又 Dan · 脏 kotor · 乱 kacau
+hsk4_14_11#1 | 教室里只剩一个空座位了。 | Jiàoshì lǐ zhǐ shèng yī gè kōng zuòwèi le. | 教室 ruang kelas · 里 di dalam · 只 Hanya · 剩 tersisa · 一 satu · 个 kata satuan umum · 空 kosong · 座位 tempat duduk
+hsk4_14_11#2 | 请把空瓶子扔进垃圾桶。 | Qǐng bǎ kōng píngzi rēng jìn lājītǒng. | 请 silakan · 把 Kata satuan untuk payung · 空 kosong · 瓶子 Botol · 扔 membuang · 进 masuk · 垃圾桶 tempat sampah
+hsk4_14_12#1 | 盒子里的巧克力被妹妹吃光了。 | Hézi lǐ de qiǎokèlì bèi mèimei chī guāng le. | 盒子 kotak · 里 di dalam · 巧克力 coklat · 被 Digunakan di kalimat pasif · 妹妹 adik perempuan · 吃 makan · 光 hanya
+hsk4_14_12#2 | 那个白色的盒子又脏又破。 | Nà gè bái sè de hézi yòu zāng yòu pò. | 那 itu · 个 kata satuan umum · 白 putih · 盒子 kotak · 又 Dan · 脏 kotor · 破 rusak
+hsk4_14_13#1 | 请把空瓶子扔进垃圾桶。 | Qǐng bǎ kōng píngzi rēng jìn lājītǒng. | 请 silakan · 把 Kata satuan untuk payung · 空 kosong · 瓶子 Botol · 扔 membuang · 进 masuk · 垃圾桶 tempat sampah
+hsk4_14_13#2 | 请把香蕉皮扔垃圾桶里。 | Qǐng bǎ xiāngjiāo pí rēng lājītǒng lǐ. | 请 silakan · 把 Kata satuan untuk payung · 香蕉 Pisang · 扔 membuang · 垃圾桶 tempat sampah · 里 di dalam
+hsk4_14_14#1 | 普通话以北京语音为标准音。 | Pǔtōnghuà yǐ běijīng yǔ yīn wèi biāozhǔn yīn. | 普通话 bahasa Mandarin standar · 以 dengan · 北京 Beijing · 为 Untuk · 标准 standar
+hsk4_14_14#2 | 别伤心了，以后还有机会。 | Bié shāngxīn le, yǐ hòu hái yǒu jīhuì. | 别 jangan · 伤心 sedih · 以 dengan · 还 masih · 有 ada · 机会 Kesempatan
+hsk4_14_15#1 | 亚洲经济的增长速度正在逐渐提高。 |  | 经济 ekonomi · 长 Bertambah · 速度 kecepatan · 正在 sedang · 逐渐 perlahan-lahan · 提高 Meningkatkan
+hsk4_14_15#2 | 它不仅要求高速度，还要求准确的方向。 | Tā bùjǐn yāoqiú gāo sùdù, hái yāoqiú zhǔnquè de fāngxiàng. | 它 dia · 不仅 Tidak hanya · 要求 Persyaratan · 高 tinggi · 速度 kecepatan · 还 masih · 准确 akurat · 方向 arah
+hsk4_14_16#1 | 地球是我们共同的家。 | Dìqiú shì wǒmen gòngtóng de jiā. | 地球 bumi · 是 adalah · 我们 kami · 共同 Bersama-sama · 家 rumah
+hsk4_14_16#2 | 保护地球环境，并不是离我们很远、很难做到的事情。 | Bǎohù dìqiú huánjìng, bìng bù shì lí wǒmen hěn yuǎn, hěn nán zuò dào de shìqing. | 保护 melindungi · 地球 bumi · 环境 Lingkungan · 并 Dan · 不 tidak · 是 adalah · 离 berjarak dari · 我们 kami
+hsk4_14_20#1 | 云南在中国的西南部，是著名的旅游目的地。 | Yún nán zài zhōngguó de xī nán bù, shì zhùmíng de lǚyóu mùdì de. | Yunnan terletak di bagian barat daya Tiongkok dan merupakan tujuan wisata terkenal. / 云南 Yunnan · 在 terletak di · 中国 Tiongkok · 西南部 bagian barat daya · 是 merupakan · 著名 terkenal · 旅游目的地 tujuan wisata
+hsk4_14_20#2 | 新闻报道中使用数字的目的是，通过它们来说明问题。 | Xīnwén bàodào zhōng shǐyòng shùzì de mùdì shì, tōngguò tā men lái shuōmíng wèntí. | Dalam pemberitaan, angka digunakan untuk menjelaskan suatu masalah. / 新闻报道 dalam pemberitaan · 使用 menggunakan · 数字 angka · 目的是 tujuannya adalah · 通过它们 melalui angka-angka tersebut · 来说明 untuk menjelaskan · 问题 masalah
+hsk4_14_22#1 | 把毛巾和牙膏放塑料袋里。 | Bǎ máojīn hé yágāo fàng sùliàodài lǐ. | 把 Kata satuan untuk payung · 毛巾 handuk · 和 dan · 牙膏 pasta gigi · 放 Meletakkan · 塑料袋 kantong plastik · 里 di dalam
+hsk4_14_22#2 | 超市提供免费塑料袋。 | Chāoshì tí gōng miǎn fèi sùliàodài. | 超市 Supermarket · 提供 Menyediakan · 免费 gratis · 塑料袋 kantong plastik

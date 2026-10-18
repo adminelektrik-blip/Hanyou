@@ -1,0 +1,90 @@
+h2_std__46#0 | 中午的西红柿鸡蛋汤稍微有点儿咸。 | Zhōngwǔ de xīhóngshì jīdàn tāng shāowéi yǒu diǎn ér xián. | 中午 siang · 西红柿 tomat · 鸡蛋 telur ayam · 汤 sup · 稍微 sedikit · 有 ada · 点 jam · 咸 asin
+h2_std__46#1 | 做西红柿鸡蛋汤很简单。 | Zuò xīhóngshì jīdàn tāng hěn jiǎndān. | 做 membuat · 西红柿 tomat · 鸡蛋 telur ayam · 汤 sup · 很 sangat · 简单 sederhana
+h2_std__47#0 | 有时候，哭并不一定是件坏事。 | Yǒu shíhou, kū bìng bù yídìng shì jiàn huài shì. | 有 ada · 时候 waktu · 哭 Menangis · 并 Dan · 不 tidak · 一定 pasti · 是 adalah · 件 kata satuan pakaian
+h2_std__47#1 | 对于这件事，您有什么看法？ | Duìyú zhè jiàn shì, nín yǒu shénme kànfǎ? | 对于 terhadap · 这 ini · 件 kata satuan pakaian · 您 Anda · 有 ada · 什么 apa · 看法 pendapat
+h2_std__48#0 | 教室里只剩一个空座位了。 | Jiàoshì lǐ zhǐ shèng yī gè kōng zuòwèi le. | 教室 ruang kelas · 里 di dalam · 只 Hanya · 剩 tersisa · 一 satu · 个 kata satuan umum · 空 kosong · 座位 tempat duduk
+h2_std__49#0 | 我姐姐在医院上班，她是护士。 | Wǒ jiějie zài yīyuàn shàngbān, tā shì hùshi. | 我 saya · 姐姐 kakak perempuan · 在 di · 医院 rumah sakit · 上班 bekerja · 她 dia · 是 adalah · 护士 perawat
+h2_std__49#1 | 你陪姐姐去公园散散步吧。 | Nǐ péi jiějie qù gōngyuán sàn sàn bù ba. | 你 kamu · 陪 Menemani · 姐姐 kakak perempuan · 去 pergi · 公园 Taman · 散步 jalan-jalan santai
+h2_std__50#0 | 他读了介绍黄河的文章。 | Tā dú le jièshào huánghé de wénzhāng. | 他 dia · 读 membaca · 介绍 memperkenalkan · 黄河 Yellow River · 文章 artikel
+h2_std__50#1 | 我向大家介绍一下，我们前面看到的就是“老虎山”。 | Wǒ xiàng dàjiā jièshào yī xià, wǒmen qiánmiàn kàn dào de jiù shì lǎohǔ shān. | 我 saya · 向 Terhadap · 大家 semua orang · 介绍 memperkenalkan · 一 satu · 下 bawah · 我们 kami · 前面 depan
+h2_std__51#0 | 请把空瓶子扔进垃圾桶。 | Qǐng bǎ kōng píngzi rēng jìn lājītǒng. | 请 silakan · 把 Kata satuan untuk payung · 空 kosong · 瓶子 Botol · 扔 membuang · 进 masuk · 垃圾桶 tempat sampah
+h2_std__52#0 | 手机拉近了人与人之间的距离。 | Shǒujī lā jìn le rén yǔ rén zhī jiān de jùlí. | 手机 telepon genggam · 拉 menarik · 近 dekat · 人 orang · 与 Dengan · 之 partikel penghubung atribut · 距离 jarak
+h2_std__52#1 | 互联网拉近了人与人之间的距离。 | Hùliánwǎng lā jìn le rén yǔ rén zhī jiān de jùlí. | 互联网 internet · 拉 menarik · 近 dekat · 人 orang · 与 Dengan · 之 partikel penghubung atribut · 距离 jarak
+h2_std__53#0 | 当你觉得无聊时，就去读书吧。 | Dāng nǐ juéde wúliáo shí, jiù qù dú shū ba. | 当 pada saat · 你 kamu · 觉得 merasa · 无聊 bosan · 就 langsung · 去 pergi · 读 membaca · 书 buku
+h2_std__53#1 | 我就是有点儿感冒，不太严重。 | Wǒ jiù shì yǒu diǎn ér gǎnmào, bù tài yánzhòng. | 我 saya · 就 langsung · 是 adalah · 有 ada · 点 jam · 感冒 Flu · 不 tidak · 太 terlalu
+h2_std__56#0 | 好的开始很重要。 | Hǎo de kāishǐ hěn zhòngyào. | 好 baik · 开始 mulai · 很 sangat · 重要 Penting
+h2_std__56#1 | 比别人早一些开始，比别人更努力一些，同样可以成功。 | Bǐ biérén zǎo yī xiē kāishǐ, bǐ biérén gèng nǔlì yī xiē, tóng yàng kěyǐ chénggōng. | 比 dibandingkan · 别人 Orang lain · 一 satu · 些 beberapa · 开始 mulai · 更 Lebih · 努力 Berusaha Keras · 可以 bisa
+h2_std__57#0 | 她们俩没通过普通话考试。 | Tā men liǎ méi tōngguò pǔtōnghuà kǎoshì. | 她 dia · 俩 Berdua · 没 tidak · 通过 melalui · 普通话 bahasa Mandarin standar · 考试 ujian
+h2_std__57#1 | 护士工作前要通过考试。 | Hùshi gōngzuò qián yào tōngguò kǎoshì. | 护士 perawat · 工作 bekerja · 要 mau · 通过 melalui · 考试 ujian
+h2_std__59#0 | 可以这么说， 读史使人聪明。 | Kěyǐ zhè me shuō, dú shǐ shǐ rén cōngming. | 可以 bisa · 这 ini · 读 membaca · 使 membuat · 人 orang · 聪明 Pintar
+h2_std__59#1 | 人们可以通过音乐交流感情。 | Rén men kěyǐ tōngguò yīnyuè jiāoliú gǎnqíng. | 人 orang · 可以 bisa · 通过 melalui · 音乐 Musik · 交流 Bertukar pikiran · 感情 perasaan
+h2_std__60#0 | 学生爱上张教授的课。 | Xuésheng ài shàng zhāng jiàoshòu de kè. | 学生 murid · 爱 cinta · 上 atas · 张 Kata satuan · 教授 profesor · 课 pelajaran
+h2_std__60#1 | 这节课讲气候变化。 | Zhè jié kè jiǎng qìhòu biànhuà. | 这 ini · 节 bagian · 课 pelajaran · 讲 Menjelaskan · 气候 iklim · 变化 Perubahan
+h2_std__61#0 | 由于急着回家，他把车开得很快。 | Yóuyú jí zhe huí jiā, tā bǎ chē kāi děi hěn kuài. | 由于 karena · 回 kembali · 家 rumah · 他 dia · 把 Kata satuan untuk payung · 开 membuka · 很 sangat · 快 cepat
+h2_std__61#1 | 这个消息很快就被亲戚朋友们知道了。 | Zhè gè xiāoxi hěn kuài jiù bèi qīnqi péngyou men zhīdào le. | 这 ini · 个 kata satuan umum · 消息 Berita · 很 sangat · 快 cepat · 就 langsung · 被 Digunakan di kalimat pasif · 亲戚 kerabat
+h2_std__63#0 | 爸爸下班回到家已经很晚了，很累。 | Bàba xià bān huí dào jiā yǐjīng hěn wǎn le, hěn lèi. | 爸爸 ayah · 下 bawah · 班 Kelas · 回 kembali · 到 sampai · 家 rumah · 已经 sudah · 很 sangat
+h2_std__64#0 | 加油站离这儿大概有两公里。 | Jiāyóuzhàn lí zhè ér dàgài yǒu liǎng gōnglǐ. | 加油站 pom bensin · 离 berjarak dari · 这 ini · 大概 kira-kira · 有 ada · 两 dua · 公里 kilometer
+h2_std__64#1 | 任何植物都离不开阳光。 | Rènhé zhíwù dōu lí bù kāi yángguāng. | 任何 apapun · 植物 tanaman · 都 semua · 离 berjarak dari · 不 tidak · 开 membuka · 阳光 sinar matahari
+h2_std__65#0 | 楼下的商店要招聘两名售货员。 | Lóu xià de shāngdiàn yào zhāo pìn liǎng míng shòuhuòyuán. | 楼 Bangunan · 下 bawah · 商店 toko · 要 mau · 招聘 merekrut · 两 dua · 售货员 pramuniaga
+h2_std__65#1 | 这两个城市的距离是一万公里。 | Zhè liǎng gè chéngshì de jùlí shì yī wàn gōnglǐ. | 这 ini · 两 dua · 个 kata satuan umum · 城市 Kota · 距离 jarak · 是 adalah · 一 satu · 万 Sepuluh ribu
+h2_std__66#0 | 回来的路上我顺便去了趟邮局。 | Huí lái de lù shàng wǒ shùnbiàn qù le tàng yóujú. | 回 kembali · 来 datang · 路 jalan · 上 atas · 我 saya · 顺便 sekalian · 去 pergi · 趟 kali perjalanan
+h2_std__67#0 | 他暑假想去云南旅游。 | Tā shǔ jiǎ xiǎng qù yún nán lǚyóu. | 他 dia · 假 palsu · 想 ingin · 去 pergi · 云 awan · 旅游 bepergian
+h2_std__67#1 | 把这些都详细计划好，旅游时才会更轻松。 | Bǎ zhè xiē dōu xiángxì jìhuà hǎo, lǚyóu shí cái huì gèng qīngsōng. | 把 Kata satuan untuk payung · 这 ini · 些 beberapa · 都 semua · 详细 terperinci · 计划 Rencana · 好 baik · 旅游 bepergian
+h2_std__68#0 | 它一直只卖一种东西：牛肉面。 | Tā yìzhí zhǐ mài yī zhǒng dōngxi: niú ròu miàn. | 它 dia · 一直 Terus menerus atau Selalu · 只 Hanya · 卖 menjual · 一 satu · 种 Tipe · 东西 benda
+h2_std__68#1 | 它一直只卖一 种东西：牛肉面。 | Tā yìzhí zhǐ mài yī zhǒng dōngxi: niú ròu miàn. | 它 dia · 一直 Terus menerus atau Selalu · 只 Hanya · 卖 menjual · 一 satu · 种 Tipe · 东西 benda
+h2_std__69#0 | 知识是需要慢慢积累的。 | Zhīshi shì xūyào màn màn jīlěi de. | 知识 Pengetahuan · 是 adalah · 需要 Membutuhkan · 慢 lambat · 积累 Mengumpulkan
+h2_std__69#1 | 经验是需要慢慢积累的。 | Jīngyàn shì xūyào màn màn jīlěi de. | 经验 Pengalaman kerja · 是 adalah · 需要 Membutuhkan · 慢 lambat · 积累 Mengumpulkan
+h2_std__70#0 | 一只小鸟正忙着收拾东西准备搬家。 | Yī zhǐ xiǎo niǎo zhèng máng zhe shōushi dōngxi zhǔnbèi bān jiā. | 一 satu · 只 Hanya · 小 kecil · 鸟 Burung · 忙 sibuk · 收拾 merapikan · 东西 benda · 准备 bersiap
+h2_std__70#1 | 一只小鸟正忙着收拾东西，准备搬家。 | Yī zhǐ xiǎo niǎo zhèng máng zhe shōushi dōngxi, zhǔnbèi bān jiā. | 一 satu · 只 Hanya · 小 kecil · 鸟 Burung · 忙 sibuk · 收拾 merapikan · 东西 benda · 准备 bersiap
+h2_std__71#0 | 保护环境是我们每个人的责任。 | Bǎohù huánjìng shì wǒmen měi gèrén de zérèn. | 保护 melindungi · 环境 Lingkungan · 是 adalah · 我们 kami · 每 setiap · 个人 individu · 责任 tanggung jawab
+h2_std__71#1 | 每个人都希望获得别人的尊重。 | Měi gèrén dōu xīwàng huòdé biérén de zūnzhòng. | 每 setiap · 个人 individu · 都 semua · 希望 berharap · 获得 memperoleh · 别人 Orang lain · 尊重 menghormati
+h2_std__72#0 | 盒子里的巧克力被妹妹吃光了。 | Hézi lǐ de qiǎokèlì bèi mèimei chī guāng le. | 盒子 kotak · 里 di dalam · 巧克力 coklat · 被 Digunakan di kalimat pasif · 妹妹 adik perempuan · 吃 makan · 光 hanya
+h2_std__72#1 | 妹妹弹钢琴的声音把爷爷吵醒了。 | Mèimei tán gāngqín de shēngyīn bǎ yéye chǎo xǐng le. | 妹妹 adik perempuan · 弹钢琴 bermain piano · 声音 Suara · 把 Kata satuan untuk payung · 爷爷 Kakek · 吵 berisik · 醒 bangun
+h2_std__73#0 | 他发现7岁的儿子还在门口等他。 | Tā fāxiàn7 suì de érzi hái zài mén kǒu děng tā. | 他 dia · 发现 menemukan · 岁 tahun · 儿子 anak laki-laki · 还 masih · 在 di · 门 pintu · 口 Suapan
+h2_std__73#1 | 晚上，我刚刚躺下，就响起了敲门声。 | Wǎnshang, wǒ gāng gāng tǎng xià, jiù xiǎng qǐ le qiāo mén shēng. | 晚上 malam · 我 saya · 刚 Baru Saja · 躺 berbaring · 下 bawah · 就 langsung · 响 berbunyi · 起 bangkit
+h2_std__74#0 | 男人和女人在很多方面是不相同的。 | Nánrén hé nǚrén zài hěn duō fāngmiàn shì bù xiāngtóng de. | 男人 pria · 和 dan · 女人 wanita · 在 di · 很 sangat · 多 banyak · 方面 aspek · 是 adalah
+h2_std__75#0 | 对不起，您的航班已经起飞了。 | Duìbuqǐ, nín de hángbān yǐjīng qǐfēi le. | 对不起 maaf · 您 Anda · 航班 penerbangan terjadwal · 已经 sudah · 起飞 Lepas landas
+h2_std__75#1 | 对于这件事，您有什么看法？ | Duìyú zhè jiàn shì, nín yǒu shénme kànfǎ? | 对于 terhadap · 这 ini · 件 kata satuan pakaian · 您 Anda · 有 ada · 什么 apa · 看法 pendapat
+h2_std__76#0 | "面包会有的，牛奶会有的，一切都会好起来的。 | Miànbāo huì yǒu de, niúnǎi huì yǒu de, yíqiè dōu huì hǎo qǐlai de. | 面包 Roti · 会 bisa · 有 ada · 牛奶 susu · 一切 Semua · 都 semua · 好 baik · 起来 Bangun
+h2_std__77#0 | 男人和女人在很多方面是不相同的。 | Nánrén hé nǚrén zài hěn duō fāngmiàn shì bù xiāngtóng de. | 男人 pria · 和 dan · 女人 wanita · 在 di · 很 sangat · 多 banyak · 方面 aspek · 是 adalah
+h2_std__77#1 | 女人生完小孩以后，一般都会变胖，然而我姐却没变。 | Nǚrén shēng wán xiǎo hái yǐ hòu, yìbān dōu huì biàn pàng, rán'ér wǒ jiě què méi biàn. | 女人 wanita · 完 selesai · 小 kecil · 以 dengan · 一般 Biasanya · 都 semua · 会 bisa · 胖 Gemuk
+h2_std__78#0 | 我朋友想要一个窗户旁边的座位。 | Wǒ péngyou xiǎng yào yī gè chuānghu pángbiān de zuòwèi. | 我 saya · 朋友 teman · 想 ingin · 要 mau · 一 satu · 个 kata satuan umum · 窗户 jendela · 旁边 di sebelah
+h2_std__79#0 | 游泳比跑步效果更好。 | Yóuyǒng bǐ pǎobù xiàoguǒ gèng hǎo. | 游泳 berenang · 比 dibandingkan · 跑步 berlari · 效果 efek · 更 Lebih · 好 baik
+h2_std__79#1 | 骑自行车、打篮球、跑步等都是很好的减肥运动。 | Qí zìxíngchē, dǎ lánqiú, pǎobù děng dōu shì hěn hǎo de jiǎn féi yùndòng. | 骑 Mengendarai · 自行车 Sepeda · 打篮球 bermain bola basket · 跑步 berlari · 等 dll · 都 semua · 是 adalah · 很 sangat
+h2_std__80#0 | 大家都说：便宜没好货，好货不便宜。 | Dàjiā dōu shuō: piányi méi hǎo huò, hǎo huò bù piányi. | 大家 semua orang · 都 semua · 便宜 murah · 没 tidak · 好 baik · 不 tidak
+h2_std__80#1 | 妻子觉得房子很便宜。 | Qīzi juéde fáng zi hěn piányi. | 妻子 istri · 觉得 merasa · 很 sangat · 便宜 murah
+h2_std__81#0 | 他想给老王一张演出票。 | Tā xiǎng gěi lǎo wáng yī zhāng yǎnchū piào. | 他 dia · 想 ingin · 给 memberi · 老 Tua · 一 satu · 张 Kata satuan · 演出 mempertunjukkan · 票 tiket
+h2_std__81#1 | 只买一张票不能打折。 | Zhǐ mǎi yī zhāng piào bù néng dǎzhé. | 只 Hanya · 买 membeli · 一 satu · 张 Kata satuan · 票 tiket · 不 tidak · 能 bisa · 打折 diskon
+h2_std__82#0 | 妻子希望丈夫陪她逛街。 |  | 妻子 istri · 希望 berharap · 丈夫 suami · 陪 Menemani · 她 dia
+h2_std__82#1 | ”医生的妻子回答道。 | Yīshēng de qīzi huídá dào. | 医生 dokter · 妻子 istri · 回答 Menjawab
+h2_std__83#0 | 他今天七点就起床了。 | Tā jīntiān qī diǎn jiù qǐchuáng le. | 他 dia · 今天 hari ini · 七 tujuh · 点 jam · 就 langsung · 起床 bangun tidur
+h2_std__83#1 | 快醒醒，该起床了。 | Kuài xǐng xǐng, gāi qǐchuáng le. | 快 cepat · 醒 bangun · 起床 bangun tidur
+h2_std__86#0 | 今年公司的收入比去年增加了一倍。 | Jīn nián gōngsī de shōurù bǐ qùnián zēngjiā le yī bèi. | 年 tahun · 公司 perusahaan · 收入 Pemasukan · 比 dibandingkan · 去年 tahun lalu · 增加 menambah · 一 satu · 倍 kali lipat
+h2_std__86#1 | 参观的人数比去年增长了三分之一。 | Cānguān de rén shù bǐ qùnián zēng zhǎng le sān fēn zhī yī. | 参观 mengunjungi · 人 orang · 数 menghitung · 比 dibandingkan · 去年 tahun lalu · 长 Bertambah · 三 tiga · 分 Membedakan
+h2_std__87#0 | 这个消息让所有人都大吃一惊。 | Zhè gè xiāoxi ràng suǒyǒu rén dōu dà chī yī jīng. | 这 ini · 个 kata satuan umum · 消息 Berita · 让 membiarkan · 所有 semua · 人 orang · 都 semua · 大 besar
+h2_std__87#1 | 这个消息真是太让人激动了！ | Zhè gè xiāoxi zhēn shì tài ràng rén jīdòng le! | 这 ini · 个 kata satuan umum · 消息 Berita · 真 sungguh · 是 adalah · 太 terlalu · 让 membiarkan · 人 orang
+h2_std__88#0 | 我姐姐在医院上班，她是护士。 | Wǒ jiějie zài yīyuàn shàngbān, tā shì hùshi. | 我 saya · 姐姐 kakak perempuan · 在 di · 医院 rumah sakit · 上班 bekerja · 她 dia · 是 adalah · 护士 perawat
+h2_std__88#1 | 我以为我已经在 上班了！ | Wǒ yǐwéi wǒ yǐjīng zài shàngbān le! | 我 saya · 以为 Mengira · 已经 sudah · 在 di · 上班 bekerja
+h2_std__90#0 | 小时候，他经常生病，因此每天都去跑步锻炼身体。 | Xiǎoshí hòu, tā jīngcháng shēngbìng, yīncǐ měi tiān dōu qù pǎobù duànliàn shēntǐ. | 小时 jam · 他 dia · 经常 Sering · 生病 jatuh sakit · 因此 oleh karena itu · 每 setiap · 都 semua · 去 pergi
+h2_std__91#0 | 猜猜我奶奶给了我什么生日礼物？ | Cāi cāi wǒ nǎinai gěi le wǒ shénme shēngrì lǐwù? | 猜 menebak · 我 saya · 奶奶 Nenek · 给 memberi · 什么 apa · 生日 ulang tahun · 礼物 Hadiah
+h2_std__91#1 | 想要密码安全，最好不要用手机号码、生日等。 | Xiǎng yào mìmǎ ānquán, zuì hǎo bù yào yòng shǒujī hàomǎ, shēngrì děng. | 想 ingin · 要 mau · 密码 kata sandi · 安全 aman · 最好 Paling baik · 不 tidak · 用 Membutuhkan · 手机 telepon genggam
+h2_std__93#0 | 任何事情的发生都是有原因的。 | Rènhé shìqing de fāshēng dōu shì yǒu yuányīn de. | 任何 apapun · 事情 urusan · 发生 terjadi · 都 semua · 是 adalah · 有 ada · 原因 alasan
+h2_std__93#1 | 有些事情是科学无法解释的。 | Yǒu xiē shìqing shì kēxué wúfǎ jiěshì de. | 有 ada · 些 beberapa · 事情 urusan · 是 adalah · 科学 ilmu pengetahuan · 无法 tidak dapat · 解释 menjelaskan
+h2_std__94#0 | ”“您恐怕只能先看另一块儿手表了。 | Nín kǒngpà zhǐ néng xiān kàn lìng yī kuài ér shǒubiǎo le. | 您 Anda · 恐怕 saya khawatir · 只 Hanya · 能 bisa · 先 Pertama · 看 melihat · 一 satu · 块 yuan
+h2_std__94#1 | 盒子里面有一块儿手表。 | Hézi lǐ miàn yǒu yī kuài ér shǒubiǎo. | 盒子 kotak · 里 di dalam · 有 ada · 一 satu · 块 yuan · 手表 jam tangan
+h2_std__95#0 | 手机减少了人们面对面的交流。 | Shǒujī jiǎnshǎo le rén men miànduì miàn de jiāoliú. | 手机 telepon genggam · 减少 mengurangi · 人 orang · 面对 menghadapi · 交流 Bertukar pikiran
+h2_std__95#1 | 手机拉近了人与人之间的距离。 | Shǒujī lā jìn le rén yǔ rén zhī jiān de jùlí. | 手机 telepon genggam · 拉 menarik · 近 dekat · 人 orang · 与 Dengan · 之 partikel penghubung atribut · 距离 jarak
+h2_std__96#0 | 那家店免费为顾客送家具。 | Nà jiā diàn miǎn fèi wèi gùkè sòng jiājù. | 那 itu · 家 rumah · 免费 gratis · 为 Untuk · 顾客 Pelanggan · 送 mengirim · 家具 perabot
+h2_std__98#0 | 它一直只卖一种东西：牛肉面。 | Tā yìzhí zhǐ mài yī zhǒng dōngxi: niú ròu miàn. | 它 dia · 一直 Terus menerus atau Selalu · 只 Hanya · 卖 menjual · 一 satu · 种 Tipe · 东西 benda
+h2_std__98#1 | 它一直只卖一 种东西：牛肉面。 | Tā yìzhí zhǐ mài yī zhǒng dōngxi: niú ròu miàn. | 它 dia · 一直 Terus menerus atau Selalu · 只 Hanya · 卖 menjual · 一 satu · 种 Tipe · 东西 benda
+h2_std__100#0 | 我还剩几个填空题没做完。 | Wǒ hái shèng jǐ gè tiánkòng tí méi zuò wán. | 我 saya · 还 masih · 剩 tersisa · 几 berapa · 个 kata satuan umum · 填空 mengisi bagian kosong · 题 soal · 没 tidak
+h2_std__100#1 | 这道题的答案在这儿。 | Zhè dào tí de dá'àn zài zhè ér. | 这 ini · 题 soal · 答案 jawaban · 在 di
+h2_std__102#0 | 他被外面的响声吵醒了。 | Tā bèi wài miàn de xiǎng shēng chǎo xǐng le. | 他 dia · 被 Digunakan di kalimat pasif · 外 luar · 响 berbunyi · 吵 berisik · 醒 bangun
+h2_std__102#1 | 平时他在外面吃饭。 | Píngshí tā zài wài miàn chī fàn. | 平时 Biasanya · 他 dia · 在 di · 外 luar · 吃 makan · 饭 nasi
+h2_std__103#0 | 我还剩几个填空题没做完。 | Wǒ hái shèng jǐ gè tiánkòng tí méi zuò wán. | 我 saya · 还 masih · 剩 tersisa · 几 berapa · 个 kata satuan umum · 填空 mengisi bagian kosong · 题 soal · 没 tidak
+h2_std__103#1 | 那本小说他读完了。 | Nà běn xiǎoshuō tā dú wán le. | 那 itu · 本 · 小说 novel · 他 dia · 读 membaca · 完 selesai
+h2_std__104#0 | 好玩儿的游戏更容易被儿童接受。 | Hǎo wán ér de yóuxì gèng róngyì bèi értóng jiēshòu. | 好 baik · 玩 bermain · 游戏 Game · 更 Lebih · 容易 Mudah · 被 Digunakan di kalimat pasif · 儿童 anak-anak · 接受 Menerima
+h2_std__104#1 | 这次旅行他玩儿得很高兴。 | Zhè cì lǚxíng tā wán ér děi hěn gāoxìng. | 这 ini · 次 kali · 旅行 bepergian · 他 dia · 玩 bermain · 很 sangat · 高兴 senang
+h2_std__105#0 | 夏天的晚上，这条街道尤其热闹。 | Xiàtiān de wǎnshang, zhè tiáo jiēdào yóuqí rènao. | 夏天 Musim Panas · 晚上 malam · 这 ini · 条 Kata satuan untuk celana · 街道 Jalan · 尤其 terutama · 热闹 ramai
+h2_std__105#1 | 房东每天晚上9点左右回来。 | Fángdōng měi tiān wǎnshang9 diǎn zuǒyòu huí lái. | 房东 pemilik rumah · 每 setiap · 晚上 malam · 点 jam · 左右 sekitar · 回 kembali · 来 datang
+h2_std__107#0 | 邻居问：“你要搬到哪儿去？ | Línjū wèn: nǐ yào bān dào nǎ ér qù? | 邻居 Tetangga · 问 bertanya · 你 kamu · 要 mau · 搬 Memindahkan atau mengangkut · 到 sampai · 哪 yang mana · 去 pergi

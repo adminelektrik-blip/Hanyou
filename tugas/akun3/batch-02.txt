@@ -1,0 +1,90 @@
+hsk4_07_03#1 | 我已经逐渐适应了这里的气候。 | Wǒ yǐjīng zhújiàn shìyìng le zhè lǐ de qìhòu. | 我 saya · 已经 sudah · 逐渐 perlahan-lahan · 适应 Beradaptasi · 这 ini · 里 di dalam · 气候 iklim
+hsk4_07_03#2 | 森林有改变小范围气候的作用。 | Sēnlín yǒu gǎibiàn xiǎo fànwéi qìhòu de zuòyòng. | 森林 hutan · 有 ada · 改变 Mengubah · 小 kecil · 范围 rentang · 气候 iklim · 作用 fungsi
+hsk4_07_04#1 | 我现在就过去，估计半小时后到。 | Wǒ xiànzài jiù guòqù, gūjì bàn xiǎoshí hòu dào. | 我 saya · 现在 sekarang · 就 langsung · 过去 Masa lalu · 估计 memperkirakan · 半 Setengah · 小时 jam · 到 sampai
+hsk4_07_04#2 | 王老师估计报名人数会超过 200。 | Wáng lǎoshī gūjì bàomíng rén shù huì chāoguò200. | 老师 guru · 估计 memperkirakan · 报名 mendaftar · 人 orang · 数 menghitung · 会 bisa · 超过 melebihi
+hsk4_07_05#1 | 她感冒还没好，还在咳嗽。 | Tā gǎnmào hái méi hǎo, hái zài késou. | 她 dia · 感冒 Flu · 还 masih · 没 tidak · 好 baik · 在 di · 咳嗽 batuk
+hsk4_07_05#2 | 他咳嗽得越来越厉害。 | Tā késou děi yuè lái yuè lìhai. | 他 dia · 咳嗽 batuk · 越 Semakin · 来 datang · 厉害 hebat
+hsk4_07_06#1 | 我就是有点儿感冒，不太严重。 | Wǒ jiù shì yǒu diǎn ér gǎnmào, bù tài yánzhòng. | 我 saya · 就 langsung · 是 adalah · 有 ada · 点 jam · 感冒 Flu · 不 tidak · 太 terlalu
+hsk4_07_06#2 | 塑料袋的大量使用带来了严重的环境污染问题。 | Sùliàodài de dà liàng shǐyòng dài lái le yánzhòng de huánjìng wūrǎn wèntí. | 塑料袋 kantong plastik · 大 besar · 使用 menggunakan · 带 membawa · 来 datang · 严重 parah · 环境 Lingkungan · 污染 mencemari
+hsk4_07_07#1 | 我朋友想要一个窗户旁边的座位。 | Wǒ péngyou xiǎng yào yī gè chuānghu pángbiān de zuòwèi. | 我 saya · 朋友 teman · 想 ingin · 要 mau · 一 satu · 个 kata satuan umum · 窗户 jendela · 旁边 di sebelah
+hsk4_07_07#2 | 你把窗户关了吗？ | Nǐ bǎ chuānghu guān le ma? | 你 kamu · 把 Kata satuan untuk payung · 窗户 jendela · 关 Mematikan
+hsk4_07_08#1 | 春节刚过，就有冷空气南下。 | Chūn jié gāng guò, jiù yǒu lěng kōngqì nán xià. | 节 bagian · 刚 Baru Saja · 过 Melewati · 就 langsung · 有 ada · 冷 dingin · 空气 udara · 下 bawah
+hsk4_07_08#2 | 植物会为了阳光、空气和水而竞争。 | Zhíwù huì wèile yángguāng, kōngqì hé shuǐ ér jìngzhēng. | 植物 tanaman · 会 bisa · 为了 Demi · 阳光 sinar matahari · 空气 udara · 和 dan · 水 air · 而 tetapi
+hsk4_07_09#1 | 抽烟对你没有一点儿好处。 | Chōu yān duì nǐ méiyǒu yī diǎn ér hǎochù. | 抽烟 merokok · 对 benar · 你 kamu · 没有 tidak ada · 一 satu · 点 jam · 好处 manfaat
+hsk4_07_09#2 | 抽烟对身体没有好处。 | Chōu yān duì shēntǐ méiyǒu hǎochù. | 抽烟 merokok · 对 benar · 身体 tubuh · 没有 tidak ada · 好处 manfaat
+hsk4_07_12#1 | 有些人对自己要求非常严格，不允许自己出现任何错误。 | Yǒu xiē rén duì zìjǐ yāoqiú fēicháng yángé, bù yǔnxǔ zìjǐ chūxiàn rènhé cuòwù. | 有 ada · 些 beberapa · 人 orang · 对 benar · 自己 Diri Sendiri · 要求 Persyaratan · 非常 sangat · 严格 ketat
+hsk4_07_12#2 | 世界上第一部无声电影出现的时候，吸引了成千上万的观众。 | Shìjiè shàng dìyī bù wú shēng diànyǐng chūxiàn de shíhou, xiyin le chéng qiān shàng wàn de guānzhòng. | 世界 Dunia · 上 atas · 第一 pertama · 无 tidak memiliki · 电影 film · 出现 muncul · 时候 waktu · 吸引 menarik
+hsk4_07_13#1 | 我真后悔告诉他这件事。 | Wǒ zhēn hòuhuǐ gàosu tā zhè jiàn shì. | 我 saya · 真 sungguh · 后悔 menyesal · 告诉 memberi tahu · 他 dia · 这 ini · 件 kata satuan pakaian
+hsk4_07_14#1 | 来不及了，快点儿跑。 | Láibují le, kuài diǎn ér pǎo. | 来不及 tidak sempat · 快 cepat · 点 jam
+hsk4_07_15#1 | 大概有三分之二的人反对这样做。 | Dàgài yǒu sān fēn zhī èr de rén fǎnduì zhè yàng zuò. | 大概 kira-kira · 有 ada · 三 tiga · 分 Membedakan · 之 partikel penghubung atribut · 二 dua · 人 orang · 反对 menentang
+hsk4_07_15#2 | 没人知道校长反对的原因。 | Méi rén zhīdào xiàozhǎng fǎnduì de yuányīn. | 没 tidak · 人 orang · 知道 tahu · 校长 Kepala sekolah · 反对 menentang · 原因 alasan
+hsk4_07_16#1 | 难道你不记得大夫说过的话了吗？ | Nándào nǐ bù jìde dàifu shuō guò de huà le ma? | 难道 masa sih · 你 kamu · 不 tidak · 记得 Mengingat · 大夫 dokter · 过 Melewati
+hsk4_07_16#2 | 难 道你不记得大夫说过的话了吗？ | Nán dào nǐ bù jìde dàifu shuō guò de huà le ma? | 难 Sulit · 你 kamu · 不 tidak · 记得 Mengingat · 大夫 dokter · 过 Melewati
+hsk4_07_17#1 | 植物会为了阳光、空气和水而竞争。 | Zhíwù huì wèile yángguāng, kōngqì hé shuǐ ér jìngzhēng. | 植物 tanaman · 会 bisa · 为了 Demi · 阳光 sinar matahari · 空气 udara · 和 dan · 水 air · 而 tetapi
+hsk4_07_17#2 | 任何植物都离不开阳光。 | Rènhé zhíwù dōu lí bù kāi yángguāng. | 任何 apapun · 植物 tanaman · 都 semua · 离 berjarak dari · 不 tidak · 开 membuka · 阳光 sinar matahari
+hsk4_07_18#1 | 研究发现，用 35 度的温水刷牙才是最合适的。 | Yánjiū fāxiàn, yòng35 dù de wēn shuǐ shuāyá cái shì zuì héshì de. | 研究 meneliti · 发现 menemukan · 用 Membutuhkan · 水 air · 刷牙 Sikat Gigi · 是 adalah · 最 paling · 合适 cocok
+hsk4_07_18#2 | 研究发 现，用 35 度的温水刷牙才是最合适的。 | Yánjiū fā xiàn, yòng35 dù de wēn shuǐ shuāyá cái shì zuì héshì de. | 研究 meneliti · 发 Mengirim · 用 Membutuhkan · 水 air · 刷牙 Sikat Gigi · 是 adalah · 最 paling · 合适 cocok
+hsk4_07_19#1 | 许多家饭店的年收入都超过了亿元。 | Xǔduō jiā fàn diàn de nián shōurù dōu chāoguò le yì yuán. | 许多 banyak · 家 rumah · 饭 nasi · 年 tahun · 收入 Pemasukan · 都 semua · 超过 melebihi · 亿 100 juta
+hsk4_07_19#2 | 王老师估计报名人数会超过 200。 | Wáng lǎoshī gūjì bàomíng rén shù huì chāoguò200. | 老师 guru · 估计 memperkirakan · 报名 mendaftar · 人 orang · 数 menghitung · 会 bisa · 超过 melebihi
+hsk4_07_20#1 | 你陪姐姐去公园散散步吧。 | Nǐ péi jiějie qù gōngyuán sàn sàn bù ba. | 你 kamu · 陪 Menemani · 姐姐 kakak perempuan · 去 pergi · 公园 Taman · 散步 jalan-jalan santai
+hsk4_07_20#2 | 他们准备陪老人去散步。 | Tā men zhǔnbèi péi lǎo rén qù sàn bù. | 他 dia · 准备 bersiap · 陪 Menemani · 老 Tua · 人 orang · 去 pergi · 散步 jalan-jalan santai
+hsk4_07_22#1 | 怀疑精神有积极作用。 | Huáiyí jīngshén yǒu jījí zuòyòng. | 怀疑 meragukan · 精神 semangat · 有 ada · 积极 positif · 作用 fungsi
+hsk4_07_23#1 | 张教授家的院子里有两棵苹果树。 | Zhāng jiàoshòu jiā de yuàn zi lǐ yǒu liǎng kē píngguǒ shù. | 张 Kata satuan · 教授 profesor · 家 rumah · 里 di dalam · 有 ada · 两 dua · 棵 kata penggolong untuk tanama · 苹果 apel
+hsk4_07_23#2 | 教授竟然把这次机会放弃了。 | Jiàoshòu jìngrán bǎ zhè cì jīhuì fàngqì le. | 教授 profesor · 竟然 ternyata · 把 Kata satuan untuk payung · 这 ini · 次 kali · 机会 Kesempatan · 放弃 menyerah
+hsk4_07_24#1 | 请按从小到大的顺序排列这些数字。 | Qǐng àn cóng xiǎo dào dà de shùnxù páiliè zhè xiē shùzì. | 请 silakan · 从 dari · 小 kecil · 到 sampai · 大 besar · 顺序 urutan · 排列 menyusun · 这 ini
+hsk4_07_24#2 | 后来才发现，原来广告上的电话号码写错了一个数字。 | Hòulái cái fāxiàn, yuánlái guǎnggào shàng de diàn huà hàomǎ xiě cuò le yī gè shùzì. | 后来 Kemudian · 发现 menemukan · 原来 Ternyata · 广告 iklan · 上 atas · 号码 nomor · 写 menulis · 错 salah
+hsk4_07_25#1 | 这个传真机的说明书写得很详细。 | Zhè gè chuánzhēn jī de shuōmíng shū xiě děi hěn xiángxì. | 这 ini · 个 kata satuan umum · 传真 mengirim melalui faks · 说明 menjelaskan · 书 buku · 写 menulis · 很 sangat · 详细 terperinci
+hsk4_07_25#2 | 学会多听，说明一个人真正成熟了。 | Xué huì duō tīng, shuōmíng yī gèrén zhēnzhèng chéngshú le. | 会 bisa · 多 banyak · 听 mendengarkan · 说明 menjelaskan · 一 satu · 个人 individu · 真正 benar-benar · 成熟 matang
+hsk4_07_27#1 | 我既没车也没房子，钱也很少。 | Wǒ jì méi chē yě méi fáng zi, qián yě hěn shǎo. | 我 saya · 既 baik... maupun · 没 tidak · 也 juga · 钱 uang · 很 sangat · 少 sedikit
+hsk4_07_28#1 | 减肥不只是为了瘦，更是为了健康。 | Jiǎn féi bù zhǐ shì wèile shòu, gèng shì wèile jiànkāng. | 减肥 menurunkan berat badan · 不 tidak · 只 Hanya · 是 adalah · 为了 Demi · 瘦 Kurus · 更 Lebih · 健康 Kesehatan
+hsk4_07_28#2 | 妻子减肥很成功。 | Qīzi jiǎn féi hěn chénggōng. | 妻子 istri · 减肥 menurunkan berat badan · 很 sangat · 成功 Berhasil
+hsk4_07_29#1 | ”她生下女儿的时候，他对她说：“辛苦了。 | Tā shēng xià nǚ'ér de shíhou, tā duì tā shuō: xīnkǔ le. | 她 dia · 下 bawah · 女儿 anak perempuan · 时候 waktu · 他 dia · 对 benar · 辛苦 kerja keras
+hsk4_07_30#1 | 他哥哥肚子不舒服。 | Tā gēge dùzi bù shūfu. | 他 dia · 哥哥 kakak laki-laki · 肚子 perut · 不 tidak · 舒服 Nyaman
+hsk4_07_30#2 | 你怎么了，肚子疼？ | Nǐ zěnme le, dùzi téng? | 你 kamu · 怎么了 ada apa/kenapa · 肚子 perut · 疼 sakit/terasa sakit; keseluruhan makna: Kamu kenapa, perutmu sakit?
+hsk4_07_31#1 | 人们可以通过音乐交流感情。 | Rén men kěyǐ tōngguò yīnyuè jiāoliú gǎnqíng. | 人 orang · 可以 bisa · 通过 melalui · 音乐 Musik · 交流 Bertukar pikiran · 感情 perasaan
+hsk4_07_31#2 | 他们的感情那么好，让周围的朋友们都很羡慕。 | Tā men de gǎnqíng nà me hǎo, ràng zhōuwéi de péngyou men dōu hěn xiànmù. | 他 dia · 感情 perasaan · 那 itu · 好 baik · 让 membiarkan · 周围 Disekitar · 朋友 teman · 都 semua
+hsk4_07_33#1 | 要忘掉不高兴的事情。 | Yào wàng diào bù gāoxìng de shìqing. | 要 mau · 掉 jatuh · 不 tidak · 高兴 senang · 事情 urusan
+hsk4_07_33#2 | 那棵树的叶子掉光了。 | Nà kē shù de yèzi diào guāng le. | 那 itu · 棵 kata penggolong untuk tanama · 树 Pohon · 叶子 daun · 掉 jatuh · 光 hanya
+hsk4_08_01#1 | 盒子里的巧克力被妹妹吃光了。 | Hézi lǐ de qiǎokèlì bèi mèimei chī guāng le. | 盒子 kotak · 里 di dalam · 巧克力 coklat · 被 Digunakan di kalimat pasif · 妹妹 adik perempuan · 吃 makan · 光 hanya
+hsk4_08_02#1 | 这个消息很快就被亲戚朋友们知道了。 | Zhè gè xiāoxi hěn kuài jiù bèi qīnqi péngyou men zhīdào le. | 这 ini · 个 kata satuan umum · 消息 Berita · 很 sangat · 快 cepat · 就 langsung · 被 Digunakan di kalimat pasif · 亲戚 kerabat
+hsk4_08_02#2 | 小时候，亲戚、邻居们都说我长得像我妈，特别是眼睛和鼻子。 | Xiǎoshí hòu, qīnqi, línjū men dōu shuō wǒ zhǎng děi xiàng wǒ mā, tèbié shì yǎnjing hé bízi. | 小时 jam · 亲戚 kerabat · 邻居 Tetangga · 都 semua · 我 saya · 长 Bertambah · 像 Seperti · 特别 istimewa
+hsk4_08_03#1 | 别伤心了，以后还有机会。 | Bié shāngxīn le, yǐ hòu hái yǒu jīhuì. | 别 jangan · 伤心 sedih · 以 dengan · 还 masih · 有 ada · 机会 Kesempatan
+hsk4_08_04#1 | 可以这么说， 读史使人聪明。 | Kěyǐ zhè me shuō, dú shǐ shǐ rén cōngming. | 可以 bisa · 这 ini · 读 membaca · 使 membuat · 人 orang · 聪明 Pintar
+hsk4_08_04#2 | 生活的压力并没有使他放弃理想。 | Shēnghuó de yālì bìng méiyǒu shǐ tā fàngqì lǐxiǎng. | 生活 Kehidupan · 压力 tekanan · 并 Dan · 没有 tidak ada · 使 membuat · 他 dia · 放弃 menyerah · 理想 cita-cita
+hsk4_08_05#1 | 吃甜的东西能让心情变好。 | Chī tián de dōngxi néng ràng xīnqíng biàn hǎo. | 吃 makan · 甜 Manis · 东西 benda · 能 bisa · 让 membiarkan · 心情 suasana hati · 好 baik
+hsk4_08_05#2 | 父母的关心，可以让孩子心情愉快起来。 | Fù mǔ de guānxīn, kěyǐ ràng háizi xīnqíng yúkuài qǐlai. | 关心 Peduli · 可以 bisa · 让 membiarkan · 孩子 anak · 心情 suasana hati · 愉快 senang · 起来 Bangun
+hsk4_08_06#1 | 她们俩聊得非常愉快。 | Tā men liǎ liáo děi fēicháng yúkuài. | 她 dia · 俩 Berdua · 非常 sangat · 愉快 senang
+hsk4_08_06#2 | 父母的关心，可以让孩子心情愉快起来。 | Fù mǔ de guānxīn, kěyǐ ràng háizi xīnqíng yúkuài qǐlai. | 关心 Peduli · 可以 bisa · 让 membiarkan · 孩子 anak · 心情 suasana hati · 愉快 senang · 起来 Bangun
+hsk4_08_07#1 | 记得那时候正好是春天，山上的草都刚刚变绿，景色非常美。 | Jìde nà shíhou zhènghǎo shì chūntiān, shān shàng de cǎo dōu gāng gāng biàn lǜ, jǐngsè fēicháng měi. | 记得 Mengingat · 那 itu · 时候 waktu · 正好 Pas · 是 adalah · 春天 Musim Semi · 上 atas · 草 Rumput
+hsk4_08_09#1 | 生活的压力并没有使他放弃理想。 | Shēnghuó de yālì bìng méiyǒu shǐ tā fàngqì lǐxiǎng. | 生活 Kehidupan · 压力 tekanan · 并 Dan · 没有 tidak ada · 使 membuat · 他 dia · 放弃 menyerah · 理想 cita-cita
+hsk4_08_09#2 | 儿子工作压力小。 | Érzi gōngzuò yālì xiǎo. | 儿子 anak laki-laki · 工作 bekerja · 压力 tekanan · 小 kecil
+hsk4_08_11#1 | 任何事情的发生都是有原因的。 | Rènhé shìqing de fāshēng dōu shì yǒu yuányīn de. | 任何 apapun · 事情 urusan · 发生 terjadi · 都 semua · 是 adalah · 有 ada · 原因 alasan
+hsk4_08_11#2 | 这个故事发生在上个世纪末。 | Zhè gè gùshi fāshēng zài shàng gè shìjì mò. | 这 ini · 个 kata satuan umum · 故事 Cerita · 发生 terjadi · 在 di · 上 atas · 世纪 abad
+hsk4_08_12#1 | 她从小就想成为一名演员。 | Tā cóng xiǎo jiù xiǎng chéngwéi yī míng yǎnyuán. | 她 dia · 从 dari · 小 kecil · 就 langsung · 想 ingin · 成为 menjadi · 一 satu · 演员 aktor
+hsk4_08_12#2 | 想成为一个什么样的人？ | Xiǎng chéngwéi yī gè shénme yàng de rén? | 想 ingin · 成为 menjadi · 一 satu · 个 kata satuan umum · 什么 apa · 人 orang
+hsk4_08_13#1 | 只要有心，生活中的美到处都是。 | Zhǐyào yǒu xīn, shēnghuó zhōng de měi dàochù dōu shì. | 只要 asalkan · 有 ada · 生活 Kehidupan · 到处 di mana-mana · 都 semua · 是 adalah
+hsk4_08_13#2 | 因为将来的路还很长，只要不放弃，完全有机会重新再来。 | Yīnwèi jiānglái de lù hái hěn zhǎng, zhǐyào bù fàngqì, wánquán yǒu jīhuì chóngxīn zài lái. | 因为 karena · 将来 masa depan · 路 jalan · 还 masih · 很 sangat · 长 Bertambah · 只要 asalkan · 不 tidak
+hsk4_08_14#1 | 张师傅对人很热情。 | Zhāng shīfu duì rén hěn rèqíng. | 张 Kata satuan · 师傅 master · 对 benar · 人 orang · 很 sangat · 热情 Ramah
+hsk4_08_14#2 | 李师傅平时总是穿一件白衬衫、一条黑裤子。 | Li shīfu píngshí zǒngshì chuān yī jiàn bái chènshān, yī tiáo hēi kùzi. | 师傅 master · 平时 Biasanya · 总是 Selalu · 穿 memakai · 一 satu · 件 kata satuan pakaian · 白 putih · 衬衫 Kemeja
+hsk4_08_15#1 | 友谊宾馆离大使馆远吗？ | Yǒuyì bīnguǎn lí dàshǐguǎn yuǎn ma? | 友谊 persahabatan · 宾馆 hotel · 离 berjarak dari · 大使馆 kedutaan besar · 远 jauh
+hsk4_08_16#1 | 上班堵车怕迟到，下班堵车怕回家晚。 | Shàngbān dǔ chē pà chídào, xià bān dǔ chē pà huí jiā wǎn. | 上班 bekerja · 堵车 macet · 迟到 Terlambat · 下 bawah · 班 Kelas · 回 kembali · 家 rumah
+hsk4_08_16#2 | 每天在马路上开车，要想不遇到堵车，还真难。 | Měi tiān zài mǎ lù shàng kāi chē, yào xiǎng bù yùdào dǔ chē, hái zhēn nán. | 每 setiap · 在 di · 马 Kuda · 路 jalan · 上 atas · 开 membuka · 要 mau · 想 ingin
+hsk4_08_17#1 | 手机拉近了人与人之间的距离。 | Shǒujī lā jìn le rén yǔ rén zhī jiān de jùlí. | 手机 telepon genggam · 拉 menarik · 近 dekat · 人 orang · 与 Dengan · 之 partikel penghubung atribut · 距离 jarak
+hsk4_08_17#2 | 这两个城市的距离是一万公里。 | Zhè liǎng gè chéngshì de jùlí shì yī wàn gōnglǐ. | 这 ini · 两 dua · 个 kata satuan umum · 城市 Kota · 距离 jarak · 是 adalah · 一 satu · 万 Sepuluh ribu
+hsk4_08_18#1 | 教狗学习需要耐心。 | Jiāo gǒu xuéxí xūyào nàixīn. | 教 Mengajar · 狗 anjing · 学习 belajar · 需要 Membutuhkan · 耐心 kesabaran
+hsk4_08_18#2 | 对朋友要有耐心。 | Duì péngyou yào yǒu nàixīn. | 对 benar · 朋友 teman · 要 mau · 有 ada · 耐心 kesabaran
+hsk4_08_19#1 | 爱情并不是生命的全部。 | Àiqíng bìng bù shì shēngmìng de quánbù. | 爱情 Cinta · 并 Dan · 不 tidak · 是 adalah · 生命 nyawa · 全部 semua
+hsk4_08_19#2 | 爱情不是生命的全部。 | Àiqíng bù shì shēngmìng de quánbù. | 爱情 Cinta · 不 tidak · 是 adalah · 生命 nyawa · 全部 semua
+hsk4_08_20#1 | 所以生活中不缺少美，缺少发现美的眼睛。 | Suǒyǐ shēnghuó zhōng bù quēshǎo měi, quēshǎo fāxiàn měi de yǎnjing. | 所以 oleh karena itu · 生活 Kehidupan · 不 tidak · 缺少 kekurangan · 发现 menemukan · 眼睛 mata
+hsk4_08_20#2 | “生活中不缺少美，缺少的是发现美的眼睛。 | Shēnghuó zhōng bù quēshǎo měi, quēshǎo de shì fāxiàn měi de yǎnjing. | 生活 Kehidupan · 不 tidak · 缺少 kekurangan · 是 adalah · 发现 menemukan · 眼睛 mata
+hsk4_08_21#1 | 只要有心，生活中的美到处都是。 | Zhǐyào yǒu xīn, shēnghuó zhōng de měi dàochù dōu shì. | 只要 asalkan · 有 ada · 生活 Kehidupan · 到处 di mana-mana · 都 semua · 是 adalah
+hsk4_08_21#2 | 很多人都羡慕导游，觉得他们能到处玩儿。 | Hěn duō rén dōu xiànmù dǎoyóu, juéde tā men néng dàochù wán ér. | 很 sangat · 多 banyak · 人 orang · 都 semua · 羡慕 Iri · 导游 pemandu wisata · 觉得 merasa · 他 dia
+hsk4_08_22#1 | 决定成功的除了能力，还有态度。 | Juédìng chénggōng de chúle nénglì, hái yǒu tàidù. | 决定 Memutuskan · 成功 Berhasil · 除了 Selain · 能力 kemampuan · 还 masih · 有 ada · 态度 sikap
+hsk4_08_22#2 | 他对我的态度非常友好。 | Tā duì wǒ de tàidù fēicháng yǒuhǎo. | 他 dia · 对 benar · 我 saya · 态度 sikap · 非常 sangat · 友好 ramah
+hsk4_08_23#1 | 小时候，他经常生病，因此每天都去跑步锻炼身体。 | Xiǎoshí hòu, tā jīngcháng shēngbìng, yīncǐ měi tiān dōu qù pǎobù duànliàn shēntǐ. | 小时 jam · 他 dia · 经常 Sering · 生病 jatuh sakit · 因此 oleh karena itu · 每 setiap · 都 semua · 去 pergi
+hsk4_08_23#2 | 中国南北距离约 5500 公里，因此南北气候有很大区别。 | Zhōngguó nán běi jùlí yuē5500 gōnglǐ, yīncǐ nán běi qìhòu yǒu hěn dà qūbié. | 中国 Tiongkok · 距离 jarak · 公里 kilometer · 因此 oleh karena itu · 气候 iklim · 有 ada · 很 sangat · 大 besar
+hsk4_08_24#1 | 有些事情是科学无法解释的。 | Yǒu xiē shìqing shì kēxué wúfǎ jiěshì de. | 有 ada · 些 beberapa · 事情 urusan · 是 adalah · 科学 ilmu pengetahuan · 无法 tidak dapat · 解释 menjelaskan
+hsk4_08_24#2 | 少吃不代表不吃，而是要科学地吃。 | Shǎo chī bù dàibiǎo bù chī, ér shì yào kēxué de chī. | 少 sedikit · 吃 makan · 不 tidak · 代表 mewakili · 而 tetapi · 是 adalah · 要 mau · 科学 ilmu pengetahuan
+hsk4_08_25#1 | 你能举个例子证明吗？ | Nǐ néng jǔ gè lì zi zhèngmíng ma? | 你 kamu · 能 bisa · 举 memberi · 个 kata satuan umum · 证明 membuktikan
+hsk4_08_25#2 | 他被证明说了假话。 | Tā bèi zhèngmíng shuō le jiǎ huà. | 他 dia · 被 Digunakan di kalimat pasif · 证明 membuktikan · 假 palsu
+hsk4_08_26#1 | 第一印象往往很难改变。 | Dìyī yìnxiàng wǎngwǎng hěn nán gǎibiàn. | 第一 pertama · 印象 Kesan · 往往 seringkali · 很 sangat · 难 Sulit · 改变 Mengubah

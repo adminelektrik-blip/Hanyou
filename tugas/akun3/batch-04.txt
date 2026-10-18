@@ -1,0 +1,89 @@
+hsk4_10_25#2 | 由于没好好复习，今天考得不怎么样。 | Yóuyú méi hǎo hǎo fùxí, jīntiān kǎo děi bù zěnmeyàng. | 由于 karena · 没 tidak · 好 baik · 复习 Review atau mengulang pelaja · 今天 hari ini · 不 tidak · 怎么样 bagaimana
+hsk4_10_29#1 | ”交警回答他：“不，你是飞得太低了！ | Jiāo jǐng huídá tā: bù, nǐ shì fēi děi tài dī le! | 交 Berteman · 回答 Menjawab · 他 dia · 不 tidak · 你 kamu · 是 adalah · 太 terlalu · 低 rendah
+hsk4_10_29#2 | 室内温度比较低。 | Shì nèi wēndù bǐjiào dī. | 内 dalam · 温度 suhu · 比较 Membandingkan · 低 rendah
+hsk4_10_30#1 | 你最好别告诉他答案。 | Nǐ zuì hǎo bié gàosu tā dá'àn. | 你 kamu · 最好 Paling baik · 别 jangan · 告诉 memberi tahu · 他 dia · 答案 jawaban
+hsk4_10_30#2 | 这道题的答案在这儿。 | Zhè dào tí de dá'àn zài zhè ér. | 这 ini · 题 soal · 答案 jawaban · 在 di
+hsk4_11_01#1 | 你们校长的中文说得很流利。 | Nǐ men xiàozhǎng de zhōngwén shuō děi hěn liúlì. | 你 kamu · 校长 Kepala sekolah · 中文 Bahasa Mandarin · 很 sangat · 流利 lancar
+hsk4_11_01#2 | 他的中文说得很流利。 | Tā de zhōngwén shuō děi hěn liúlì. | 他 dia · 中文 Bahasa Mandarin · 很 sangat · 流利 lancar
+hsk4_11_02#1 | 全都答对了，你真厉害！ | Quán dōu dá duì le, nǐ zhēn lìhai! | 都 semua · 对 benar · 你 kamu · 真 sungguh · 厉害 hebat
+hsk4_11_02#2 | 他咳嗽得越来越厉害。 | Tā késou děi yuè lái yuè lìhai. | 他 dia · 咳嗽 batuk · 越 Semakin · 来 datang · 厉害 hebat
+hsk4_11_03#1 | 数量词是汉语语法的一部分。 | Shùliàng cí shì hànyǔ yǔfǎ de yī bùfen. | 数量 jumlah · 是 adalah · 汉语 Bahasa Mandarin · 语法 tata bahasa · 一 satu · 部分 bagian
+hsk4_11_03#2 | 这个句子没有语法错误。 | Zhè gè jùzi méiyǒu yǔfǎ cuòwù. | 这 ini · 个 kata satuan umum · 句子 Kalimat · 没有 tidak ada · 语法 tata bahasa · 错误 salah
+hsk4_11_04#1 | 万先生的判断力一直很准确。 | Wàn xiānsheng de pànduàn lì yìzhí hěn zhǔnquè. | 万 Sepuluh ribu · 先生 tuan · 判断 Memutuskan · 一直 Terus menerus atau Selalu · 很 sangat · 准确 akurat
+hsk4_11_04#2 | 它不仅要求高速度，还要求准确的方向。 | Tā bùjǐn yāoqiú gāo sùdù, hái yāoqiú zhǔnquè de fāngxiàng. | 它 dia · 不仅 Tidak hanya · 要求 Persyaratan · 高 tinggi · 速度 kecepatan · 还 masih · 准确 akurat · 方向 arah
+hsk4_11_05#1 | 这两个词语的用法有什么区别？ | Zhè liǎng gè cíyǔ de yòng fǎ yǒu shénme qūbié? | 这 ini · 两 dua · 个 kata satuan umum · 词语 kata · 用 Membutuhkan · 有 ada · 什么 apa · 区别 perbedaan
+hsk4_11_05#2 | 当你遇到不会读的字或者不知道意思的词语时，它可以帮助你。 | Dāng nǐ yùdào bù huì dú de zì huòzhě bù zhīdào yìsi de cíyǔ shí, tā kěyǐ bāngzhù nǐ. | 当 pada saat · 你 kamu · 遇到 Bertemu · 不 tidak · 会 bisa · 读 membaca · 字 huruf · 或者 Atau
+hsk4_11_06#1 | 难道你连这个规定都不知道？ | Nándào nǐ lián zhè gè guīdìng dōu bù zhīdào? | 难道 masa sih · 你 kamu · 连 bahkan · 这 ini · 个 kata satuan umum · 规定 aturan · 都 semua · 不 tidak
+hsk4_11_07#1 | 经常阅读报纸能提高语言表达能力。 | Jīngcháng yuèdú bàozhǐ néng tígāo yǔyán biǎodá nénglì. | 经常 Sering · 阅读 membaca · 报纸 koran · 能 bisa · 提高 Meningkatkan · 语言 bahasa · 表达 menyatakan · 能力 kemampuan
+hsk4_11_07#2 | 阅读能力好的人不但容易找到工作，而且工资也比较高。 | Yuèdú nénglì hǎo de rén bù dàn róngyì zhǎo dào gōngzuò, ér qiě gōngzī yě bǐjiào gāo. | 阅读 membaca · 能力 kemampuan · 好 baik · 人 orang · 不 tidak · 容易 Mudah · 找 mencari · 到 sampai
+hsk4_11_08#1 | 你现在出发还来得及吗？ | Nǐ xiànzài chūfā hái láidejí ma? | 你 kamu · 现在 sekarang · 出发 berangkat · 还 masih · 来得及 masih sempat
+hsk4_11_08#2 | 今天报名还来得及。 | Jīntiān bàomíng hái láidejí. | 今天 hari ini · 报名 mendaftar · 还 masih · 来得及 masih sempat
+hsk4_11_11#1 | 我还剩几个填空题没做完。 | Wǒ hái shèng jǐ gè tiánkòng tí méi zuò wán. | 我 saya · 还 masih · 剩 tersisa · 几 berapa · 个 kata satuan umum · 填空 mengisi bagian kosong · 题 soal · 没 tidak
+hsk4_11_12#1 | 猜猜我奶奶给了我什么生日礼物？ | Cāi cāi wǒ nǎinai gěi le wǒ shénme shēngrì lǐwù? | 猜 menebak · 我 saya · 奶奶 Nenek · 给 memberi · 什么 apa · 生日 ulang tahun · 礼物 Hadiah
+hsk4_11_12#2 | 你猜我给你带什么了。 | Nǐ cāi wǒ gěi nǐ dài shénme le. | 你 kamu · 猜 menebak · 我 saya · 给 memberi · 带 membawa · 什么 apa
+hsk4_11_13#1 | 要想减肥成功，一定要坚持，不能怕累，否则很难有效果。 | Yào xiǎng jiǎn féi chénggōng, yídìng yào jiānchí, bù néng pà lèi, fǒuzé hěn nán yǒu xiàoguǒ. | 要 mau · 想 ingin · 减肥 menurunkan berat badan · 成功 Berhasil · 一定 pasti · 坚持 bertahan · 不 tidak · 能 bisa
+hsk4_11_14#1 | 我们把沙发抬到客厅去吧。 | Wǒmen bǎ shāfā tái dào kètīng qù ba. | 我们 kami · 把 Kata satuan untuk payung · 沙发 sofa · 抬 mengangkat · 到 sampai · 客厅 ruang tamu · 去 pergi
+hsk4_11_14#2 | 能帮我把沙发抬到客厅吗？ | Néng bāng wǒ bǎ shāfā tái dào kètīng ma? | 能 bisa · 我 saya · 把 Kata satuan untuk payung · 沙发 sofa · 抬 mengangkat · 到 sampai · 客厅 ruang tamu
+hsk4_11_15#1 | 无论成功还是失败，都只是暂时的。 | Wúlùn chénggōng háishi shībài, dōu zhǐ shì zànshí de. | 无论 tidak peduli · 成功 Berhasil · 还是 Atau · 失败 gagal · 都 semua · 只 Hanya · 是 adalah · 暂时 sementara
+hsk4_11_15#2 | 如果方向不对，无论做多少努力可能都是白费。 | Rúguǒ fāngxiàng bù duì, wúlùn zuò duōshao nǔlì kěnéng dōu shì bái fèi. | 如果 jika · 方向 arah · 不 tidak · 对 benar · 无论 tidak peduli · 做 membuat · 多少 berapa · 努力 Berusaha Keras
+hsk4_11_16#1 | 你把那些旧杂志整理一下。 | Nǐ bǎ nà xiē jiù zázhì zhěnglǐ yī xià. | 你 kamu · 把 Kata satuan untuk payung · 那 itu · 些 beberapa · 旧 Lama · 杂志 majalah · 整理 merapikan · 一 satu
+hsk4_11_16#2 | 他坐在沙发上看杂志。 | Tā zuò zài shāfā shàng kàn zázhì. | 他 dia · 坐 duduk · 在 di · 沙发 sofa · 上 atas · 看 melihat · 杂志 majalah
+hsk4_11_17#1 | 那位著名的演员深受观众的喜爱。 | Nà wèi zhùmíng de yǎnyuán shēn shòu guānzhòng de xǐ ài. | 那 itu · 位 Kata satuan · 著名 terkenal · 演员 aktor · 深 Dalam · 观众 penonton · 爱 cinta
+hsk4_11_17#2 | 她丈夫是著名的京剧演员。 | Tā zhàngfu shì zhùmíng de jīngjù yǎnyuán. | 她 dia · 丈夫 suami · 是 adalah · 著名 terkenal · 京剧 opera Beijing · 演员 aktor
+hsk4_11_19#1 | 这个城市决定增加出租车的数量。 | Zhè gè chéngshì juédìng zēngjiā chūzūchē de shùliàng. | 这 ini · 个 kata satuan umum · 城市 Kota · 决定 Memutuskan · 增加 menambah · 出租车 taksi · 数量 jumlah
+hsk4_11_19#2 | 今年公司的收入比去年增加了一倍。 | Jīn nián gōngsī de shōurù bǐ qùnián zēngjiā le yī bèi. | 年 tahun · 公司 perusahaan · 收入 Pemasukan · 比 dibandingkan · 去年 tahun lalu · 增加 menambah · 一 satu · 倍 kali lipat
+hsk4_11_20#1 | 这篇文章主要谈儿童教育问题。 | Zhè piān wénzhāng zhǔyào tán értóng jiàoyù wèntí. | 这 ini · 篇 satuan untuk tulisan · 文章 artikel · 主要 Utama · 谈 Berbicara · 儿童 anak-anak · 教育 mendidik · 问题 pertanyaan
+hsk4_11_20#2 | 那篇文章引起了很多人的注意。 | Nà piān wénzhāng yǐnqǐ le hěn duō rén de zhùyì. | 那 itu · 篇 satuan untuk tulisan · 文章 artikel · 引起 menyebabkan · 很 sangat · 多 banyak · 人 orang · 注意 Perhatian
+hsk4_11_21#1 | 手机拉近了人与人之间的距离。 | Shǒujī lā jìn le rén yǔ rén zhī jiān de jùlí. | 手机 telepon genggam · 拉 menarik · 近 dekat · 人 orang · 与 Dengan · 之 partikel penghubung atribut · 距离 jarak
+hsk4_11_21#2 | 三分之一的报名者会收到邀请信。 | Sān fēn zhī yī de bàomíng zhě huì shōu dào yāoqǐng xìn. | 三 tiga · 分 Membedakan · 之 partikel penghubung atribut · 一 satu · 报名 mendaftar · 会 bisa · 收 menerima · 到 sampai
+hsk4_11_22#1 | 记得带笔记本去，把重要的内容记下来。 | Jìde dài bǐ jì běn qù, bǎ zhòngyào de nèiróng jì xià lái. | 记得 Mengingat · 带 membawa · 本 · 去 pergi · 把 Kata satuan untuk payung · 重要 Penting · 内容 isi · 下 bawah
+hsk4_11_23#1 | 然而不知为什么，一直没有人给我打电话。 | Rán'ér bù zhī wèi shénme, yìzhí méiyǒu rén gěi wǒ dǎ diànhuà. | 然而 namun · 不 tidak · 为 Untuk · 什么 apa · 一直 Terus menerus atau Selalu · 没有 tidak ada · 人 orang · 给 memberi
+hsk4_11_23#2 | 女人生完小孩以后，一般都会变胖，然而我姐却没变。 | Nǚrén shēng wán xiǎo hái yǐ hòu, yìbān dōu huì biàn pàng, rán'ér wǒ jiě què méi biàn. | 女人 wanita · 完 selesai · 小 kecil · 以 dengan · 一般 Biasanya · 都 semua · 会 bisa · 胖 Gemuk
+hsk4_11_24#1 | 大家都谈了自己的意见和看法。 | Dàjiā dōu tán le zìjǐ de yìjiàn hé kànfǎ. | 大家 semua orang · 都 semua · 谈 Berbicara · 自己 Diri Sendiri · 意见 pendapat · 和 dan · 看法 pendapat
+hsk4_11_24#2 | 对于这件事，您有什么看法？ | Duìyú zhè jiàn shì, nín yǒu shénme kànfǎ? | 对于 terhadap · 这 ini · 件 kata satuan pakaian · 您 Anda · 有 ada · 什么 apa · 看法 pendapat
+hsk4_11_25#1 | 男人和女人在很多方面是不相同的。 | Nánrén hé nǚrén zài hěn duō fāngmiàn shì bù xiāngtóng de. | 男人 pria · 和 dan · 女人 wanita · 在 di · 很 sangat · 多 banyak · 方面 aspek · 是 adalah
+hsk4_11_25#2 | 人们的性格各不相同。 | Rén men de xìnggé gè bù xiāngtóng. | 人 orang · 性格 Kepribadian · 各 berbagai · 不 tidak · 相同 sama
+hsk4_11_26#1 | 请同学们按照顺序排好队。 | Qǐng tóngxué men ànzhào shùnxù pái hǎo duì. | 请 silakan · 同学 teman sekelas · 按照 Menurut · 顺序 urutan · 好 baik
+hsk4_11_26#2 | 请按从小到大的顺序排列这些数字。 | Qǐng àn cóng xiǎo dào dà de shùnxù páiliè zhè xiē shùzì. | 请 silakan · 从 dari · 小 kecil · 到 sampai · 大 besar · 顺序 urutan · 排列 menyusun · 这 ini
+hsk4_11_27#1 | 李先生是来表示祝贺的。 | Li xiānsheng shì lái biǎoshì zhùhè de. | 先生 tuan · 是 adalah · 来 datang · 表示 menyatakan · 祝贺 mengucapkan selamat
+hsk4_11_27#2 | 地图上蓝色表示海洋。 | Dìtú shàng lán sè biǎoshì hǎiyáng. | 地图 Peta · 上 atas · 蓝 Biru · 表示 menyatakan · 海洋 laut
+hsk4_11_28#1 | 应该养成每天刷牙的好习惯。 | Yīnggāi yǎngchéng měi tiān shuāyá de hǎo xíguàn. | 应该 Seharusnya · 养成 membentuk · 每 setiap · 刷牙 Sikat Gigi · 好 baik · 习惯 Kebiasaan
+hsk4_11_28#2 | 要养成节约用水的好习惯。 | Yào yǎngchéng jiéyuē yòng shuǐ de hǎo xíguàn. | 要 mau · 养成 membentuk · 节约 menghemat · 用 Membutuhkan · 水 air · 好 baik · 习惯 Kebiasaan
+hsk4_11_30#1 | 读书会让你的知识更丰富，生活更精彩。 | Dú shū huì ràng nǐ de zhīshi gèng fēngfù, shēnghuó gèng jīngcǎi. | 读 membaca · 书 buku · 会 bisa · 让 membiarkan · 你 kamu · 知识 Pengetahuan · 更 Lebih · 丰富 kaya
+hsk4_11_30#2 | 只有懂得放弃和学会选择的人，才能赢得精彩的生活。 | Zhǐ yǒu dǒng děi fàngqì hé xué huì xuǎnzé de rén, cái néng yíng děi jīngcǎi de shēnghuó. | 只 Hanya · 有 ada · 懂 mengerti · 放弃 menyerah · 和 dan · 会 bisa · 选择 Memilih · 人 orang
+hsk4_12_01#1 | 这么做完全符合国家的法律规定。 | Zhè me zuò wánquán fú hé guójiā de fǎ lǜ guīdìng. | 这 ini · 做 membuat · 完全 Sepenuhnya · 符合 sesuai dengan · 国家 Negara · 法律 Hukum · 规定 aturan
+hsk4_12_01#2 | 难道你连这个规定都不知道？ | Nándào nǐ lián zhè gè guīdìng dōu bù zhīdào? | 难道 masa sih · 你 kamu · 连 bahkan · 这 ini · 个 kata satuan umum · 规定 aturan · 都 semua · 不 tidak
+hsk4_12_02#1 | 我真是羡慕死她了。 | Wǒ zhēn shì xiànmù sǐ tā le. | 我 saya · 真 sungguh · 是 adalah · 羡慕 Iri · 死 keras · 她 dia
+hsk4_12_02#2 | 第二，不能读死书。 | Dì èr, bù néng dú sǐ shū. | 二 dua · 不 tidak · 能 bisa · 读 membaca · 死 keras · 书 buku
+hsk4_12_03#1 | 可惜的是，人们往往对这一点重视不够。 | Kěxī de shì, rén men wǎngwǎng duì zhè yī diǎn zhòngshì bù gòu. | 可惜 sayang · 是 adalah · 人 orang · 往往 seringkali · 对 benar · 这 ini · 一 satu · 点 jam
+hsk4_12_04#1 | 爱情并不是生命的全部。 | Àiqíng bìng bù shì shēngmìng de quánbù. | 爱情 Cinta · 并 Dan · 不 tidak · 是 adalah · 生命 nyawa · 全部 semua
+hsk4_12_04#2 | 爱情不是生命的全部。 | Àiqíng bù shì shēngmìng de quánbù. | 爱情 Cinta · 不 tidak · 是 adalah · 生命 nyawa · 全部 semua
+hsk4_12_05#1 | 这次电影艺术节也许会在北京举行。 | Zhè cì diànyǐng yìshù jié yěxǔ huì zài běijīng jǔxíng. | 这 ini · 次 kali · 电影 film · 艺术 seni · 节 bagian · 也许 mungkin · 会 bisa · 在 di
+hsk4_12_05#2 | 目的地也许只有一个，但是通往目的地的道路却有很多条。 | Mùdì de yěxǔ zhǐ yǒu yī gè, dànshì tōng wǎng mùdì de de dào lù què yǒu hěn duō tiáo. | 目的 tujuan · 也许 mungkin · 只 Hanya · 有 ada · 一 satu · 个 kata satuan umum · 但是 tetapi · 路 jalan
+hsk4_12_06#1 | 你们商量出解决问题的方法了吗？ | Nǐ men shāngliang chū jiějué wèntí de fāngfǎ le ma? | 你 kamu · 商量 mendiskusikan · 出 keluar · 解决 menyelesaikan · 问题 pertanyaan · 方法 Cara
+hsk4_12_06#2 | 他们还没商量出结果。 | Tā men hái méi shāngliang chū jiéguǒ. | 他 dia · 还 masih · 没 tidak · 商量 mendiskusikan · 出 keluar · 结果 hasil
+hsk4_12_07#1 | 森林里有一种植物，它开的花比普通的花大很多，并且特别香。 | Sēnlín lǐ yǒu yī zhǒng zhíwù, tā kāi de huā bǐ pǔtōng de huā dà hěn duō, bìngqiě tèbié xiāng. | 森林 hutan · 里 di dalam · 有 ada · 一 satu · 种 Tipe · 植物 tanaman · 它 dia · 开 membuka
+hsk4_12_08#1 | 盐放多了，汤有点儿咸。 | Yán fàng duō le, tāng yǒu diǎn ér xián. | 盐 garam · 放 Meletakkan · 多 banyak · 汤 sup · 有 ada · 点 jam · 咸 asin
+hsk4_12_10#1 | 保护环境是我们每个人的责任。 | Bǎohù huánjìng shì wǒmen měi gèrén de zérèn. | 保护 melindungi · 环境 Lingkungan · 是 adalah · 我们 kami · 每 setiap · 个人 individu · 责任 tanggung jawab
+hsk4_12_10#2 | 保护环境需要大家的共同努力。 | Bǎohù huánjìng xūyào dàjiā de gòngtóng nǔlì. | 保护 melindungi · 环境 Lingkungan · 需要 Membutuhkan · 大家 semua orang · 共同 Bersama-sama · 努力 Berusaha Keras
+hsk4_12_11#1 | 森林对环境有很好的保护作用。 | Sēnlín duì huánjìng yǒu hěn hǎo de bǎohù zuòyòng. | 森林 hutan · 对 benar · 环境 Lingkungan · 有 ada · 很 sangat · 好 baik · 保护 melindungi · 作用 fungsi
+hsk4_12_11#2 | 森林有改变小范围气候的作用。 | Sēnlín yǒu gǎibiàn xiǎo fànwéi qìhòu de zuòyòng. | 森林 hutan · 有 ada · 改变 Mengubah · 小 kecil · 范围 rentang · 气候 iklim · 作用 fungsi
+hsk4_12_12#1 | 有些事情是科学无法解释的。 | Yǒu xiē shìqing shì kēxué wúfǎ jiěshì de. | 有 ada · 些 beberapa · 事情 urusan · 是 adalah · 科学 ilmu pengetahuan · 无法 tidak dapat · 解释 menjelaskan
+hsk4_12_12#2 | 有的人害怕失败，无法接受失败。 | Yǒu de rén hàipà shībài, wúfǎ jiēshòu shībài. | 有 ada · 人 orang · 害怕 Takut · 失败 gagal · 无法 tidak dapat · 接受 Menerima
+hsk4_12_13#1 | 广告越来越多，几乎无处不在。 | Guǎnggào yuè lái yuè duō, jīhū wú chù bù zài. | 广告 iklan · 越 Semakin · 来 datang · 多 banyak · 几乎 Hampir · 无 tidak memiliki · 不 tidak · 在 di
+hsk4_12_14#1 | 春节刚过，就有冷空气南下。 | Chūn jié gāng guò, jiù yǒu lěng kōngqì nán xià. | 节 bagian · 刚 Baru Saja · 过 Melewati · 就 langsung · 有 ada · 冷 dingin · 空气 udara · 下 bawah
+hsk4_12_14#2 | 春节是中国人最重要的节日。 | Chūn jié shì zhōngguó rén zuì zhòngyào de jiérì. | 节 bagian · 是 adalah · 中国 Tiongkok · 人 orang · 最 paling · 重要 Penting · 节日 Hari raya
+hsk4_12_15#1 | 儿子的复习笔记整理得很详细。 | Érzi de fùxí bǐ jì zhěnglǐ děi hěn xiángxì. | 儿子 anak laki-laki · 复习 Review atau mengulang pelaja · 整理 merapikan · 很 sangat · 详细 terperinci
+hsk4_12_15#2 | 这个传真机的说明书写得很详细。 | Zhè gè chuánzhēn jī de shuōmíng shū xiě děi hěn xiángxì. | 这 ini · 个 kata satuan umum · 传真 mengirim melalui faks · 说明 menjelaskan · 书 buku · 写 menulis · 很 sangat · 详细 terperinci
+hsk4_12_16#1 | 有些事情是科学无法解释的。 | Yǒu xiē shìqing shì kēxué wúfǎ jiěshì de. | 有 ada · 些 beberapa · 事情 urusan · 是 adalah · 科学 ilmu pengetahuan · 无法 tidak dapat · 解释 menjelaskan
+hsk4_12_16#2 | 小夏把误会解释清楚了。 | Xiǎo xià bǎ wùhuì jiěshì qīngchu le. | 小 kecil · 把 Kata satuan untuk payung · 误会 kesalahpahaman · 解释 menjelaskan · 清楚 jelas
+hsk4_12_17#1 | 对于这件事，您有什么看法？ | Duìyú zhè jiàn shì, nín yǒu shénme kànfǎ? | 对于 terhadap · 这 ini · 件 kata satuan pakaian · 您 Anda · 有 ada · 什么 apa · 看法 pendapat
+hsk4_12_18#1 | 那棵树的叶子掉光了。 | Nà kē shù de yèzi diào guāng le. | 那 itu · 棵 kata penggolong untuk tanama · 树 Pohon · 叶子 daun · 掉 jatuh · 光 hanya
+hsk4_12_19#1 | 这篇文章主要谈儿童教育问题。 | Zhè piān wénzhāng zhǔyào tán értóng jiàoyù wèntí. | 这 ini · 篇 satuan untuk tulisan · 文章 artikel · 主要 Utama · 谈 Berbicara · 儿童 anak-anak · 教育 mendidik · 问题 pertanyaan
+hsk4_12_19#2 | 教育孩子要使用正确的方法。 | Jiàoyù háizi yào shǐyòng zhèngquè de fāngfǎ. | 教育 mendidik · 孩子 anak · 要 mau · 使用 menggunakan · 正确 benar · 方法 Cara
+hsk4_12_20#1 | 教育孩子要使用正确的方法。 | Jiàoyù háizi yào shǐyòng zhèngquè de fāngfǎ. | 教育 mendidik · 孩子 anak · 要 mau · 使用 menggunakan · 正确 benar · 方法 Cara
+hsk4_12_20#2 | 电梯已经可以正常使用了。 | Diàntī yǐjīng kěyǐ zhèngcháng shǐyòng le. | 电梯 Lift · 已经 sudah · 可以 bisa · 正常 normal · 使用 menggunakan
+hsk4_12_21#1 | 经常阅读报纸能提高语言表达能力。 | Jīngcháng yuèdú bàozhǐ néng tígāo yǔyán biǎodá nénglì. | 经常 Sering · 阅读 membaca · 报纸 koran · 能 bisa · 提高 Meningkatkan · 语言 bahasa · 表达 menyatakan · 能力 kemampuan
+hsk4_12_21#2 | 他们俩有许多共同语言。 | Tā men liǎ yǒu xǔduō gòngtóng yǔyán. | 他 dia · 俩 Berdua · 有 ada · 许多 banyak · 共同 Bersama-sama · 语言 bahasa
+hsk4_12_22#1 | 不要直接拒绝邀请。 | Bù yào zhíjiē jùjué yāoqǐng. | 不 tidak · 要 mau · 直接 langsung · 拒绝 menolak · 邀请 mengundang
+hsk4_12_23#1 | 那篇文章引起了很多人的注意。 | Nà piān wénzhāng yǐnqǐ le hěn duō rén de zhùyì. | 那 itu · 篇 satuan untuk tulisan · 文章 artikel · 引起 menyebabkan · 很 sangat · 多 banyak · 人 orang · 注意 Perhatian

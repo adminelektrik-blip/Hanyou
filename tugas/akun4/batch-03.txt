@@ -1,0 +1,90 @@
+hsk4_17_02#1 | 夏天的晚上，这条街道尤其热闹。 | Xiàtiān de wǎnshang, zhè tiáo jiēdào yóuqí rènao. | 夏天 Musim Panas · 晚上 malam · 这 ini · 条 Kata satuan untuk celana · 街道 Jalan · 尤其 terutama · 热闹 ramai
+hsk4_17_02#2 | 其实，老人喜欢热闹，害怕孤单，他们需要别人的重视和关心。 |  | 其实 Sebenernya · 老 Tua · 人 orang · 喜欢 suka · 热闹 ramai · 害怕 Takut · 他 dia · 需要 Membutuhkan
+hsk4_17_03#1 | 他对小云没什么印象。 | Tā duì xiǎo yún méi shénme yìnxiàng. | 他 dia · 对 benar · 小 kecil · 云 awan · 没 tidak · 什么 apa · 印象 Kesan
+hsk4_17_03#2 | 他暑假想去云南旅游。 | Tā shǔ jiǎ xiǎng qù yún nán lǚyóu. | 他 dia · 假 palsu · 想 ingin · 去 pergi · 云 awan · 旅游 bepergian
+hsk4_17_05#1 | 正好明天去海洋馆，我来给你们照相吧。 | Zhènghǎo míngtiān qù hǎiyáng guǎn, wǒ lái gěi nǐ men zhào xiāng ba. | 正好 Pas · 明天 besok · 去 pergi · 海洋 laut · 我 saya · 来 datang · 给 memberi · 你 kamu
+hsk4_17_08#1 | 你怎么抱这么多书？ | Nǐ zěnme bào zhè me duō shū? | 你 kamu · 怎么 kok/bagaimana bisa · 抱 membawa dalam pelukan/mendekap · 这么多 sebanyak ini/begitu banyak · 书 buku; keseluruhan makna: Kok kamu membawa begitu banyak buku?
+hsk4_17_08#2 | 她抱着一只小狗。 | Tā bào zhe yī zhǐ xiǎo gǒu. | 她 dia · 抱着 sedang menggendong/mendekap · 一只 kata penggolong untuk hewan · 小狗 anak anjing; keseluruhan makna: Dia sedang menggendong seekor anak anjing.
+hsk4_17_09#1 | 来，咱们一起干一杯。 | Lái, zánmen yìqǐ gān yī bēi. | 来 datang · 咱们 Kami · 一起 bersama · 干 melakukan · 一 satu
+hsk4_17_10#1 | 张教授对学生要求很严格。 | Zhāng jiàoshòu duì xuésheng yāoqiú hěn yángé. | 张 Kata satuan · 教授 profesor · 对 benar · 学生 murid · 要求 Persyaratan · 很 sangat · 严格 ketat
+hsk4_17_10#2 | 这个标准太严格了吧？ | Zhè gè biāozhǔn tài yángé le ba? | 这 ini · 个 kata satuan umum · 标准 standar · 太 terlalu · 严格 ketat
+hsk4_17_11#1 | 听到这个消息，她很难受。 | Tīng dào zhè gè xiāoxi, tā hěn nánshòu. | 听 mendengarkan · 到 sampai · 这 ini · 个 kata satuan umum · 消息 Berita · 她 dia · 很 sangat · 难受 tidak enak badan
+hsk4_17_12#1 | 回来的路上我顺便去了趟邮局。 | Huí lái de lù shàng wǒ shùnbiàn qù le tàng yóujú. | 回 kembali · 来 datang · 路 jalan · 上 atas · 我 saya · 顺便 sekalian · 去 pergi · 趟 kali perjalanan
+hsk4_17_14#1 | 我向大家介绍一下，我们前面看到的就是“老虎山”。 | Wǒ xiàng dàjiā jièshào yī xià, wǒmen qiánmiàn kàn dào de jiù shì lǎohǔ shān. | 我 saya · 向 Terhadap · 大家 semua orang · 介绍 memperkenalkan · 一 satu · 下 bawah · 我们 kami · 前面 depan
+hsk4_17_15#1 | 在入口处换礼物。 | Zài rùkǒu chù huàn lǐwù. | 在 di · 入口 pintu masuk · 换 Menukar · 礼物 Hadiah
+hsk4_17_16#1 | 他正在排队买票。 | Tā zhèngzài páiduì mǎi piào. | 他 dia · 正在 sedang · 排队 mengantre · 买 membeli · 票 tiket
+hsk4_17_17#1 | 这个小女孩儿很活泼。 | Zhè gè xiǎo nǚ hái ér hěn huópō. | 这 ini · 个 kata satuan umum · 小 kecil · 很 sangat · 活泼 ceria
+hsk4_17_18#1 | ”在现代社会中，我们必须坚持学习。 | Zài xiàndài shèhuì zhōng, wǒmen bìxū jiānchí xuéxí. | 在 di · 现代 modern · 社会 masyarakat · 我们 kami · 必须 Harus · 坚持 bertahan · 学习 belajar
+hsk4_17_18#2 | 现代社会离不开交流。 | Xiàndài shèhuì lí bù kāi jiāoliú. | 现代 modern · 社会 masyarakat · 离 berjarak dari · 不 tidak · 开 membuka · 交流 Bertukar pikiran
+hsk4_17_19#1 | 植物会为了阳光、空气和水而竞争。 | Zhíwù huì wèile yángguāng, kōngqì hé shuǐ ér jìngzhēng. | 植物 tanaman · 会 bisa · 为了 Demi · 阳光 sinar matahari · 空气 udara · 和 dan · 水 air · 而 tetapi
+hsk4_17_19#2 | 经济发展需要竞争。 | Jīngjì fāzhǎn xūyào jìngzhēng. | 经济 ekonomi · 发展 berkembang · 需要 Membutuhkan · 竞争 bersaing
+hsk4_17_20#1 | 森林对环境有很好的保护作用。 | Sēnlín duì huánjìng yǒu hěn hǎo de bǎohù zuòyòng. | 森林 hutan · 对 benar · 环境 Lingkungan · 有 ada · 很 sangat · 好 baik · 保护 melindungi · 作用 fungsi
+hsk4_17_20#2 | 森林有改变小范围气候的作用。 | Sēnlín yǒu gǎibiàn xiǎo fànwéi qìhòu de zuòyòng. | 森林 hutan · 有 ada · 改变 Mengubah · 小 kecil · 范围 rentang · 气候 iklim · 作用 fungsi
+hsk4_17_21#1 | 我还剩几个填空题没做完。 | Wǒ hái shèng jǐ gè tiánkòng tí méi zuò wán. | 我 saya · 还 masih · 剩 tersisa · 几 berapa · 个 kata satuan umum · 填空 mengisi bagian kosong · 题 soal · 没 tidak
+hsk4_17_21#2 | 教室里只剩一个空座位了。 | Jiàoshì lǐ zhǐ shèng yī gè kōng zuòwèi le. | 教室 ruang kelas · 里 di dalam · 只 Hanya · 剩 tersisa · 一 satu · 个 kata satuan umum · 空 kosong · 座位 tempat duduk
+hsk4_17_22#1 | 真希望天气继续暖和下去。 | Zhēn xīwàng tiānqì jìxù nuǎnhuo xià qù. | 真 sungguh · 希望 berharap · 天气 cuaca · 继续 melanjutkan · 暖和 hangat · 下 bawah · 去 pergi
+hsk4_17_22#2 | 海南的气候条件很特别，一年四季都让人感觉暖和、湿润。 | Hǎi nán de qìhòu tiáojiàn hěn tèbié, yī nián sì jì dōu ràng rén gǎnjué nuǎnhuo, shīrùn. | 气候 iklim · 条件 syarat · 很 sangat · 特别 istimewa · 一 satu · 年 tahun · 四 empat · 都 semua
+hsk4_17_23#1 | 从这儿去海洋馆大约需要半个小时。 | Cóng zhè ér qù hǎiyáng guǎn dàyuē xūyào bàn gè xiǎoshí. | 从 dari · 这 ini · 去 pergi · 海洋 laut · 大约 sekitar · 需要 Membutuhkan · 半 Setengah · 个 kata satuan umum
+hsk4_17_23#2 | 地图上蓝色表示海洋。 | Dìtú shàng lán sè biǎoshì hǎiyáng. | 地图 Peta · 上 atas · 蓝 Biru · 表示 menyatakan · 海洋 laut
+hsk4_17_25#1 | 我们小时候都听过美人鱼的故事。 | Wǒmen xiǎoshí hòu dōu tīng guò měirényú de gùshi. | 我们 kami · 小时 jam · 都 semua · 听 mendengarkan · 过 Melewati · 美人鱼 putri duyung · 故事 Cerita
+hsk4_17_26#1 | 这两个城市的距离是一万公里。 | Zhè liǎng gè chéngshì de jùlí shì yī wàn gōnglǐ. | 这 ini · 两 dua · 个 kata satuan umum · 城市 Kota · 距离 jarak · 是 adalah · 一 satu · 万 Sepuluh ribu
+hsk4_17_26#2 | 加油站离这儿大概有两公里。 | Jiāyóuzhàn lí zhè ér dàgài yǒu liǎng gōnglǐ. | 加油站 pom bensin · 离 berjarak dari · 这 ini · 大概 kira-kira · 有 ada · 两 dua · 公里 kilometer
+hsk4_17_27#1 | 尽管这只是一场误会，但她仍然很生气。 | Jǐnguǎn zhè zhǐ shì yī chǎng wùhuì, dàn tā réngrán hěn shēngqì. | 尽管 meskipun · 这 ini · 只 Hanya · 是 adalah · 一 satu · 场 acara · 误会 kesalahpahaman · 她 dia
+hsk4_17_27#2 | 很多人仍然爱看报纸。 | Hěn duō rén réngrán ài kàn bàozhǐ. | 很 sangat · 多 banyak · 人 orang · 仍然 masih · 爱 cinta · 看 melihat · 报纸 koran
+hsk4_17_28#1 | 请按从小到大的顺序排列这些数字。 | Qǐng àn cóng xiǎo dào dà de shùnxù páiliè zhè xiē shùzì. | 请 silakan · 从 dari · 小 kecil · 到 sampai · 大 besar · 顺序 urutan · 排列 menyusun · 这 ini
+hsk4_17_29#1 | 人在睡觉过程中会做梦，这太正常了。 | Rén zài shuìjiào guòchéng zhōng huì zuò mèng, zhè tài zhèngcháng le. | 人 orang · 在 di · 睡觉 tidur · 过程 proses · 会 bisa · 做 membuat · 梦 mimpi · 这 ini
+hsk4_17_29#2 | 每个人都会做梦，区别只是有多有少。 | Měi gèrén dōu huì zuò mèng, qūbié zhǐ shì yǒu duō yǒu shǎo. | 每 setiap · 个人 individu · 都 semua · 会 bisa · 做 membuat · 梦 mimpi · 区别 perbedaan · 只 Hanya
+hsk4_18_01#1 | 飞机将于15分钟后降落在首都机场。 | Fēijī jiāng yú15 fēnzhōng hòu jiàngluò zài shǒudū jīchǎng. | 飞机 pesawat · 于 di · 分钟 menit · 降落 mendarat · 在 di · 首都 ibu kota · 机场 bandara
+hsk4_18_01#2 | 飞机已经安全降落了。 | Fēijī yǐjīng ānquán jiàngluò le. | 飞机 pesawat · 已经 sudah · 安全 aman · 降落 mendarat
+hsk4_18_02#1 | 火车上不提供免费的饮料。 | Huǒ chē shàng bù tí gōng miǎn fèi de yǐnliào. | 火 panas · 上 atas · 不 tidak · 提供 Menyediakan · 免费 gratis · 饮料 Minuman
+hsk4_18_02#2 | 他选择了坐火车。 | Tā xuǎnzé le zuò huǒ chē. | 他 dia · 选择 Memilih · 坐 duduk · 火 panas
+hsk4_18_03#1 | 这本小说的作者非常有名。 | Zhè běn xiǎoshuō de zuòzhě fēicháng yǒumíng. | 这 ini · 本 · 小说 novel · 作者 penulis · 非常 sangat · 有名 Terkenal
+hsk4_18_03#2 | 那本小说的作者很有名。 | Nà běn xiǎoshuō de zuòzhě hěn yǒumíng. | 那 itu · 本 · 小说 novel · 作者 penulis · 很 sangat · 有名 Terkenal
+hsk4_18_04#1 | 在一个十字路口，一位交通警察让他停车。 | Zài yī gè shí zì lù kǒu, yī wèi jiāotōng jǐngchá ràng tā tíng chē. | 在 di · 一 satu · 个 kata satuan umum · 十 sepuluh · 字 huruf · 路 jalan · 口 Suapan · 位 Kata satuan
+hsk4_18_04#2 | 而且，方便的交通也为他们 的出行提供了条件。 | Ér qiě, fāngbiàn de jiāotōng yě wèi tā men de chū xíng tí gōng le tiáojiàn. | 而 tetapi · 方便 Praktis · 交通 lalu lintas · 也 juga · 为 Untuk · 他 dia · 出 keluar · 行 boleh
+hsk4_18_05#1 | 这种电梯的制造技术已经很成熟。 | Zhè zhǒng diàntī de zhìzào jìshù yǐjīng hěn chéngshú. | 这 ini · 种 Tipe · 电梯 Lift · 制造 memproduksi · 技术 teknologi · 已经 sudah · 很 sangat · 成熟 matang
+hsk4_18_05#2 | 他负责网站的技术工作。 | Tā fù zé wǎngzhàn de jìshù gōngzuò. | 他 dia · 负责 Bertanggung jawab · 网站 situs web · 技术 teknologi · 工作 bekerja
+hsk4_18_10#1 | 那个笔记本是专门写日记用的。 | Nà gè bǐ jì běn shì zhuānmén xiě rìjì yòng de. | 那 itu · 个 kata satuan umum · 本 · 是 adalah · 专门 khusus · 写 menulis · 日记 buku harian · 用 Membutuhkan
+hsk4_18_10#2 | 坚持写日记对提高表达能力有好处。 | Jiānchí xiě rìjì duì tígāo biǎodá nénglì yǒu hǎochù. | 坚持 bertahan · 写 menulis · 日记 buku harian · 对 benar · 提高 Meningkatkan · 表达 menyatakan · 能力 kemampuan · 有 ada
+hsk4_18_11#1 | 这些食品符合国家安全标准吗？ | Zhè xiē shí pǐn fú hé guójiā ānquán biāozhǔn ma? | 这 ini · 些 beberapa · 符合 sesuai dengan · 国家 Negara · 安全 aman · 标准 standar
+hsk4_18_11#2 | 飞机已经安全降落了。 | Fēijī yǐjīng ānquán jiàngluò le. | 飞机 pesawat · 已经 sudah · 安全 aman · 降落 mendarat
+hsk4_18_12#1 | 他想不起来这个电脑的密码了。 | Tā xiǎng bù qǐlai zhè gè diànnǎo de mìmǎ le. | 他 dia · 想 ingin · 不 tidak · 起来 Bangun · 这 ini · 个 kata satuan umum · 电脑 komputer · 密码 kata sandi
+hsk4_18_12#2 | 你好，我的密码忘了怎么办？ | Nǐ hǎo, wǒ de mìmǎ wàng le zěnme bàn? | 你 kamu · 好 baik · 我 saya · 密码 kata sandi · 怎么 bagaimana
+hsk4_18_13#1 | 他只允许你每天喝一杯！ | Tā zhǐ yǔnxǔ nǐ měi tiān hē yī bēi! | 他 dia · 只 Hanya · 允许 mengizinkan · 你 kamu · 每 setiap · 喝 minum · 一 satu
+hsk4_18_13#2 | 司机喝酒后不允许开车。 | Sījī hē jiǔ hòu bù yǔnxǔ kāi chē. | 司机 Supir · 喝 minum · 不 tidak · 允许 mengizinkan · 开 membuka
+hsk4_18_14#1 | 那座山看起来像一头牛。 | Nà zuò shān kàn qǐlai xiàng yī tou niú. | 那 itu · 座 satuan untuk jembatan · 看 melihat · 起来 Bangun · 像 Seperti · 一 satu
+hsk4_18_16#1 | 在加油站打电话很危险。 | Zài jiāyóuzhàn dǎ diànhuà hěn wēixiǎn. | 在 di · 加油站 pom bensin · 打电话 menelepon · 很 sangat · 危险 berbahaya
+hsk4_18_16#2 | 车里的人稍微不注意，就可能发生危险。 | Chē lǐ de rén shāowéi bù zhùyì, jiù kěnéng fāshēng wēixiǎn. | 里 di dalam · 人 orang · 稍微 sedikit · 不 tidak · 注意 Perhatian · 就 langsung · 可能 mungkin · 发生 terjadi
+hsk4_18_18#1 | 那个警察顺利地完成了任务。 | Nà gè jǐngchá shùnlì de wánchéng le rènwu. | 那 itu · 个 kata satuan umum · 警察 polisi · 顺利 Lancar · 完成 menyelesaikan · 任务 tugas
+hsk4_18_18#2 | 一个合格的警察最需要的是责任感。 | Yī gè hégé de jǐngchá zuì xūyào de shì zérèn gǎn. | 一 satu · 个 kata satuan umum · 合格 memenuhi syarat · 警察 polisi · 最 paling · 需要 Membutuhkan · 是 adalah · 责任 tanggung jawab
+hsk4_18_20#1 | 中午的西红柿鸡蛋汤稍微有点儿咸。 | Zhōngwǔ de xīhóngshì jīdàn tāng shāowéi yǒu diǎn ér xián. | 中午 siang · 西红柿 tomat · 鸡蛋 telur ayam · 汤 sup · 稍微 sedikit · 有 ada · 点 jam · 咸 asin
+hsk4_18_20#2 | 盐放多了，汤有点儿咸。 | Yán fàng duō le, tāng yǒu diǎn ér xián. | 盐 garam · 放 Meletakkan · 多 banyak · 汤 sup · 有 ada · 点 jam · 咸 asin
+hsk4_18_23#1 | 你能举个例子证明吗？ | Nǐ néng jǔ gè lì zi zhèngmíng ma? | 你 kamu · 能 bisa · 举 memberi · 个 kata satuan umum · 证明 membuktikan
+hsk4_18_25#1 | 你给我的地址正确吗？ | Nǐ gěi wǒ de dìzhǐ zhèngquè ma? | 你 kamu · 给 memberi · 我 saya · 地址 alamat · 正确 benar
+hsk4_18_27#1 | 他是20世纪最有名的京剧演员。 | Tā shì20 shìjì zuì yǒumíng de jīngjù yǎnyuán. | 他 dia · 是 adalah · 世纪 abad · 最 paling · 有名 Terkenal · 京剧 opera Beijing · 演员 aktor
+hsk4_18_27#2 | 这个故事发生在上个世纪末。 | Zhè gè gùshi fāshēng zài shàng gè shìjì mò. | 这 ini · 个 kata satuan umum · 故事 Cerita · 发生 terjadi · 在 di · 上 atas · 世纪 abad
+hsk4_18_28#1 | 回来的路上我顺便去了趟邮局。 | Huí lái de lù shàng wǒ shùnbiàn qù le tàng yóujú. | 回 kembali · 来 datang · 路 jalan · 上 atas · 我 saya · 顺便 sekalian · 去 pergi · 趟 kali perjalanan
+hsk4_18_29#1 | 三分之一的报名者会收到邀请信。 | Sān fēn zhī yī de bàomíng zhě huì shōu dào yāoqǐng xìn. | 三 tiga · 分 Membedakan · 之 partikel penghubung atribut · 一 satu · 报名 mendaftar · 会 bisa · 收 menerima · 到 sampai
+hsk4_18_31#1 | 他们办的新闻网站很吸引人。 | Tā men bàn de xīnwén wǎngzhàn hěn xiyin rén. | 他 dia · 新闻 Berita · 网站 situs web · 很 sangat · 吸引 menarik · 人 orang
+hsk4_18_31#2 | 他负责网站的技术工作。 | Tā fù zé wǎngzhàn de jìshù gōngzuò. | 他 dia · 负责 Bertanggung jawab · 网站 situs web · 技术 teknologi · 工作 bekerja
+hsk4_19_02#1 | 他好像是专门为钢琴而出生的。 | Tā hǎoxiàng shì zhuānmén wèi gāng qín ér chūshēng de. | 他 dia · 好像 Sepertinya · 是 adalah · 专门 khusus · 为 Untuk · 而 tetapi · 出生 lahir
+hsk4_19_02#2 | 他出生在一个美丽的小城市。 | Tā chūshēng zài yī gè měilì de xiǎo chéngshì. | 他 dia · 出生 lahir · 在 di · 一 satu · 个 kata satuan umum · 美丽 indah · 小 kecil · 城市 Kota
+hsk4_19_05#1 | 请把那张表格打印两份。 | Qǐng bǎ nà zhāng biǎogé dǎyìn liǎng fèn. | 请 silakan · 把 Kata satuan untuk payung · 那 itu · 张 Kata satuan · 表格 formulir · 打印 mencetak · 两 dua · 份 Kata bantu untuk pekerjaan
+hsk4_19_07#1 | 奶奶做的饺子真香。 | Nǎinai zuò de jiǎozi zhēn xiāng. | 奶奶 Nenek · 做 membuat · 饺子 pangsit · 真 sungguh · 香 harum
+hsk4_19_07#2 | 那儿的饺子很便宜。 | Nà ér de jiǎozi hěn piányi. | 那 itu · 饺子 pangsit · 很 sangat · 便宜 murah
+hsk4_19_09#1 | 那个白色的盒子又脏又破。 | Nà gè bái sè de hézi yòu zāng yòu pò. | 那 itu · 个 kata satuan umum · 白 putih · 盒子 kotak · 又 Dan · 脏 kotor · 破 rusak
+hsk4_19_11#1 | 妈妈理发的水平不高。 | Māma lǐfà de shuǐpíng bù gāo. | 妈妈 ibu · 理发 potong rambut · 水平 Tingkat · 不 tidak · 高 tinggi
+hsk4_19_11#2 | 他喜欢去那儿理发。 | Tā xǐhuan qù nà ér lǐfà. | 他 dia · 喜欢 suka · 去 pergi · 那 itu · 理发 potong rambut
+hsk4_19_12#1 | 这家店的包子非常好吃。 | Zhè jiā diàn de bāozi fēicháng hǎochī. | 这 ini · 家 rumah · 包子 bakpao · 非常 sangat · 好吃 enak
+hsk4_19_13#1 | 我这里有很多零钱。 | Wǒ zhè lǐ yǒu hěn duō língqián. | 我 saya · 这 ini · 里 di dalam · 有 ada · 很 sangat · 多 banyak · 零钱 uang receh
+hsk4_19_19#1 | 我们把沙发抬到客厅去吧。 | Wǒmen bǎ shāfā tái dào kètīng qù ba. | 我们 kami · 把 Kata satuan untuk payung · 沙发 sofa · 抬 mengangkat · 到 sampai · 客厅 ruang tamu · 去 pergi
+hsk4_19_19#2 | 能帮我把沙发抬到客厅吗？ | Néng bāng wǒ bǎ shāfā tái dào kètīng ma? | 能 bisa · 我 saya · 把 Kata satuan untuk payung · 沙发 sofa · 抬 mengangkat · 到 sampai · 客厅 ruang tamu
+hsk4_19_22#1 | 他租到了合适的房子。 | Tā zū dào le héshì de fáng zi. | 他 dia · 租 menyewa · 到 sampai · 合适 cocok
+hsk4_19_22#2 | 现在的房租很贵。 | Xiànzài de fáng zū hěn guì. | 现在 sekarang · 租 menyewa · 很 sangat · 贵 mahal
+hsk4_19_23#1 | 妹妹弹钢琴的声音把爷爷吵醒了。 | Mèimei tán gāngqín de shēngyīn bǎ yéye chǎo xǐng le. | 妹妹 adik perempuan · 弹钢琴 bermain piano · 声音 Suara · 把 Kata satuan untuk payung · 爷爷 Kakek · 吵 berisik · 醒 bangun
+hsk4_19_23#2 | 他被外面的响声吵醒了。 | Tā bèi wài miàn de xiǎng shēng chǎo xǐng le. | 他 dia · 被 Digunakan di kalimat pasif · 外 luar · 响 berbunyi · 吵 berisik · 醒 bangun
+hsk4_19_25#1 | 房东每天晚上9点左右回来。 | Fángdōng měi tiān wǎnshang9 diǎn zuǒyòu huí lái. | 房东 pemilik rumah · 每 setiap · 晚上 malam · 点 jam · 左右 sekitar · 回 kembali · 来 datang
+hsk4_19_28#1 | 乒乓球运动在世界上很多国家受到人们的喜爱。 | Pīngpāngqiú yùndòng zài shìjiè shàng hěn duō guójiā shòudào rén men de xǐ ài. | 乒乓球 tenis meja · 运动 olahraga · 在 di · 世界 Dunia · 上 atas · 很 sangat · 多 banyak · 国家 Negara
+hsk4_19_30#1 | 这场足球赛马上就要结束了。 | Zhè chǎng zú qiú sài mǎshàng jiù yào jiéshù le. | 这 ini · 场 acara · 马上 Segera · 就 langsung · 要 mau · 结束 Selesai
+hsk4_19_30#2 | 这场降水的影响范围非常大。 | Zhè chǎng jiàng shuǐ de yǐngxiǎng fànwéi fēicháng dà. | 这 ini · 场 acara · 水 air · 影响 Pengaruh · 范围 rentang · 非常 sangat · 大 besar
+hsk4_19_31#1 | 加油站附近禁止打电话。 | Jiāyóuzhàn fùjìn jìnzhǐ dǎ diànhuà. | 加油站 pom bensin · 附近 Sekitar · 禁止 melarang · 打电话 menelepon

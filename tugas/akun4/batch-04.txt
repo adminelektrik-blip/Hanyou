@@ -1,0 +1,88 @@
+hsk4_19_31#2 | 对不起，这里禁止吸烟。 | Duìbuqǐ, zhè lǐ jìnzhǐ xī yān. | 对不起 maaf · 这 ini · 里 di dalam · 禁止 melarang · 吸 mengisap
+hsk4_19_32#1 | 我朋友想要一个窗户旁边的座位。 | Wǒ péngyou xiǎng yào yī gè chuānghu pángbiān de zuòwèi. | 我 saya · 朋友 teman · 想 ingin · 要 mau · 一 satu · 个 kata satuan umum · 窗户 jendela · 旁边 di sebelah
+hsk4_19_32#2 | 教室里只剩一个空座位了。 | Jiàoshì lǐ zhǐ shèng yī gè kōng zuòwèi le. | 教室 ruang kelas · 里 di dalam · 只 Hanya · 剩 tersisa · 一 satu · 个 kata satuan umum · 空 kosong · 座位 tempat duduk
+hsk4_20_01#1 | 加油站离这儿大概有两公里。 | Jiāyóuzhàn lí zhè ér dàgài yǒu liǎng gōnglǐ. | 加油站 pom bensin · 离 berjarak dari · 这 ini · 大概 kira-kira · 有 ada · 两 dua · 公里 kilometer
+hsk4_20_01#2 | 加油站附近禁止打电话。 | Jiāyóuzhàn fùjìn jìnzhǐ dǎ diànhuà. | 加油站 pom bensin · 附近 Sekitar · 禁止 melarang · 打电话 menelepon
+hsk4_20_02#1 | 对不起，您的航班已经起飞了。 | Duìbuqǐ, nín de hángbān yǐjīng qǐfēi le. | 对不起 maaf · 您 Anda · 航班 penerbangan terjadwal · 已经 sudah · 起飞 Lepas landas
+hsk4_20_02#2 | 欢迎您再次乘坐我们的航班。 | Huānyíng nín zài cì chéngzuò wǒmen de hángbān. | 欢迎 Selamat datang · 您 Anda · 再 lagi · 次 kali · 乘坐 naik · 我们 kami · 航班 penerbangan terjadwal
+hsk4_20_03#1 | 出发时间又推迟了。 | Chūfā shíjiān yòu tuīchí le. | 出发 berangkat · 时间 waktu · 又 Dan · 推迟 menunda
+hsk4_20_04#1 | 现在全世界大约80多个国家有高速公路。 | Xiànzài quán shìjiè dàyuē80 duō gè guójiā yǒu gāosù gōnglù. | 现在 sekarang · 世界 Dunia · 大约 sekitar · 多 banyak · 个 kata satuan umum · 国家 Negara · 有 ada · 高速公路 jalan tol
+hsk4_20_06#1 | 飞机将于15分钟后降落在首都机场。 | Fēijī jiāng yú15 fēnzhōng hòu jiàngluò zài shǒudū jīchǎng. | 飞机 pesawat · 于 di · 分钟 menit · 降落 mendarat · 在 di · 首都 ibu kota · 机场 bandara
+hsk4_20_07#1 | 这次旅行他玩儿得很高兴。 | Zhè cì lǚxíng tā wán ér děi hěn gāoxìng. | 这 ini · 次 kali · 旅行 bepergian · 他 dia · 玩 bermain · 很 sangat · 高兴 senang
+hsk4_20_12#1 | 李先生是来表示祝贺的。 | Li xiānsheng shì lái biǎoshì zhùhè de. | 先生 tuan · 是 adalah · 来 datang · 表示 menyatakan · 祝贺 mengucapkan selamat
+hsk4_20_12#2 | 祝贺你顺利毕业！ | Zhùhè nǐ shùnlì bì yè! | 祝贺 mengucapkan selamat · 你 kamu · 顺利 Lancar · 毕业 lulus
+hsk4_20_13#1 | 一个合格的警察最需要的是责任感。 | Yī gè hégé de jǐngchá zuì xūyào de shì zérèn gǎn. | 一 satu · 个 kata satuan umum · 合格 memenuhi syarat · 警察 polisi · 最 paling · 需要 Membutuhkan · 是 adalah · 责任 tanggung jawab
+hsk4_20_14#1 | 人们在喝酒时为什么喜欢干杯呢？ | Rén men zài hē jiǔ shí wèi shénme xǐhuan gānbēi ne? | 人 orang · 在 di · 喝 minum · 为 Untuk · 什么 apa · 喜欢 suka · 干杯 bersulang
+hsk4_20_14#2 | 来，为我们的健康干杯！ | Lái, wèi wǒmen de jiànkāng gānbēi! | 来 datang · 为 Untuk · 我们 kami · 健康 Kesehatan · 干杯 bersulang
+hsk4_20_15#1 | 他熟悉当地民族情况。 | Tā shúxī dāngdì mínzú qíngkuàng. | 他 dia · 熟悉 Mengenal · 当地 lokal · 民族 suku · 情况 situasi
+hsk4_20_16#1 | 表演前要好好打扮一下。 | Biǎoyǎn qián yào hǎo hǎo dǎban yī xià. | 表演 bertindak · 要 mau · 好 baik · 打扮 berdandan · 一 satu · 下 bawah
+hsk4_20_16#2 | 有不少人都喜欢按照流行的标准来穿衣服、打扮自己。 | Yǒu bù shǎo rén dōu xǐhuan ànzhào liúxíng de biāozhǔn lái chuān yīfu, dǎban zìjǐ. | 有 ada · 不 tidak · 少 sedikit · 人 orang · 都 semua · 喜欢 suka · 按照 Menurut · 流行 populer
+hsk4_20_17#1 | 父亲讲的笑话非常有趣。 | Fùqīn jiǎng de xiàohua fēicháng yǒuqù. | 父亲 ayah · 讲 Menjelaskan · 笑话 lelucon · 非常 sangat · 有趣 menarik
+hsk4_20_17#2 | 他讲的笑话真有意思。 | Tā jiǎng de xiàohua zhēn yǒu yìsi. | 他 dia · 讲 Menjelaskan · 笑话 lelucon · 真 sungguh · 有 ada · 意思 arti
+hsk4_20_19#1 | 这是你房间的钥匙，你拿好。 | Zhè shì nǐ fángjiān de yàoshi, nǐ ná hǎo. | 这 ini · 是 adalah · 你 kamu · 房间 kamar · 钥匙 kunci · 拿 Mengambil · 好 baik
+hsk4_20_19#2 | 钥匙应该就在包里呀。 | Yàoshi yīnggāi jiù zài bāo lǐ ya. | 钥匙 kunci · 应该 Seharusnya · 就 langsung · 在 di · 包 Tas · 里 di dalam · 呀 partikel akhir kalimat untuk
+hsk4_20_20#1 | 这儿究竟发生了什么事情？ | Zhè ér jiūjìng fāshēng le shénme shìqing? | 这 ini · 究竟 sebenarnya · 发生 terjadi · 什么 apa · 事情 urusan
+hsk4_20_20#2 | 我打算试试，看看这个方法究竟有没有效。 | Wǒ dǎsuàn shì shì, kàn kàn zhè gè fāngfǎ jiūjìng yǒu méiyǒu xiào. | 我 saya · 打算 Rencana · 试 Mencoba · 看 melihat · 这 ini · 个 kata satuan umum · 方法 Cara · 究竟 sebenarnya
+hsk4_20_21#1 | 张教授家的院子里有两棵苹果树。 | Zhāng jiàoshòu jiā de yuàn zi lǐ yǒu liǎng kē píngguǒ shù. | 张 Kata satuan · 教授 profesor · 家 rumah · 里 di dalam · 有 ada · 两 dua · 棵 kata penggolong untuk tanama · 苹果 apel
+hsk4_20_21#2 | 那棵树的叶子掉光了。 | Nà kē shù de yèzi diào guāng le. | 那 itu · 棵 kata penggolong untuk tanama · 树 Pohon · 叶子 daun · 掉 jatuh · 光 hanya
+hsk4_20_22#1 | 中午的西红柿鸡蛋汤稍微有点儿咸。 | Zhōngwǔ de xīhóngshì jīdàn tāng shāowéi yǒu diǎn ér xián. | 中午 siang · 西红柿 tomat · 鸡蛋 telur ayam · 汤 sup · 稍微 sedikit · 有 ada · 点 jam · 咸 asin
+hsk4_20_22#2 | 我尝尝这汤的味道怎么样。 | Wǒ cháng cháng zhè tāng de wèidào zěnmeyàng. | 我 saya · 尝 mencicipi · 这 ini · 汤 sup · 味道 rasa · 怎么样 bagaimana
+hsk4_20_24#1 | 普通话以北京语音为标准音。 | Pǔtōnghuà yǐ běijīng yǔ yīn wèi biāozhǔn yīn. | 普通话 bahasa Mandarin standar · 以 dengan · 北京 Beijing · 为 Untuk · 标准 standar
+hsk4_20_24#2 | 他的普通话说得不太标准。 | Tā de pǔtōnghuà shuō děi bù tài biāozhǔn. | 他 dia · 普通话 bahasa Mandarin standar · 不 tidak · 太 terlalu · 标准 standar
+hsk4_20_26#1 | 母亲把家里收拾得整整齐齐。 | Mǔqīn bǎ jiā lǐ shōushi děi zhěng zhěngqí qí. | 母亲 ibu · 把 Kata satuan untuk payung · 家 rumah · 里 di dalam · 收拾 merapikan · 整齐 rapi
+hsk4_20_26#2 | 一只小鸟正忙着收拾东西准备搬家。 | Yī zhǐ xiǎo niǎo zhèng máng zhe shōushi dōngxi zhǔnbèi bān jiā. | 一 satu · 只 Hanya · 小 kecil · 鸟 Burung · 忙 sibuk · 收拾 merapikan · 东西 benda · 准备 bersiap
+hsk4_20_27#1 | 你现在出发还来得及吗？ | Nǐ xiànzài chūfā hái láidejí ma? | 你 kamu · 现在 sekarang · 出发 berangkat · 还 masih · 来得及 masih sempat
+hsk4_20_27#2 | 他们明天7 点出发。 | Tā men míngtiān7 diǎn chūfā. | 他 dia · 明天 besok · 点 jam · 出发 berangkat
+hsk4_20_28#1 | 中午的菜又酸又辣。 | Zhōngwǔ de cài yòu suān yòu là. | 中午 siang · 菜 masakan · 又 Dan · 酸 asam · 辣 pedas
+hsk4_20_29#1 | 东北大米吃起来很香。 | Dōng běi dà mǐ chī qǐlai hěn xiāng. | 东 Timur · 大 besar · 米 Meter · 吃 makan · 起来 Bangun · 很 sangat · 香 harum
+hsk4_20_29#2 | 奶奶做的饺子真香。 | Nǎinai zuò de jiǎozi zhēn xiāng. | 奶奶 Nenek · 做 membuat · 饺子 pangsit · 真 sungguh · 香 harum
+hsk4_20_30#1 | 昨天买的西红柿有点儿酸。 | Zuótiān mǎi de xīhóngshì yǒu diǎn ér suān. | 昨天 kemarin · 买 membeli · 西红柿 tomat · 有 ada · 点 jam · 酸 asam
+hsk4_20_30#2 | 中午的菜又酸又辣。 | Zhōngwǔ de cài yòu suān yòu là. | 中午 siang · 菜 masakan · 又 Dan · 酸 asam · 辣 pedas
+hsk5_11_011#1 | 现代汉语词典是一本工具书。 | Xiàndài hànyǔ cídiǎn shì yī běn gōngjù shū. | 现代 modern · 汉语 Bahasa Mandarin · 词典 Kamus · 是 adalah · 一 satu · 本 · 工具 alat · 书 buku
+hsk5_11_011#2 | ”在现代社会中，我们必须坚持学习。 | Zài xiàndài shèhuì zhōng, wǒmen bìxū jiānchí xuéxí. | 在 di · 现代 modern · 社会 masyarakat · 我们 kami · 必须 Harus · 坚持 bertahan · 学习 belajar
+hsk5_11_028#1 | 参观的人数比去年增长了三分之一。 | Cānguān de rén shù bǐ qùnián zēng zhǎng le sān fēn zhī yī. | 参观 mengunjungi · 人 orang · 数 menghitung · 比 dibandingkan · 去年 tahun lalu · 长 Bertambah · 三 tiga · 分 Membedakan
+hsk5_11_028#2 | 今年报名的人数比去年减少了一半儿。 | Jīn nián bàomíng de rén shù bǐ qùnián jiǎnshǎo le yī bàn ér. | 年 tahun · 报名 mendaftar · 人 orang · 数 menghitung · 比 dibandingkan · 去年 tahun lalu · 减少 mengurangi · 一 satu
+hsk5_11_031#1 | 怀疑精神有积极作用。 | Huáiyí jīngshén yǒu jījí zuòyòng. | 怀疑 meragukan · 精神 semangat · 有 ada · 积极 positif · 作用 fungsi
+hsk5_12_023#1 | 银行决定招聘一名高级主管。 | Yínháng juédìng zhāo pìn yī míng gāojí zhǔ guǎn. | 银行 Bank · 决定 Memutuskan · 招聘 merekrut · 一 satu · 高级 tingkat tinggi
+hsk5_12_030#1 | 保护环境是我们每个人的责任。 | Bǎohù huánjìng shì wǒmen měi gèrén de zérèn. | 保护 melindungi · 环境 Lingkungan · 是 adalah · 我们 kami · 每 setiap · 个人 individu · 责任 tanggung jawab
+hsk5_12_030#2 | 每个人都希望获得别人的尊重。 | Měi gèrén dōu xīwàng huòdé biérén de zūnzhòng. | 每 setiap · 个人 individu · 都 semua · 希望 berharap · 获得 memperoleh · 别人 Orang lain · 尊重 menghormati
+hsk5_12_040#1 | 那个司机不太适应当地的气候。 | Nà gè sījī bù tài shìyìng dāngdì de qìhòu. | 那 itu · 个 kata satuan umum · 司机 Supir · 不 tidak · 太 terlalu · 适应 Beradaptasi · 当地 lokal · 气候 iklim
+hsk5_12_040#2 | 他父亲是当地的一位律师。 | Tā fùqīn shì dāngdì de yī wèi lǜ shī. | 他 dia · 父亲 ayah · 是 adalah · 当地 lokal · 一 satu · 位 Kata satuan · 律师 Pengacara
+hsk5_13_013#1 | 现代汉语词典是一本工具书。 | Xiàndài hànyǔ cídiǎn shì yī běn gōngjù shū. | 现代 modern · 汉语 Bahasa Mandarin · 词典 Kamus · 是 adalah · 一 satu · 本 · 工具 alat · 书 buku
+hsk5_13_013#2 | 《现代汉语词典》是一本很有用的工具书。 | 《 Xiàndài hànyǔ cídiǎn》 shì yī běn hěn yǒu yòng de gōngjù shū. | 现代 modern · 汉语 Bahasa Mandarin · 词典 Kamus · 是 adalah · 一 satu · 本 · 很 sangat · 有 ada
+hsk5_14_010#1 | 少吃不代表不吃，而是要科学地吃。 | Shǎo chī bù dàibiǎo bù chī, ér shì yào kēxué de chī. | 少 sedikit · 吃 makan · 不 tidak · 代表 mewakili · 而 tetapi · 是 adalah · 要 mau · 科学 ilmu pengetahuan
+hsk5_14_010#2 | 代表们决定结束会议。 | Dàibiǎo men juédìng jiéshù huìyì. | 代表 mewakili · 决定 Memutuskan · 结束 Selesai · 会议 Rapat
+hsk5_14_013#1 | 这篇文章由三部分组成。 | Zhè piān wénzhāng yóu sān bùfen zǔchéng. | 这 ini · 篇 satuan untuk tulisan · 文章 artikel · 由 oleh · 三 tiga · 部分 bagian · 组成 membentuk
+hsk5_14_023#1 | 它一直只卖一种东西：牛肉面。 | Tā yìzhí zhǐ mài yī zhǒng dōngxi: niú ròu miàn. | 它 dia · 一直 Terus menerus atau Selalu · 只 Hanya · 卖 menjual · 一 satu · 种 Tipe · 东西 benda
+hsk5_14_023#2 | 它一直只卖一 种东西：牛肉面。 | Tā yìzhí zhǐ mài yī zhǒng dōngxi: niú ròu miàn. | 它 dia · 一直 Terus menerus atau Selalu · 只 Hanya · 卖 menjual · 一 satu · 种 Tipe · 东西 benda
+hsk5_14_030#1 | 他好像是专门为钢琴而出生的。 | Tā hǎoxiàng shì zhuānmén wèi gāng qín ér chūshēng de. | 他 dia · 好像 Sepertinya · 是 adalah · 专门 khusus · 为 Untuk · 而 tetapi · 出生 lahir
+hsk5_14_030#2 | 宾馆为我们提供了牙刷和牙膏。 | Bīnguǎn wèi wǒmen tí gōng le yá shuā hé yágāo. | 宾馆 hotel · 为 Untuk · 我们 kami · 提供 Menyediakan · 和 dan · 牙膏 pasta gigi
+hsk5_14_034#1 | 只要有心，生活中的美到处都是。 | Zhǐyào yǒu xīn, shēnghuó zhōng de měi dàochù dōu shì. | 只要 asalkan · 有 ada · 生活 Kehidupan · 到处 di mana-mana · 都 semua · 是 adalah
+hsk5_14_034#2 | 生活的压力并没有使他放弃理想。 | Shēnghuó de yālì bìng méiyǒu shǐ tā fàngqì lǐxiǎng. | 生活 Kehidupan · 压力 tekanan · 并 Dan · 没有 tidak ada · 使 membuat · 他 dia · 放弃 menyerah · 理想 cita-cita
+hsk5_15_017#1 | 主动与周围的人交流，可以交到更多的朋友，丰富我们的生活。 | Zhǔdòng yǔ zhōuwéi de rén jiāoliú, kěyǐ jiāo dào gèng duō de péngyou, fēngfù wǒmen de shēnghuó. | 主动 inisiatif · 与 Dengan · 周围 Disekitar · 人 orang · 交流 Bertukar pikiran · 可以 bisa · 交 Berteman · 到 sampai
+hsk5_16_002#1 | 那篇报道引起了校长的重视。 | Nà piān bàodào yǐnqǐ le xiàozhǎng de zhòngshì. | 那 itu · 篇 satuan untuk tulisan · 报道 melaporkan · 引起 menyebabkan · 校长 Kepala sekolah · 重视 mementingkan
+hsk5_16_002#2 | 报道是老黄写的。 | Bàodào shì lǎo huáng xiě de. | 报道 melaporkan · 是 adalah · 老 Tua · 写 menulis
+hsk5_17_012#1 | 普通话以北京语音为标准音。 | Pǔtōnghuà yǐ běijīng yǔ yīn wèi biāozhǔn yīn. | 普通话 bahasa Mandarin standar · 以 dengan · 北京 Beijing · 为 Untuk · 标准 standar
+hsk5_17_012#2 | 别伤心了，以后还有机会。 | Bié shāngxīn le, yǐ hòu hái yǒu jīhuì. | 别 jangan · 伤心 sedih · 以 dengan · 还 masih · 有 ada · 机会 Kesempatan
+hsk5_18_009#1 | 人们常说“生命在于运动”，可见运动极其重要。 | Rén men cháng shuō shēngmìng zàiyú yùndòng, kějiàn yùndòng jíqí zhòngyào. | 人 orang · 生命 nyawa · 在于 terletak pada · 运动 olahraga · 可见 terlihat jelas · 极其 sangat · 重要 Penting
+hsk5_18_009#2 | 因为无论对自己还是对其他人，这样做都是极其危险的。 | Yīnwèi wúlùn duì zìjǐ háishi duì qítā rén, zhè yàng zuò dōu shì jíqí wēixiǎn de. | 因为 karena · 无论 tidak peduli · 对 benar · 自己 Diri Sendiri · 还是 Atau · 其他 Lainnya · 人 orang · 这 ini
+hsk5_18_028#1 | 人们常说“生命在于运动”，可见运动极其重要。 | Rén men cháng shuō shēngmìng zàiyú yùndòng, kějiàn yùndòng jíqí zhòngyào. | 人 orang · 生命 nyawa · 在于 terletak pada · 运动 olahraga · 可见 terlihat jelas · 极其 sangat · 重要 Penting
+hsk5_19_034#1 | 这些花闻起来很香。 | Zhè xiē huā wén qǐlai hěn xiāng. | 这 ini · 些 beberapa · 花 Bunga · 闻 mendengar · 起来 Bangun · 很 sangat · 香 harum
+hsk5_20_022#1 | 母亲把家里收拾得整整齐齐。 | Mǔqīn bǎ jiā lǐ shōushi děi zhěng zhěngqí qí. | 母亲 ibu · 把 Kata satuan untuk payung · 家 rumah · 里 di dalam · 收拾 merapikan · 整齐 rapi
+hsk5_20_022#2 | 姐姐把房间收拾得很整齐。 | Jiějie bǎ fángjiān shōushi děi hěn zhěngqí. | 姐姐 kakak perempuan · 把 Kata satuan untuk payung · 房间 kamar · 收拾 merapikan · 很 sangat · 整齐 rapi
+hsk5_23_018#1 | 学校将组织大家去参观长城。 | Xuéxiào jiāng zǔzhī dàjiā qù cānguān zhǎng chéng. | 学校 sekolah · 组织 organisasi · 大家 semua orang · 去 pergi · 参观 mengunjungi · 长 Bertambah
+hsk5_25_021#1 | 我是第一次来云南省，这里的风景很美，气候也很湿润。 | Wǒ shì dìyī cì lái yún nán shěng, zhè lǐ de fēngjǐng hěn měi, qìhòu yě hěn shīrùn. | Saya baru pertama kali datang ke Provinsi Yunnan. Pemandangan di sini indah dan iklimnya juga lembap. / 我是第一次来 saya baru pertama kali datang · 云南省 Provinsi Yunnan · 这里 di sini · 风景 pemandangan · 很美 sangat indah · 气候 iklim · 也 juga · 很湿润 cukup/sangat lembap
+hsk5_25_030#1 | 晚上，我刚刚躺下，就响起了敲门声。 | Wǎnshang, wǒ gāng gāng tǎng xià, jiù xiǎng qǐ le qiāo mén shēng. | 晚上 malam · 我 saya · 刚 Baru Saja · 躺 berbaring · 下 bawah · 就 langsung · 响 berbunyi · 起 bangkit
+hsk5_25_030#2 | 环保要从身边小事做起。 | Huán bǎo yào cóng shēn biān xiǎo shì zuò qǐ. | 要 mau · 从 dari · 小 kecil · 做 membuat · 起 bangkit
+hsk5_26_014#1 | 回来的路上我顺便去了趟邮局。 | Huí lái de lù shàng wǒ shùnbiàn qù le tàng yóujú. | 回 kembali · 来 datang · 路 jalan · 上 atas · 我 saya · 顺便 sekalian · 去 pergi · 趟 kali perjalanan
+hsk5_26_014#2 | 广告越来越多，几乎无处不在。 | Guǎnggào yuè lái yuè duō, jīhū wú chù bù zài. | 广告 iklan · 越 Semakin · 来 datang · 多 banyak · 几乎 Hampir · 无 tidak memiliki · 不 tidak · 在 di
+hsk5_27_017#1 | 人们常说“生命在于运动”，可见运动极其重要。 | Rén men cháng shuō shēngmìng zàiyú yùndòng, kějiàn yùndòng jíqí zhòngyào. | 人 orang · 生命 nyawa · 在于 terletak pada · 运动 olahraga · 可见 terlihat jelas · 极其 sangat · 重要 Penting
+hsk5_28_003#1 | 手机减少了人们面对面的交流。 | Shǒujī jiǎnshǎo le rén men miànduì miàn de jiāoliú. | 手机 telepon genggam · 减少 mengurangi · 人 orang · 面对 menghadapi · 交流 Bertukar pikiran
+hsk5_28_013#1 | 森林有改变小范围气候的作用。 | Sēnlín yǒu gǎibiàn xiǎo fànwéi qìhòu de zuòyòng. | 森林 hutan · 有 ada · 改变 Mengubah · 小 kecil · 范围 rentang · 气候 iklim · 作用 fungsi
+hsk5_28_013#2 | 这场降水的影响范围非常大。 | Zhè chǎng jiàng shuǐ de yǐngxiǎng fànwéi fēicháng dà. | 这 ini · 场 acara · 水 air · 影响 Pengaruh · 范围 rentang · 非常 sangat · 大 besar
+hsk5_31_004#1 | 凉 茶虽然味道苦，但对身体很有好处。 | Liáng chá suī rán wèidào kǔ, dàn duì shēntǐ hěn yǒu hǎochù. | 茶 teh · 虽 meskipun · 味道 rasa · 苦 pahit · 对 benar · 身体 tubuh · 很 sangat · 有 ada
+hsk5_34_015#1 | 对不起，这里禁止吸烟。 | Duìbuqǐ, zhè lǐ jìnzhǐ xī yān. | 对不起 maaf · 这 ini · 里 di dalam · 禁止 melarang · 吸 mengisap
+hsk5_35_007#1 | 下雨后空气很湿润。 | Xiàyǔ hòu kōngqì hěn shīrùn. | 下雨 hujan · 空气 udara · 很 sangat · 湿润 lembab
+hsk5_35_007#2 | 北方春季气候湿润。 | Běifāng chūn jì qìhòu shīrùn. | 北方 Bagian Utara atau Daerah Uta · 气候 iklim · 湿润 lembab
+hsk5_35_032#1 | 一个公司内部如果经常交流， 公司的竞争力一定会得到提高。 | Yī gè gōngsī nèibù rúguǒ jīngcháng jiāoliú, gōngsī de jìngzhēng lì yídìng huì děi dào tígāo. | 一 satu · 个 kata satuan umum · 公司 perusahaan · 内部 interior · 如果 jika · 经常 Sering · 交流 Bertukar pikiran · 竞争 bersaing
+hsk5_36_006#1 | 这朵花又大又漂亮。 | Zhè duǒ huā yòu dà yòu piàoliang. | 这 ini · 朵 bunga · 花 Bunga · 又 Dan · 大 besar · 漂亮 cantik

@@ -1,0 +1,7 @@
+node_modules/
+.firebase/
+*.log
+.DS_Store
+# JANGAN pernah commit kunci service account
+*-firebase-adminsdk-*.json
+serviceAccount*.json

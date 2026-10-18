@@ -1,0 +1,26 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Data belajar: 1 dokumen per pengguna. Hanya pemilik yang boleh baca/tulis.
+    // isAdmin tidak boleh dinaikkan dari klien (hanya lewat Firebase Console).
+    match /users/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      allow create: if request.auth != null && request.auth.uid == uid
+                    && request.resource.data.get('isAdmin', false) == false;
+      allow update: if request.auth != null && request.auth.uid == uid
+                    && request.resource.data.get('isAdmin', false) == resource.data.get('isAdmin', false);
+      allow delete: if false;
+    }
+
+    // Peta audio ujian (diisi lewat Console/skrip admin). Klien hanya membaca.
+    match /audioBank/{id} {
+      allow read: if request.auth != null;
+      allow write: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

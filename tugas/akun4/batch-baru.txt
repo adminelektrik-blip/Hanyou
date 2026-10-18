@@ -1,0 +1,4 @@
+NEW:h1_std__139 | 再见 | zàijiàn | sampai jumpa
+NEW:h2_std__99 | 踢 | tī | menendang
+NEW:h2_std__121 | 羊肉 | yángròu | daging kambing/domba
+NEW:h2_std__128 | 阴 | yīn | mendung

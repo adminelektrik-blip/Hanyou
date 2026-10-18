@@ -1,0 +1,90 @@
+h2_std__107#1 | 邻居问：“你要搬到哪里去？ | Línjū wèn: nǐ yào bān dào nǎ lǐ qù? | 邻居 Tetangga · 问 bertanya · 你 kamu · 要 mau · 搬 Memindahkan atau mengangkut · 到 sampai · 哪 yang mana · 里 di dalam
+h2_std__108#0 | 这篇文章主要谈儿童教育问题。 | Zhè piān wénzhāng zhǔyào tán értóng jiàoyù wèntí. | 这 ini · 篇 satuan untuk tulisan · 文章 artikel · 主要 Utama · 谈 Berbicara · 儿童 anak-anak · 教育 mendidik · 问题 pertanyaan
+h2_std__108#1 | 你们商量出解决问题的方法了吗？ | Nǐ men shāngliang chū jiějué wèntí de fāngfǎ le ma? | 你 kamu · 商量 mendiskusikan · 出 keluar · 解决 menyelesaikan · 问题 pertanyaan · 方法 Cara
+h2_std__111#0 | 他的洗衣机好像出问题了。 | Tā de xǐ yī jī hǎoxiàng chū wèntí le. | 他 dia · 洗 mencuci · 好像 Sepertinya · 出 keluar · 问题 pertanyaan
+h2_std__111#1 | 这台洗衣机的质量不错。 | Zhè tái xǐ yī jī de zhìliàng bù cuò. | 这 ini · 台 satuan untuk mesin · 洗 mencuci · 质量 kualitas · 不 tidak · 错 salah
+h2_std__113#0 | 我们小时候都听过美人鱼的故事。 | Wǒmen xiǎoshí hòu dōu tīng guò měirényú de gùshi. | 我们 kami · 小时 jam · 都 semua · 听 mendengarkan · 过 Melewati · 美人鱼 putri duyung · 故事 Cerita
+h2_std__113#1 | 我现在就过去，估计半小时后到。 | Wǒ xiànzài jiù guòqù, gūjì bàn xiǎoshí hòu dào. | 我 saya · 现在 sekarang · 就 langsung · 过去 Masa lalu · 估计 memperkirakan · 半 Setengah · 小时 jam · 到 sampai
+h2_std__115#0 | 要想更快适应新环境，其实有很多办法。 | Yào xiǎng gèng kuài shìyìng xīn huánjìng, qíshí yǒu hěn duō bànfǎ. | 要 mau · 想 ingin · 更 Lebih · 快 cepat · 适应 Beradaptasi · 新 baru · 环境 Lingkungan · 其实 Sebenernya
+h2_std__115#1 | 这双袜子是我新买的。 | Zhè shuāng wàzi shì wǒ xīn mǎi de. | 这 ini · 双 Sepasang · 袜子 kaos kaki · 是 adalah · 我 saya · 新 baru · 买 membeli
+h2_std__116#0 | 我姓李，是各位的导游。 | Wǒ xìng li, shì gè wèi de dǎoyóu. | 我 saya · 姓 marga · 是 adalah · 各 berbagai · 位 Kata satuan · 导游 pemandu wisata
+h2_std__117#0 | 重感冒让他不得不请假休息。 | Zhòng gǎnmào ràng tā bùdébù qǐngjià xiūxi. | 重 berat · 感冒 Flu · 让 membiarkan · 他 dia · 不得不 Terpaksa harus · 请假 Ijin tidak masuk · 休息 istirahat
+h2_std__117#1 | 困了就休息一下吧。 | Kùn le jiù xiūxi yī xià ba. | 困 mengantuk · 就 langsung · 休息 istirahat · 一 satu · 下 bawah
+h2_std__118#0 | 明天中午有大雪。 | Míngtiān zhōngwǔ yǒu dà xuě. | 明天 besok · 中午 siang · 有 ada · 大 besar · 雪 salju
+h2_std__119#0 | ”草绿了，那是生命的颜色；花开了，那是大自然的礼物。 | Cǎo lǜ le, nà shì shēngmìng de yánsè; huā kāi le, nà shì dà zìrán de lǐwù. | 草 Rumput · 绿 Hijau · 那 itu · 是 adalah · 生命 nyawa · 颜色 warna · 花 Bunga · 开 membuka
+h2_std__119#1 | 他们的筷子用不同的材料做成，颜色也都不一样，质量很好。 | Tā men de kuàizi yòng bù tóng de cái liào zuò chéng, yánsè yě dōu bù yíyàng, zhìliàng hěn hǎo. | 他 dia · 筷子 Sumpit · 用 Membutuhkan · 不 tidak · 材料 bahan · 做 membuat · 颜色 warna · 也 juga
+h2_std__120#0 | 躺着看书对眼睛不好。 | Tǎng zhe kàn shū duì yǎnjing bù hǎo. | 躺 berbaring · 看 melihat · 书 buku · 对 benar · 眼睛 mata · 不 tidak · 好 baik
+h2_std__120#1 | 所以生活中不缺少美，缺少发现美的眼睛。 | Suǒyǐ shēnghuó zhōng bù quēshǎo měi, quēshǎo fāxiàn měi de yǎnjing. | 所以 oleh karena itu · 生活 Kehidupan · 不 tidak · 缺少 kekurangan · 发现 menemukan · 眼睛 mata
+h2_std__122#0 | 打针比吃药效果好。 | Dǎ zhēn bǐ chī yào xiàoguǒ hǎo. | 打针 disuntik · 比 dibandingkan · 吃 makan · 药 obat · 效果 efek · 好 baik
+h2_std__123#0 | 楼下的商店要招聘两名售货员。 | Lóu xià de shāngdiàn yào zhāo pìn liǎng míng shòuhuòyuán. | 楼 Bangunan · 下 bawah · 商店 toko · 要 mau · 招聘 merekrut · 两 dua · 售货员 pramuniaga
+h2_std__123#1 | 这主要要看东西的质量如何了。 | Zhè zhǔyào yào kàn dōngxi de zhìliàng rúhé le. | 这 ini · 主要 Utama · 要 mau · 看 melihat · 东西 benda · 质量 kualitas · 如何 bagaimana
+h2_std__124#0 | 你对别人好，别人也会对你好。 | Nǐ duì biérén hǎo, biérén yě huì duì nǐ hǎo. | 你 kamu · 对 benar · 别人 Orang lain · 好 baik · 也 juga · 会 bisa
+h2_std__124#1 | 我既没车也没房子，钱也很少。 | Wǒ jì méi chē yě méi fáng zi, qián yě hěn shǎo. | 我 saya · 既 baik... maupun · 没 tidak · 也 juga · 钱 uang · 很 sangat · 少 sedikit
+h2_std__126#0 | 妻子要和女儿一起去。 | Qīzi yào hé nǚ'ér yìqǐ qù. | 妻子 istri · 要 mau · 和 dan · 女儿 anak perempuan · 一起 bersama · 去 pergi
+h2_std__126#1 | 来，咱们一起干一杯。 | Lái, zánmen yìqǐ gān yī bēi. | 来 datang · 咱们 Kami · 一起 bersama · 干 melakukan · 一 satu
+h2_std__127#0 | 大家明白马经理的意思。 | Dàjiā míngbai mǎ jīnglǐ de yìsi. | 大家 semua orang · 明白 Mengerti · 马 Kuda · 经理 Manajer · 意思 arti
+h2_std__127#1 | 他讲的笑话真有意思。 | Tā jiǎng de xiàohua zhēn yǒu yìsi. | 他 dia · 讲 Menjelaskan · 笑话 lelucon · 真 sungguh · 有 ada · 意思 arti
+h2_std__129#0 | 因为没 有人会喜欢跟一个总是容易生气的人在一起。 | Yīnwèi méi yǒu rén huì xǐhuan gēn yī gè zǒngshì róngyì shēngqì de rén zài yìqǐ. | 因为 karena · 没 tidak · 有 ada · 人 orang · 会 bisa · 喜欢 suka · 跟 Bersama · 一 satu
+h2_std__129#1 | 因为一个不知道自己缺点的人，永远都不会想要去改变。 | Yīnwèi yī gè bù zhīdào zìjǐ quēdiǎn de rén, yǒngyuǎn dōu bù huì xiǎng yào qù gǎibiàn. | 因为 karena · 一 satu · 个 kata satuan umum · 不 tidak · 知道 tahu · 自己 Diri Sendiri · 缺点 Kekurangan · 人 orang
+h2_std__130#0 | 游泳比跑步效果更好。 | Yóuyǒng bǐ pǎobù xiàoguǒ gèng hǎo. | 游泳 berenang · 比 dibandingkan · 跑步 berlari · 效果 efek · 更 Lebih · 好 baik
+h2_std__131#0 | 前面有专门的抽烟室，往前走就能看到，就在楼梯右边，请。 | Qiánmiàn yǒu zhuānmén de chōu yān shì, wǎng qián zǒu jiù néng kàn dào, jiù zài lóu tī yòubian, qǐng. | 前面 depan · 有 ada · 专门 khusus · 抽烟 merokok · 走 berjalan · 就 langsung · 能 bisa · 看 melihat
+h2_std__134#0 | 中国人常说“父母在，不远游。 | Zhōngguó rén cháng shuō fù mǔ zài, bù yuǎn yóu. | 中国 Tiongkok · 人 orang · 在 di · 不 tidak · 远 jauh
+h2_std__134#1 | 友谊宾馆离大使馆远吗？ | Yǒuyì bīnguǎn lí dàshǐguǎn yuǎn ma? | 友谊 persahabatan · 宾馆 hotel · 离 berjarak dari · 大使馆 kedutaan besar · 远 jauh
+h2_std__135#0 | 篮球不是一个人的运动或表演。 | Lán qiú bù shì yī gèrén de yùndòng huò biǎoyǎn. | 不 tidak · 是 adalah · 一 satu · 个人 individu · 运动 olahraga · 表演 bertindak
+h2_std__135#1 | 赛车是为勇敢的人准备的运动。 | Sài chē shì wèi yǒnggǎn de rén zhǔnbèi de yùndòng. | 是 adalah · 为 Untuk · 勇敢 berani · 人 orang · 准备 bersiap · 运动 olahraga
+h2_std__136#0 | 欢迎您再次乘坐我们的航班。 | Huānyíng nín zài cì chéngzuò wǒmen de hángbān. | 欢迎 Selamat datang · 您 Anda · 再 lagi · 次 kali · 乘坐 naik · 我们 kami · 航班 penerbangan terjadwal
+h2_std__136#1 | 每个人都有缺点，再优秀的人也一样。 | Měi gèrén dōu yǒu quēdiǎn, zài yōuxiù de rén yě yíyàng. | 每 setiap · 个人 individu · 都 semua · 有 ada · 缺点 Kekurangan · 再 lagi · 优秀 sangat bagus · 人 orang
+h2_std__137#0 | 他每天早上都要跑两公里。 | Tā měi tiān zǎoshang dōu yào pǎo liǎng gōnglǐ. | 他 dia · 每 setiap · 早上 pagi · 都 semua · 要 mau · 两 dua · 公里 kilometer
+h2_std__137#1 | 年轻人喜欢早上锻炼身体。 | Niánqīng rén xǐhuan zǎoshang duànliàn shēntǐ. | 年轻 Muda · 人 orang · 喜欢 suka · 早上 pagi · 锻炼 Berolahraga · 身体 tubuh
+h2_std__139#0 | 她丈夫是著名的京剧演员。 | Tā zhàngfu shì zhùmíng de jīngjù yǎnyuán. | 她 dia · 丈夫 suami · 是 adalah · 著名 terkenal · 京剧 opera Beijing · 演员 aktor
+h2_std__139#1 | 妻子希望丈夫陪她逛街。 |  | 妻子 istri · 希望 berharap · 丈夫 suami · 陪 Menemani · 她 dia
+h2_std__140#0 | “我找马医生，我有急事！ | Wǒ zhǎo mǎ yīshēng, wǒ yǒu jí shì! | 我 saya · 找 mencari · 马 Kuda · 医生 dokter · 有 ada
+h2_std__140#1 | 他想找个合适的会议室。 | Tā xiǎng zhǎo gè héshì de huìyì shì. | 他 dia · 想 ingin · 找 mencari · 个 kata satuan umum · 合适 cocok · 会议 Rapat
+h2_std__141#0 | 另外，凉茶热着喝效果也很不错。 | Lìngwài, liáng chá rè zhe hē xiàoguǒ yě hěn bù cuò. | 另外 Selain itu · 茶 teh · 热 panas · 喝 minum · 效果 efek · 也 juga · 很 sangat · 不 tidak
+h2_std__141#1 | 由于急着回家，他把车开得很快。 | Yóuyú jí zhe huí jiā, tā bǎ chē kāi děi hěn kuài. | 由于 karena · 回 kembali · 家 rumah · 他 dia · 把 Kata satuan untuk payung · 开 membuka · 很 sangat · 快 cepat
+h2_std__142#0 | 这个消息真是太让人激动了！ | Zhè gè xiāoxi zhēn shì tài ràng rén jīdòng le! | 这 ini · 个 kata satuan umum · 消息 Berita · 真 sungguh · 是 adalah · 太 terlalu · 让 membiarkan · 人 orang
+h2_std__142#1 | 真希望天气继续暖和下去。 | Zhēn xīwàng tiānqì jìxù nuǎnhuo xià qù. | 真 sungguh · 希望 berharap · 天气 cuaca · 继续 melanjutkan · 暖和 hangat · 下 bawah · 去 pergi
+h2_std__143#0 | 亚洲经济的增长速度正在逐渐提高。 |  | 经济 ekonomi · 长 Bertambah · 速度 kecepatan · 正在 sedang · 逐渐 perlahan-lahan · 提高 Meningkatkan
+h2_std__143#1 | 国家的经济正在逐渐发展。 | Guójiā de jīngjì zhèngzài zhújiàn fāzhǎn. | 国家 Negara · 经济 ekonomi · 正在 sedang · 逐渐 perlahan-lahan · 发展 berkembang
+h2_std__144#0 | 难道你连这个规定都不知道？ | Nándào nǐ lián zhè gè guīdìng dōu bù zhīdào? | 难道 masa sih · 你 kamu · 连 bahkan · 这 ini · 个 kata satuan umum · 规定 aturan · 都 semua · 不 tidak
+h2_std__144#1 | 没人知道校长反对的原因。 | Méi rén zhīdào xiàozhǎng fǎnduì de yuányīn. | 没 tidak · 人 orang · 知道 tahu · 校长 Kepala sekolah · 反对 menentang · 原因 alasan
+h2_std__147#0 | 理想能够使人走出困境。 | Lǐxiǎng néng gòu shǐ rén zǒu chū kùn jìng. | 理想 cita-cita · 能 bisa · 够 Cukup · 使 membuat · 人 orang · 走 berjalan · 出 keluar · 困 mengantuk
+h2_std__147#1 | 走在海边，感觉很凉快。 | Zǒu zài hǎi biān, gǎnjué hěn liángkuai. | 走 berjalan · 在 di · 感觉 Merasa · 很 sangat · 凉快 sejuk
+h2_std__148#0 | 这部电梯最多能乘坐16个人。 | Zhè bù diàntī zuì duō néng chéngzuò16 gèrén. | 这 ini · 电梯 Lift · 最 paling · 多 banyak · 能 bisa · 乘坐 naik · 个人 individu
+h2_std__148#1 | 也有人说，健康才是最大的幸福。 | Yě yǒu rén shuō, jiànkāng cái shì zuì dà de xìngfú. | 也 juga · 有 ada · 人 orang · 健康 Kesehatan · 是 adalah · 最 paling · 大 besar · 幸福 Bahagia
+hsk4_01_01#1 | 这么做完全符合国家的法律规定。 | Zhè me zuò wánquán fú hé guójiā de fǎ lǜ guīdìng. | 这 ini · 做 membuat · 完全 Sepenuhnya · 符合 sesuai dengan · 国家 Negara · 法律 Hukum · 规定 aturan
+hsk4_01_01#2 | 那个法律节目很受欢迎。 | Nà gè fǎ lǜ jiémù hěn shòu huānyíng. | 那 itu · 个 kata satuan umum · 法律 Hukum · 节目 Acara · 很 sangat · 欢迎 Selamat datang
+hsk4_01_02#1 | 你们俩的看法没什么区别。 | Nǐ men liǎ de kànfǎ méi shénme qūbié. | 你 kamu · 俩 Berdua · 看法 pendapat · 没 tidak · 什么 apa · 区别 perbedaan
+hsk4_01_02#2 | 她们俩没通过普通话考试。 | Tā men liǎ méi tōngguò pǔtōnghuà kǎoshì. | 她 dia · 俩 Berdua · 没 tidak · 通过 melalui · 普通话 bahasa Mandarin standar · 考试 ujian
+hsk4_01_03#1 | 那位导游给我留下了很深的印象。 | Nà wèi dǎoyóu gěi wǒ liú xià le hěn shēn de yìnxiàng. | 那 itu · 位 Kata satuan · 导游 pemandu wisata · 给 memberi · 我 saya · 留 Meninggalkan · 下 bawah · 很 sangat
+hsk4_01_03#2 | 他对小高第一印象不错。 | Tā duì xiǎo gāo dìyī yìnxiàng bù cuò. | 他 dia · 对 benar · 小 kecil · 高 tinggi · 第一 pertama · 印象 Kesan · 不 tidak · 错 salah
+hsk4_01_04#1 | 他的聪明、幽默深深地吸引了她。 | Tā de cōngming, yōumò shēn shēn de xiyin le tā. | 他 dia · 聪明 Pintar · 幽默 humoris · 深 Dalam · 吸引 menarik · 她 dia
+hsk4_01_04#2 | 那位导游给我留下了很深的印象。 | Nà wèi dǎoyóu gěi wǒ liú xià le hěn shēn de yìnxiàng. | 那 itu · 位 Kata satuan · 导游 pemandu wisata · 给 memberi · 我 saya · 留 Meninggalkan · 下 bawah · 很 sangat
+hsk4_01_05#1 | 邻居对附近的森林很熟悉。 | Línjū duì fùjìn de sēnlín hěn shúxī. | 邻居 Tetangga · 对 benar · 附近 Sekitar · 森林 hutan · 很 sangat · 熟悉 Mengenal
+hsk4_01_05#2 | 他熟悉当地民族情况。 | Tā shúxī dāngdì mínzú qíngkuàng. | 他 dia · 熟悉 Mengenal · 当地 lokal · 民族 suku · 情况 situasi
+hsk4_01_06#1 | 成熟不仅仅和年龄有关。 | Chéngshú bùjǐn jǐn hé niánlíng yǒu guān. | 成熟 matang · 不仅 Tidak hanya · 和 dan · 年龄 umur · 有 ada · 关 Mematikan
+hsk4_01_06#2 | 它不仅要求高速度，还要求准确的方向。 | Tā bùjǐn yāoqiú gāo sùdù, hái yāoqiú zhǔnquè de fāngxiàng. | 它 dia · 不仅 Tidak hanya · 要求 Persyaratan · 高 tinggi · 速度 kecepatan · 还 masih · 准确 akurat · 方向 arah
+hsk4_01_07#1 | 长期这样，会影响脾气甚至性格。 | Zhǎng qī zhè yàng, huì yǐngxiǎng piqi shènzhì xìnggé. | 长 Bertambah · 这 ini · 会 bisa · 影响 Pengaruh · 脾气 temperamen · 甚至 Bahkan · 性格 Kepribadian
+hsk4_01_07#2 | 她们俩的性格完全不一样。 | Tā men liǎ de xìnggé wánquán bù yíyàng. | 她 dia · 俩 Berdua · 性格 Kepribadian · 完全 Sepenuhnya · 不 tidak · 一样 Sama
+hsk4_01_09#1 | 母亲从来没去过农村。 | Mǔqīn cónglái méi qù guò nóngcūn. | 母亲 ibu · 从来 Selalu · 没 tidak · 去 pergi · 过 Melewati · 农村 pedesaan
+hsk4_01_09#2 | 以前考试，我从来没猜过答案，今天是第一次。 | Yǐqián kǎoshì, wǒ cónglái méi cāi guò dá'àn, jīntiān shì dìyī cì. | 以前 Sebelumnya · 考试 ujian · 我 saya · 从来 Selalu · 没 tidak · 猜 menebak · 过 Melewati · 答案 jawaban
+hsk4_01_10#1 | 你最好重新换一个密码。 | Nǐ zuì hǎo chóngxīn huàn yī gè mìmǎ. | 你 kamu · 最好 Paling baik · 重新 kembali · 换 Menukar · 一 satu · 个 kata satuan umum · 密码 kata sandi
+hsk4_01_10#2 | 所以，做决定之前最好仔细考虑一下。 | Suǒyǐ, zuò juédìng zhī qián zuì hǎo zǐxì kǎolǜ yī xià. | 所以 oleh karena itu · 做 membuat · 决定 Memutuskan · 之 partikel penghubung atribut · 最好 Paling baik · 仔细 teliti · 考虑 mempertimbangkan · 一 satu
+hsk4_01_11#1 | 保护环境需要大家的共同努力。 | Bǎohù huánjìng xūyào dàjiā de gòngtóng nǔlì. | 保护 melindungi · 环境 Lingkungan · 需要 Membutuhkan · 大家 semua orang · 共同 Bersama-sama · 努力 Berusaha Keras
+hsk4_01_11#2 | 篮球需要所有球员的共同努力。 | Lán qiú xūyào suǒyǒu qiú yuán de gòngtóng nǔlì. | 需要 Membutuhkan · 所有 semua · 共同 Bersama-sama · 努力 Berusaha Keras
+hsk4_01_12#1 | 第一，它能很好地吸汗，尤其适合那些容易出汗的人。 | Dìyī, tā néng hěn hǎo de xī hàn, yóuqí shìhé nà xiē róngyì chū hàn de rén. | 第一 pertama · 它 dia · 能 bisa · 很 sangat · 好 baik · 吸 mengisap · 汗 keringat · 尤其 terutama
+hsk4_01_12#2 | 其实，是不是流行不重要，真正适合自己的才是最好的。 | Qíshí, shì bù shì liúxíng bù zhòngyào, zhēnzhèng shìhé zìjǐ de cái shì zuì hǎo de. | 其实 Sebenernya · 是 adalah · 不 tidak · 流行 populer · 重要 Penting · 真正 benar-benar · 适合 Cocok · 自己 Diri Sendiri
+hsk4_01_13#1 | 也有人说，健康才是最大的幸福。 | Yě yǒu rén shuō, jiànkāng cái shì zuì dà de xìngfú. | 也 juga · 有 ada · 人 orang · 健康 Kesehatan · 是 adalah · 最 paling · 大 besar · 幸福 Bahagia
+hsk4_01_13#2 | 有人说，能帮助别人就是一种幸福。 | Yǒu rén shuō, néng bāngzhù biérén jiù shì yī zhǒng xìngfú. | 有 ada · 人 orang · 能 bisa · 帮助 membantu · 别人 Orang lain · 就 langsung · 是 adalah · 一 satu
+hsk4_01_14#1 | 只要有心，生活中的美到处都是。 | Zhǐyào yǒu xīn, shēnghuó zhōng de měi dàochù dōu shì. | 只要 asalkan · 有 ada · 生活 Kehidupan · 到处 di mana-mana · 都 semua · 是 adalah
+hsk4_01_14#2 | 生活的压力并没有使他放弃理想。 | Shēnghuó de yālì bìng méiyǒu shǐ tā fàngqì lǐxiǎng. | 生活 Kehidupan · 压力 tekanan · 并 Dan · 没有 tidak ada · 使 membuat · 他 dia · 放弃 menyerah · 理想 cita-cita
+hsk4_01_15#1 | 刚整理好的材料又被弄乱了。 | Gāng zhěnglǐ hǎo de cái liào yòu bèi nòng luàn le. | 刚 Baru Saja · 整理 merapikan · 好 baik · 材料 bahan · 又 Dan · 被 Digunakan di kalimat pasif · 弄 melakukan · 乱 kacau
+hsk4_01_15#2 | 春节刚过，就有冷空气南下。 | Chūn jié gāng guò, jiù yǒu lěng kōngqì nán xià. | 节 bagian · 刚 Baru Saja · 过 Melewati · 就 langsung · 有 ada · 冷 dingin · 空气 udara · 下 bawah
+hsk4_01_16#1 | 他觉得做地铁歌手很浪漫。 | Tā juéde zuò dìtiě gē shǒu hěn làngmàn. | 他 dia · 觉得 merasa · 做 membuat · 地铁 Subway · 很 sangat · 浪漫 Romantis
+hsk4_01_16#2 | 真正的爱情不需要浪漫。 | Zhēnzhèng de àiqíng bù xūyào làngmàn. | 真正 benar-benar · 爱情 Cinta · 不 tidak · 需要 Membutuhkan · 浪漫 Romantis
+hsk4_01_17#1 | 理想能够使人走出困境。 | Lǐxiǎng néng gòu shǐ rén zǒu chū kùn jìng. | 理想 cita-cita · 能 bisa · 够 Cukup · 使 membuat · 人 orang · 走 berjalan · 出 keluar · 困 mengantuk
+hsk4_01_17#2 | 可惜的是，人们往往对这一点重视不够。 | Kěxī de shì, rén men wǎngwǎng duì zhè yī diǎn zhòngshì bù gòu. | 可惜 sayang · 是 adalah · 人 orang · 往往 seringkali · 对 benar · 这 ini · 一 satu · 点 jam
+hsk4_01_18#1 | 每个人都有自己的优点和缺点。 | Měi gèrén dōu yǒu zìjǐ de yōudiǎn hé quēdiǎn. | 每 setiap · 个人 individu · 都 semua · 有 ada · 自己 Diri Sendiri · 优点 kelebihan · 和 dan · 缺点 Kekurangan
+hsk4_01_18#2 | 每个人都有缺点，再优秀的人也一样。 | Měi gèrén dōu yǒu quēdiǎn, zài yōuxiù de rén yě yíyàng. | 每 setiap · 个人 individu · 都 semua · 有 ada · 缺点 Kekurangan · 再 lagi · 优秀 sangat bagus · 人 orang
+hsk4_01_19#1 | 好玩儿的游戏更容易被儿童接受。 | Hǎo wán ér de yóuxì gèng róngyì bèi értóng jiēshòu. | 好 baik · 玩 bermain · 游戏 Game · 更 Lebih · 容易 Mudah · 被 Digunakan di kalimat pasif · 儿童 anak-anak · 接受 Menerima
+hsk4_01_19#2 | 有的人害怕失败，无法接受失败。 | Yǒu de rén hàipà shībài, wúfǎ jiēshòu shībài. | 有 ada · 人 orang · 害怕 Takut · 失败 gagal · 无法 tidak dapat · 接受 Menerima

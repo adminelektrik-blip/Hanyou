@@ -1,0 +1,90 @@
+hsk4_05_03#1 | 只买一张票不能打折。 | Zhǐ mǎi yī zhāng piào bù néng dǎzhé. | 只 Hanya · 买 membeli · 一 satu · 张 Kata satuan · 票 tiket · 不 tidak · 能 bisa · 打折 diskon
+hsk4_05_03#2 | 我们年底有活动，正在打折，比平时便宜了一千块。 | Wǒmen nián dǐ yǒu huódòng, zhèngzài dǎzhé, bǐ píngshí piányi le yī qiān kuài. | 我们 kami · 年 tahun · 底 dasar · 有 ada · 活动 kegiatan · 正在 sedang · 打折 diskon · 比 dibandingkan
+hsk4_05_04#1 | 你卖的东西可不可以比别人卖的价格高？ | Nǐ mài de dōngxi kě bù kěyǐ bǐ biérén mài de jiàgé gāo? | 你 kamu · 卖 menjual · 东西 benda · 不 tidak · 可以 bisa · 比 dibandingkan · 别人 Orang lain · 价格 harga
+hsk4_05_05#1 | 这主要要看东西的质量如何了。 | Zhè zhǔyào yào kàn dōngxi de zhìliàng rúhé le. | 这 ini · 主要 Utama · 要 mau · 看 melihat · 东西 benda · 质量 kualitas · 如何 bagaimana
+hsk4_05_05#2 | 你的笔记本电脑质量怎么样？ | Nǐ de bǐjìběn diànnǎo zhìliàng zěnmeyàng? | 你 kamu · 笔记本电脑 Laptop · 质量 kualitas · 怎么样 bagaimana
+hsk4_05_06#1 | 但这到底只是故事，肯定与实际生活不太相同。 | Dàn zhè dàodǐ zhǐ shì gùshi, kěndìng yǔ shíjì shēnghuó bù tài xiāngtóng. | 这 ini · 到底 sebenarnya · 只 Hanya · 是 adalah · 故事 Cerita · 肯定 pasti · 与 Dengan · 实际 kenyataan
+hsk4_05_07#1 | 年轻人比较喜欢流行音乐。 | Niánqīng rén bǐjiào xǐhuan liúxíng yīnyuè. | 年轻 Muda · 人 orang · 比较 Membandingkan · 喜欢 suka · 流行 populer · 音乐 Musik
+hsk4_05_07#2 | 有不少人都喜欢按照流行的标准来穿衣服、打扮自己。 | Yǒu bù shǎo rén dōu xǐhuan ànzhào liúxíng de biāozhǔn lái chuān yīfu, dǎban zìjǐ. | 有 ada · 不 tidak · 少 sedikit · 人 orang · 都 semua · 喜欢 suka · 按照 Menurut · 流行 populer
+hsk4_05_08#1 | 回来的路上我顺便去了趟邮局。 | Huí lái de lù shàng wǒ shùnbiàn qù le tàng yóujú. | 回 kembali · 来 datang · 路 jalan · 上 atas · 我 saya · 顺便 sekalian · 去 pergi · 趟 kali perjalanan
+hsk4_05_08#2 | 他们本来没打算买这些食品，但最后都“顺便”买回去了。 | Tā men běn lái méi dǎsuàn mǎi zhè xiē shí pǐn, dàn zuìhòu dōu shùnbiàn mǎi huí qù le. | 他 dia · 本来 awalnya · 没 tidak · 打算 Rencana · 买 membeli · 这 ini · 些 beberapa · 最后 Terakhir
+hsk4_05_09#1 | 这台洗衣机的质量不错。 | Zhè tái xǐ yī jī de zhìliàng bù cuò. | 这 ini · 台 satuan untuk mesin · 洗 mencuci · 质量 kualitas · 不 tidak · 错 salah
+hsk4_05_10#1 | 盒子里的巧克力被妹妹吃光了。 | Hézi lǐ de qiǎokèlì bèi mèimei chī guāng le. | 盒子 kotak · 里 di dalam · 巧克力 coklat · 被 Digunakan di kalimat pasif · 妹妹 adik perempuan · 吃 makan · 光 hanya
+hsk4_05_10#2 | 判断经济水平不能光看收入。 | Pànduàn jīngjì shuǐpíng bù néng guāng kàn shōurù. | 判断 Memutuskan · 经济 ekonomi · 水平 Tingkat · 不 tidak · 能 bisa · 光 hanya · 看 melihat · 收入 Pemasukan
+hsk4_05_11#1 | 实在猜不出，再去查词典，这样才能提高我们的阅读水平。 | Shízài cāi bù chū, zài qù chá cídiǎn, zhè yàng cái néng tígāo wǒmen de yuèdú shuǐpíng. | 实在 benar-benar · 猜 menebak · 不 tidak · 出 keluar · 再 lagi · 去 pergi · 词典 Kamus · 这 ini
+hsk4_05_13#1 | 另外，凉茶热着喝效果也很不错。 | Lìngwài, liáng chá rè zhe hē xiàoguǒ yě hěn bù cuò. | 另外 Selain itu · 茶 teh · 热 panas · 喝 minum · 效果 efek · 也 juga · 很 sangat · 不 tidak
+hsk4_05_13#2 | 游泳比跑步效果更好。 | Yóuyǒng bǐ pǎobù xiàoguǒ gèng hǎo. | 游泳 berenang · 比 dibandingkan · 跑步 berlari · 效果 efek · 更 Lebih · 好 baik
+hsk4_05_15#1 | 三分之一的报名者会收到邀请信。 | Sān fēn zhī yī de bàomíng zhě huì shōu dào yāoqǐng xìn. | 三 tiga · 分 Membedakan · 之 partikel penghubung atribut · 一 satu · 报名 mendaftar · 会 bisa · 收 menerima · 到 sampai
+hsk4_05_15#2 | 不要直接拒绝邀请。 | Bù yào zhíjiē jùjué yāoqǐng. | 不 tidak · 要 mau · 直接 langsung · 拒绝 menolak · 邀请 mengundang
+hsk4_05_16#1 | 葡萄酒可以多喝。 | Pútáo jiǔ kěyǐ duō hē. | 葡萄 anggur · 可以 bisa · 多 banyak · 喝 minum
+hsk4_05_17#1 | 这次电影艺术节也许会在北京举行。 | Zhè cì diànyǐng yìshù jié yěxǔ huì zài běijīng jǔxíng. | 这 ini · 次 kali · 电影 film · 艺术 seni · 节 bagian · 也许 mungkin · 会 bisa · 在 di
+hsk4_05_17#2 | 表扬也是一门艺术。 | Biǎoyáng yě shì yī mén yìshù. | 表扬 memuji · 也 juga · 是 adalah · 一 satu · 门 pintu · 艺术 seni
+hsk4_05_18#1 | 广告越来越多，几乎无处不在。 | Guǎnggào yuè lái yuè duō, jīhū wú chù bù zài. | 广告 iklan · 越 Semakin · 来 datang · 多 banyak · 几乎 Hampir · 无 tidak memiliki · 不 tidak · 在 di
+hsk4_05_18#2 | 广告词应该简短。 | Guǎnggào cí yīnggāi jiǎn duǎn. | 广告 iklan · 应该 Seharusnya · 短 Pendek
+hsk4_05_19#1 | 我尝尝这汤的味道怎么样。 | Wǒ cháng cháng zhè tāng de wèidào zěnmeyàng. | 我 saya · 尝 mencicipi · 这 ini · 汤 sup · 味道 rasa · 怎么样 bagaimana
+hsk4_05_19#2 | 你尝尝，味道怎么样？ | Nǐ cháng cháng, wèidào zěnmeyàng? | 你 kamu · 尝 mencicipi · 味道 rasa · 怎么样 bagaimana
+hsk4_05_20#1 | 每个人都有自己的优点和缺点。 | Měi gèrén dōu yǒu zìjǐ de yōudiǎn hé quēdiǎn. | 每 setiap · 个人 individu · 都 semua · 有 ada · 自己 Diri Sendiri · 优点 kelebihan · 和 dan · 缺点 Kekurangan
+hsk4_05_20#2 | 优点多不一定值得骄傲，有缺点也很正常。 | Yōudiǎn duō bù yídìng zhídé jiāo'ào, yǒu quēdiǎn yě hěn zhèngcháng. | 优点 kelebihan · 多 banyak · 不 tidak · 一定 pasti · 值得 layak · 骄傲 sombong · 有 ada · 缺点 Kekurangan
+hsk4_05_21#1 | 实际上，我们很多人做不到这一点。 | Shíjì shàng, wǒmen hěn duō rén zuò bù dào zhè yī diǎn. | 实际 kenyataan · 上 atas · 我们 kami · 很 sangat · 多 banyak · 人 orang · 做 membuat · 不 tidak
+hsk4_05_21#2 | 但这到底只是故事，肯定与实际生活不太相同。 | Dàn zhè dàodǐ zhǐ shì gùshi, kěndìng yǔ shíjì shēnghuó bù tài xiāngtóng. | 这 ini · 到底 sebenarnya · 只 Hanya · 是 adalah · 故事 Cerita · 肯定 pasti · 与 Dengan · 实际 kenyataan
+hsk4_05_22#1 | 所以，做决定之前最好仔细考虑一下。 | Suǒyǐ, zuò juédìng zhī qián zuì hǎo zǐxì kǎolǜ yī xià. | 所以 oleh karena itu · 做 membuat · 决定 Memutuskan · 之 partikel penghubung atribut · 最好 Paling baik · 仔细 teliti · 考虑 mempertimbangkan · 一 satu
+hsk4_05_22#2 | 做事要考虑方法。 | Zuò shì yào kǎolǜ fāngfǎ. | 做事 melakukan pekerjaan/menangani sesuatu · 要 perlu/harus · 考虑 mempertimbangkan · 方法 cara/metode; keseluruhan makna: Dalam melakukan sesuatu, kita perlu mempertimbangkan caranya.
+hsk4_05_23#1 | 这些食品符合国家安全标准吗？ | Zhè xiē shí pǐn fú hé guójiā ānquán biāozhǔn ma? | 这 ini · 些 beberapa · 符合 sesuai dengan · 国家 Negara · 安全 aman · 标准 standar
+hsk4_05_23#2 | 普通话以北京语音为标准音。 | Pǔtōnghuà yǐ běijīng yǔ yīn wèi biāozhǔn yīn. | 普通话 bahasa Mandarin standar · 以 dengan · 北京 Beijing · 为 Untuk · 标准 standar
+hsk4_05_24#1 | 他刚睡醒的样子很可爱。 | Tā gāng shuì xǐng de yàngzi hěn kěài. | 他 dia · 刚 Baru Saja · 醒 bangun · 样子 model · 很 sangat · 可爱 Lucu
+hsk4_05_25#1 | 成功是不会受到年龄限制的。 | Chénggōng shì bù huì shòudào niánlíng xiànzhì de. | 成功 Berhasil · 是 adalah · 不 tidak · 会 bisa · 受到 menerima · 年龄 umur · 限制 membatasi
+hsk4_05_25#2 | 成熟不仅仅和年龄有关。 | Chéngshú bùjǐn jǐn hé niánlíng yǒu guān. | 成熟 matang · 不仅 Tidak hanya · 和 dan · 年龄 umur · 有 ada · 关 Mematikan
+hsk4_05_28#1 | 夏天的晚上，这条街道尤其热闹。 | Xiàtiān de wǎnshang, zhè tiáo jiēdào yóuqí rènao. | 夏天 Musim Panas · 晚上 malam · 这 ini · 条 Kata satuan untuk celana · 街道 Jalan · 尤其 terutama · 热闹 ramai
+hsk4_05_28#2 | 第一，它能很好地吸汗，尤其适合那些容易出汗的人。 | Dìyī, tā néng hěn hǎo de xī hàn, yóuqí shìhé nà xiē róngyì chū hàn de rén. | 第一 pertama · 它 dia · 能 bisa · 很 sangat · 好 baik · 吸 mengisap · 汗 keringat · 尤其 terutama
+hsk4_05_29#1 | 成功是不会受到年龄限制的。 | Chénggōng shì bù huì shòudào niánlíng xiànzhì de. | 成功 Berhasil · 是 adalah · 不 tidak · 会 bisa · 受到 menerima · 年龄 umur · 限制 membatasi
+hsk4_05_29#2 | 小刘受到了表扬。 |  | 小 kecil · 受到 menerima · 表扬 memuji
+hsk4_05_30#1 | 任何事情的发生都是有原因的。 | Rènhé shìqing de fāshēng dōu shì yǒu yuányīn de. | 任何 apapun · 事情 urusan · 发生 terjadi · 都 semua · 是 adalah · 有 ada · 原因 alasan
+hsk4_05_30#2 | 任何植物都离不开阳光。 | Rènhé zhíwù dōu lí bù kāi yángguāng. | 任何 apapun · 植物 tanaman · 都 semua · 离 berjarak dari · 不 tidak · 开 membuka · 阳光 sinar matahari
+hsk4_05_31#1 | 导游把那份申请寄出去了。 | Dǎoyóu bǎ nà fèn shēnqǐng jì chū qù le. | 导游 pemandu wisata · 把 Kata satuan untuk payung · 那 itu · 份 Kata bantu untuk pekerjaan · 申请 mengajukan · 寄 mengirim paket · 出 keluar · 去 pergi
+hsk4_05_31#2 | 你的申请材料寄出去了吗 | Nǐ de shēnqǐng cái liào jì chū qù le ma | 你 kamu · 申请 mengajukan · 材料 bahan · 寄 mengirim paket · 出 keluar · 去 pergi
+hsk4_06_02#1 | 楼下的商店要招聘两名售货员。 | Lóu xià de shāngdiàn yào zhāo pìn liǎng míng shòuhuòyuán. | 楼 Bangunan · 下 bawah · 商店 toko · 要 mau · 招聘 merekrut · 两 dua · 售货员 pramuniaga
+hsk4_06_03#1 | 这双袜子是父亲给我的。 | Zhè shuāng wàzi shì fùqīn gěi wǒ de. | 这 ini · 双 Sepasang · 袜子 kaos kaki · 是 adalah · 父亲 ayah · 给 memberi · 我 saya
+hsk4_06_03#2 | 沙发上的袜子是旧的。 | Shāfā shàng de wàzi shì jiù de. | 沙发 sofa · 上 atas · 袜子 kaos kaki · 是 adalah · 旧 Lama
+hsk4_06_04#1 | 你最好不要打扰他。 | Nǐ zuì hǎo bù yào dǎrǎo tā. | 你 kamu · 最好 Paling baik · 不 tidak · 要 mau · 打扰 mengganggu · 他 dia
+hsk4_06_05#1 | 教授竟然把这次机会放弃了。 | Jiàoshòu jìngrán bǎ zhè cì jīhuì fàngqì le. | 教授 profesor · 竟然 ternyata · 把 Kata satuan untuk payung · 这 ini · 次 kali · 机会 Kesempatan · 放弃 menyerah
+hsk4_06_05#2 | 让人吃惊的是，这本小说的作者竟然是位80后的年轻人。 | Ràng rén chījīng de shì, zhè běn xiǎoshuō de zuòzhě jìngrán shì wèi80 hòu de niánqīng rén. | 让 membiarkan · 人 orang · 吃惊 terkejut · 是 adalah · 这 ini · 本 · 小说 novel · 作者 penulis
+hsk4_06_06#1 | 中午的西红柿鸡蛋汤稍微有点儿咸。 | Zhōngwǔ de xīhóngshì jīdàn tāng shāowéi yǒu diǎn ér xián. | 中午 siang · 西红柿 tomat · 鸡蛋 telur ayam · 汤 sup · 稍微 sedikit · 有 ada · 点 jam · 咸 asin
+hsk4_06_06#2 | 昨天买的西红柿有点儿酸。 | Zuótiān mǎi de xīhóngshì yǒu diǎn ér suān. | 昨天 kemarin · 买 membeli · 西红柿 tomat · 有 ada · 点 jam · 酸 asam
+hsk4_06_08#1 | 今年公司的收入比去年增加了一倍。 | Jīn nián gōngsī de shōurù bǐ qùnián zēngjiā le yī bèi. | 年 tahun · 公司 perusahaan · 收入 Pemasukan · 比 dibandingkan · 去年 tahun lalu · 增加 menambah · 一 satu · 倍 kali lipat
+hsk4_06_08#2 | 他的工资是我的两倍。 | Tā de gōngzī shì wǒ de liǎng bèi. | 他 dia · 工资 Gaji · 是 adalah · 我 saya · 两 dua · 倍 kali lipat
+hsk4_06_10#1 | 大城市和小城市各有各的好处。 | Dà chéngshì hé xiǎo chéngshì gè yǒu gè de hǎochù. | 大 besar · 城市 Kota · 和 dan · 小 kecil · 各 berbagai · 有 ada · 好处 manfaat
+hsk4_06_10#2 | 坚持写日记对提高表达能力有好处。 | Jiānchí xiě rìjì duì tígāo biǎodá nénglì yǒu hǎochù. | 坚持 bertahan · 写 menulis · 日记 buku harian · 对 benar · 提高 Meningkatkan · 表达 menyatakan · 能力 kemampuan · 有 ada
+hsk4_06_11#1 | 我尝尝这汤的味道怎么样。 | Wǒ cháng cháng zhè tāng de wèidào zěnmeyàng. | 我 saya · 尝 mencicipi · 这 ini · 汤 sup · 味道 rasa · 怎么样 bagaimana
+hsk4_06_11#2 | 你尝尝，味道怎么样？ | Nǐ cháng cháng, wèidào zěnmeyàng? | 你 kamu · 尝 mencicipi · 味道 rasa · 怎么样 bagaimana
+hsk4_06_12#1 | 没关系，这个箱子很轻。 | Méiguānxi, zhè gè xiāng zi hěn qīng. | 没关系 tidak apa-apa · 这 ini · 个 kata satuan umum · 很 sangat · 轻 ringan
+hsk4_06_12#2 | 幽默能减轻压力。 | Yōumò néng jiǎn qīng yālì. | 幽默 humoris · 能 bisa · 轻 ringan · 压力 tekanan
+hsk4_06_13#1 | 男人和女人在很多方面是不相同的。 | Nánrén hé nǚrén zài hěn duō fāngmiàn shì bù xiāngtóng de. | 男人 pria · 和 dan · 女人 wanita · 在 di · 很 sangat · 多 banyak · 方面 aspek · 是 adalah
+hsk4_06_13#2 | 但是，从另外一个方面看，如果没钱，也很难过得幸福。 | Dànshì, cóng lìngwài yī gè fāngmiàn kàn, rúguǒ méi qián, yě hěn nánguò děi xìngfú. | 但是 tetapi · 从 dari · 另外 Selain itu · 一 satu · 个 kata satuan umum · 方面 aspek · 看 melihat · 如果 jika
+hsk4_06_14#1 | 诚实的人值得我们尊重。 | Chéngshí de rén zhídé wǒmen zūnzhòng. | 诚实 Jujur · 人 orang · 值得 layak · 我们 kami · 尊重 menghormati
+hsk4_06_14#2 | 优点多不一定值得骄傲，有缺点也很正常。 | Yōudiǎn duō bù yídìng zhídé jiāo'ào, yǒu quēdiǎn yě hěn zhèngcháng. | 优点 kelebihan · 多 banyak · 不 tidak · 一定 pasti · 值得 layak · 骄傲 sombong · 有 ada · 缺点 Kekurangan
+hsk4_06_15#1 | 大部分人支持环保活动。 | Dà bùfen rén zhīchí huán bǎo huódòng. | 大 besar · 部分 bagian · 人 orang · 支持 mendukung · 活动 kegiatan
+hsk4_06_15#2 | 我们年底有活动，正在打折，比平时便宜了一千块。 | Wǒmen nián dǐ yǒu huódòng, zhèngzài dǎzhé, bǐ píngshí piányi le yī qiān kuài. | 我们 kami · 年 tahun · 底 dasar · 有 ada · 活动 kegiatan · 正在 sedang · 打折 diskon · 比 dibandingkan
+hsk4_06_16#1 | 他们是在国内认识的。 | Tā men shì zài guó nèi rènshi de. | 他 dia · 是 adalah · 在 di · 内 dalam · 认识 mengenal
+hsk4_06_16#2 | 室内温度比较低。 | Shì nèi wēndù bǐjiào dī. | 内 dalam · 温度 suhu · 比较 Membandingkan · 低 rendah
+hsk4_06_17#1 | 火车上不提供免费的饮料。 | Huǒ chē shàng bù tí gōng miǎn fèi de yǐnliào. | 火 panas · 上 atas · 不 tidak · 提供 Menyediakan · 免费 gratis · 饮料 Minuman
+hsk4_06_17#2 | 那家店免费为顾客送家具。 | Nà jiā diàn miǎn fèi wèi gùkè sòng jiājù. | 那 itu · 家 rumah · 免费 gratis · 为 Untuk · 顾客 Pelanggan · 送 mengirim · 家具 perabot
+hsk4_06_19#1 | 大部分人支持环保活动。 | Dà bùfen rén zhīchí huán bǎo huódòng. | 大 besar · 部分 bagian · 人 orang · 支持 mendukung · 活动 kegiatan
+hsk4_06_19#2 | 非常感谢您对我们工作的理解和支持。 | Fēicháng gǎnxiè nín duì wǒmen gōngzuò de lǐjiě hé zhīchí. | 非常 sangat · 感谢 berterima kasih · 您 Anda · 对 benar · 我们 kami · 工作 bekerja · 理解 Memahami · 和 dan
+hsk4_06_20#1 | 舞会将在这个礼拜天举行。 | Wǔ huì jiāng zài zhè gè lǐbàitiān jǔxíng. | 会 bisa · 在 di · 这 ini · 个 kata satuan umum · 礼拜天 hari Minggu · 举行 mengadakan
+hsk4_06_20#2 | 这次电影艺术节也许会在北京举行。 | Zhè cì diànyǐng yìshù jié yěxǔ huì zài běijīng jǔxíng. | 这 ini · 次 kali · 电影 film · 艺术 seni · 节 bagian · 也许 mungkin · 会 bisa · 在 di
+hsk4_06_22#1 | 历史就像一面镜子，其中有许多值得我们学习的经验和方法。 | Lìshǐ jiù xiàng yī miàn jìngzi, qízhōng yǒu xǔduō zhídé wǒmen xuéxí de jīngyàn hé fāngfǎ. | 历史 Sejarah · 就 langsung · 像 Seperti · 一 satu · 镜子 cermin · 其中 di antaranya · 有 ada · 许多 banyak
+hsk4_06_23#1 | 这本小说的作者非常有名。 | Zhè běn xiǎoshuō de zuòzhě fēicháng yǒumíng. | 这 ini · 本 · 小说 novel · 作者 penulis · 非常 sangat · 有名 Terkenal
+hsk4_06_23#2 | 那本小说的作者很有名。 | Nà běn xiǎoshuō de zuòzhě hěn yǒumíng. | 那 itu · 本 · 小说 novel · 作者 penulis · 很 sangat · 有名 Terkenal
+hsk4_06_25#1 | 篮球需要所有球员的共同努力。 | Lán qiú xūyào suǒyǒu qiú yuán de gòngtóng nǔlì. | 需要 Membutuhkan · 所有 semua · 共同 Bersama-sama · 努力 Berusaha Keras
+hsk4_06_25#2 | 这个消息让所有人都大吃一惊。 | Zhè gè xiāoxi ràng suǒyǒu rén dōu dà chī yī jīng. | 这 ini · 个 kata satuan umum · 消息 Berita · 让 membiarkan · 所有 semua · 人 orang · 都 semua · 大 besar
+hsk4_06_26#1 | 每个人都希望获得别人的尊重。 | Měi gèrén dōu xīwàng huòdé biérén de zūnzhòng. | 每 setiap · 个人 individu · 都 semua · 希望 berharap · 获得 memperoleh · 别人 Orang lain · 尊重 menghormati
+hsk4_06_26#2 | 要获得别人的尊重，必须先尊重别人。 | Yào huòdé biérén de zūnzhòng, bìxū xiān zūnzhòng biérén. | 要 mau · 获得 memperoleh · 别人 Orang lain · 尊重 menghormati · 必须 Harus · 先 Pertama
+hsk4_06_27#1 | 经理看到这种情况后要求马上打扫。 | Jīnglǐ kàn dào zhè zhǒng qíngkuàng hòu yāoqiú mǎshàng dǎsǎo. | 经理 Manajer · 看 melihat · 到 sampai · 这 ini · 种 Tipe · 情况 situasi · 要求 Persyaratan · 马上 Segera
+hsk4_06_27#2 | 他熟悉当地民族情况。 | Tā shúxī dāngdì mínzú qíngkuàng. | 他 dia · 熟悉 Mengenal · 当地 lokal · 民族 suku · 情况 situasi
+hsk4_06_28#1 | 例如一个人梦到很多水，说明他将会有很大一笔收入。 | Lìrú yī gèrén mèng dào hěn duō shuǐ, shuōmíng tā jiāng huì yǒu hěn dà yī bǐ shōurù. | 例如 contohnya · 一 satu · 个人 individu · 梦 mimpi · 到 sampai · 很 sangat · 多 banyak · 水 air
+hsk4_06_28#2 | 例如多交朋友，多与别人交流，多参加一些活动等等。 | Lìrú duō jiāo péngyou, duō yǔ biérén jiāoliú, duō cānjiā yī xiē huódòng děng děng. | 例如 contohnya · 多 banyak · 交 Berteman · 朋友 teman · 与 Dengan · 别人 Orang lain · 交流 Bertukar pikiran · 参加 Berpartisipasi
+hsk4_06_29#1 | 他们还经常举办一些聚会，邀请的都是在这里打球的人。 | Tā men hái jīngcháng jǔbàn yī xiē jùhuì, yāoqǐng de dōu shì zài zhè lǐ dǎ qiú de rén. | 他 dia · 还 masih · 经常 Sering · 举办 menyelenggarakan · 一 satu · 些 beberapa · 聚会 Berkumpul · 邀请 mengundang
+hsk4_06_30#1 | 大城市和小城市各有各的好处。 | Dà chéngshì hé xiǎo chéngshì gè yǒu gè de hǎochù. | 大 besar · 城市 Kota · 和 dan · 小 kecil · 各 berbagai · 有 ada · 好处 manfaat
+hsk4_06_30#2 | 这个公司专门制造各种各样的筷子。 | Zhè gè gōngsī zhuānmén zhìzào gè zhǒng gè yàng de kuàizi. | 这 ini · 个 kata satuan umum · 公司 perusahaan · 专门 khusus · 制造 memproduksi · 各 berbagai · 种 Tipe · 筷子 Sumpit
+hsk4_06_31#1 | 这样做可以减少塑料袋的使用数量，降低白色垃圾带来的污染。 | Zhè yàng zuò kěyǐ jiǎnshǎo sùliàodài de shǐyòng shùliàng, jiàngdī bái sè lā jī dài lái de wūrǎn. | 这样做 melakukan hal ini/dengan cara ini · 可以 dapat · 减少 mengurangi · 塑料袋 kantong plastik · 的 partikel penghubung · 使用数量 jumlah penggunaan · 降低 menurunkan/mengurangi · 白色垃圾 sampah plastik/sampah putih · 带来的 yang ditimbulkan oleh · 污染 pencemaran; keseluruhan makna: Dengan cara ini, penggunaan kantong plastik dan pencemaran yang ditimbulkan sampah plastik dapat dikurangi.
+hsk4_07_02#1 | 他准备了一条白毛巾擦汗。 | Tā zhǔnbèi le yī tiáo bái máojīn cā hàn. | 他 dia · 准备 bersiap · 一 satu · 条 Kata satuan untuk celana · 白 putih · 毛巾 handuk · 擦 mengusap · 汗 keringat
